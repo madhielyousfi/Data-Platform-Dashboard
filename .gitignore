@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+*.db
+*.sqlite
+*.log
+data-platform/data/
+warehouse/
+!.gitkeep
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo

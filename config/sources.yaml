@@ -1,0 +1,105 @@
+database:
+  type: sqlite
+  path: data-platform/warehouse/datawarehouse.db
+
+storage:
+  base_path: data-platform/data
+  zones:
+    raw: data-platform/data/raw
+    staging: data-platform/data/staging
+    gold: data-platform/data/gold
+
+sources:
+  - name: superstore
+    type: csv
+    file: superstore.csv
+    description: Superstore sales data
+    schema:
+      columns:
+        - name: Order_ID
+          type: string
+          nullable: false
+        - name: Order_Date
+          type: date
+          nullable: false
+        - name: Ship_Date
+          type: date
+          nullable: true
+        - name: Ship_Mode
+          type: string
+        - name: Customer_ID
+          type: string
+        - name: Customer_Name
+          type: string
+        - name: Segment
+          type: string
+        - name: Country
+          type: string
+        - name: City
+          type: string
+        - name: State
+          type: string
+        - name: Postal_Code
+          type: string
+        - name: Region
+          type: string
+        - name: Product_ID
+          type: string
+        - name: Category
+          type: string
+        - name: Sub_Category
+          type: string
+        - name: Product_Name
+          type: string
+        - name: Sales
+          type: float
+        - name: Quantity
+          type: integer
+        - name: Discount
+          type: float
+        - name: Profit
+          type: float
+
+targets:
+  fact_tables:
+    - name: fact_sales
+      primary_key: sale_id
+      columns:
+        - sale_id
+        - order_id
+        - order_date
+        - ship_date
+        - ship_mode
+        - customer_id
+        - product_id
+        - quantity
+        - sales
+        - discount
+        - profit
+        - loaded_at
+
+  dimension_tables:
+    - name: dim_customers
+      primary_key: customer_id
+      columns:
+        - customer_id
+        - customer_name
+        - segment
+        - country
+        - city
+        - state
+        - postal_code
+        - region
+
+    - name: dim_products
+      primary_key: product_id
+      columns:
+        - product_id
+        - product_name
+        - category
+        - sub_category
+
+pipeline:
+  schedule: "0 6 * * *"  # Daily at 6 AM
+  retry: 3
+  retry_delay_minutes: 5

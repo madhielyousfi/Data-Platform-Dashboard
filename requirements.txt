@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+"""
+Requirements - using only Python stdlib
+"""
+import sys
+print("Python stdlib only - no pip install needed")
+print(f"Python version: {sys.version}")
