@@ -1,6 +1,6 @@
 #!/bin/bash
 # Start the Dashboard Web Server
-cd "/home/dados/Documents/Data Platform"
+cd "/home/twarga/data_platform/Data-Platform-Dashboard-dados"
 
 echo "Starting Data Platform Dashboard..."
 echo "URL: http://localhost:8888"

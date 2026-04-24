@@ -34,24 +34,24 @@ with DAG(
     with TaskGroup("ingestion") as ingestion_group:
         extract_raw = BashOperator(
             task_id="extract_raw",
-            bash_command="cd /home/dados/Documents/Data Platform && python3 ingestion/load_raw.py",
+            bash_command="cd /home/twarga/data_platform/Data-Platform-Dashboard-dados && python3 ingestion/load_raw.py",
         )
 
     with TaskGroup("processing") as processing_group:
         transform_bronze_silver = BashOperator(
             task_id="transform_bronze_silver",
-            bash_command="cd /home/dados/Documents/Data Platform && python3 processing/clean.py",
+            bash_command="cd /home/twarga/data_platform/Data-Platform-Dashboard-dados && python3 processing/clean.py",
         )
 
         transform_silver_gold = BashOperator(
             task_id="transform_silver_gold",
-            bash_command="cd /home/dados/Documents/Data Platform && python3 processing/aggregate.py",
+            bash_command="cd /home/twarga/data_platform/Data-Platform-Dashboard-dados && python3 processing/aggregate.py",
         )
 
     with TaskGroup("warehouse") as warehouse_group:
         load_warehouse = BashOperator(
             task_id="load_warehouse",
-            bash_command="cd /home/dados/Documents/Data Platform && python3 warehouse/load_warehouse.py",
+            bash_command="cd /home/twarga/data_platform/Data-Platform-Dashboard-dados && python3 warehouse/load_warehouse.py",
         )
 
     end = BashOperator(
