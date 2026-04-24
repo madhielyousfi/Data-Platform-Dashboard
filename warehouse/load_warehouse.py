@@ -9,7 +9,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-BASE_PATH = Path("/home/dados/Documents/Data Platform")
+BASE_PATH = Path("/home/twarga/data_platform/Data-Platform-Dashboard-dados")
 
 
 def get_db_connection():

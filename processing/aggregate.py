@@ -9,7 +9,7 @@ from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 
-BASE_PATH = Path("data-platform")
+BASE_PATH = Path("/home/twarga/data_platform/Data-Platform-Dashboard-dados/data-platform")
 
 
 def load_silver(name):
