@@ -21,11 +21,10 @@ def run_step(name, cmd):
 
 
 def main():
-    base = Path("data-platform")
-    scripts = base / "scripts"
-    scripts.mkdir(exist_ok=True)
+    base = Path("/home/twarga/data_platform/Data-Platform-Dashboard-dados/data-platform")
+    base.mkdir(exist_ok=True)
     
-    workdir = "/home/dados/Documents/Data Platform"
+    workdir = "/home/twarga/data_platform/Data-Platform-Dashboard-dados"
     
     print(f"[PIPELINE] Starting ETL pipeline at {datetime.now()}")
     print(f"[PIPELINE] Working directory: {workdir}")

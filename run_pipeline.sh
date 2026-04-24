@@ -4,8 +4,10 @@
 
 set -e
 
-WORKDIR="/home/dados/Documents/Data Platform"
-cd "$WORKDIR"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR"
+
+WORKDIR="$SCRIPT_DIR"
 
 echo "========================================"
 echo "[PIPELINE] Starting ETL Pipeline"

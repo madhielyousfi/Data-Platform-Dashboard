@@ -4,7 +4,8 @@
 
 set -e
 
-cd "/home/dados/Documents/Data Platform"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR"
 
 echo "=========================================="
 echo "Data Platform - Starting..."

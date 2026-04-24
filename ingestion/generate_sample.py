@@ -7,7 +7,7 @@ import random
 from datetime import datetime, timedelta
 from pathlib import Path
 
-OUTPUT_PATH = "data-platform/data/raw/superstore.csv"
+OUTPUT_PATH = "/home/twarga/data_platform/Data-Platform-Dashboard-dados/data-platform/data/raw/superstore.csv"
 
 CATEGORIES = ["Furniture", "Office Supplies", "Technology"]
 SUB_CATEGORIES = {
