@@ -1,20 +1,20 @@
 [
   {
     "category": "Office Supplies",
-    "total_sales": 390893.71,
-    "total_profit": 97959.46,
-    "total_quantity": 1841
+    "total_sales": 443463.74,
+    "total_profit": 112498.8,
+    "total_quantity": 2015
   },
   {
     "category": "Technology",
-    "total_sales": 371383.88,
-    "total_profit": 92828.48,
-    "total_quantity": 1822
+    "total_sales": 416193.98,
+    "total_profit": 106273.09,
+    "total_quantity": 1945
   },
   {
     "category": "Furniture",
-    "total_sales": 359007.64,
-    "total_profit": 94735.93,
-    "total_quantity": 1654
+    "total_sales": 404163.89,
+    "total_profit": 102409.5,
+    "total_quantity": 1804
   }
 ]

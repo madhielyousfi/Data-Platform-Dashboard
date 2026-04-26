@@ -1,102 +1,102 @@
 [
   {
-    "product_id": "PROD-0030",
-    "product_name": "3-Ring Binder",
+    "product_id": "PROD-0049",
+    "product_name": "5-Ring Binder",
     "category": "Office Supplies",
     "sub_category": "Binders",
-    "total_sales": 20628.4,
-    "total_profit": 5730.1,
-    "total_quantity": 76,
+    "total_sales": 23441.21,
+    "total_profit": 5907.46,
+    "total_quantity": 81,
     "rank": 1
   },
   {
-    "product_id": "PROD-0078",
-    "product_name": "Mouse",
+    "product_id": "PROD-0085",
+    "product_name": "Keyboard",
     "category": "Technology",
     "sub_category": "Accessories",
-    "total_sales": 20402.59,
-    "total_profit": 4847.55,
-    "total_quantity": 67,
+    "total_sales": 22574.86,
+    "total_profit": 4502.75,
+    "total_quantity": 110,
     "rank": 2
   },
   {
-    "product_id": "PROD-0083",
-    "product_name": "Office Phone",
-    "category": "Technology",
-    "sub_category": "Phones",
-    "total_sales": 20393.84,
-    "total_profit": 5085.16,
-    "total_quantity": 94,
-    "rank": 3
-  },
-  {
-    "product_id": "PROD-0059",
-    "product_name": "Tablet",
-    "category": "Technology",
-    "sub_category": "Computers",
-    "total_sales": 19197.98,
-    "total_profit": 4628.32,
-    "total_quantity": 80,
-    "rank": 4
-  },
-  {
-    "product_id": "PROD-0099",
-    "product_name": "Ergonomic Chair",
-    "category": "Furniture",
-    "sub_category": "Chairs",
-    "total_sales": 19136.74,
-    "total_profit": 4354.31,
-    "total_quantity": 82,
-    "rank": 5
-  },
-  {
-    "product_id": "PROD-0055",
-    "product_name": "Ergonomic Chair",
-    "category": "Furniture",
-    "sub_category": "Chairs",
-    "total_sales": 19103.77,
-    "total_profit": 5785.21,
-    "total_quantity": 75,
-    "rank": 6
-  },
-  {
-    "product_id": "PROD-0082",
-    "product_name": "Product",
-    "category": "Furniture",
-    "sub_category": "Furnishings",
-    "total_sales": 18741.31,
-    "total_profit": 5358.97,
-    "total_quantity": 71,
-    "rank": 7
-  },
-  {
-    "product_id": "PROD-0039",
+    "product_id": "PROD-0061",
     "product_name": "File Box",
     "category": "Office Supplies",
     "sub_category": "Storage",
-    "total_sales": 17755.02,
-    "total_profit": 4750.29,
-    "total_quantity": 71,
-    "rank": 8
+    "total_sales": 22425.01,
+    "total_profit": 6154.14,
+    "total_quantity": 105,
+    "rank": 3
+  },
+  {
+    "product_id": "PROD-0033",
+    "product_name": "Shipping Labels",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "total_sales": 22092.55,
+    "total_profit": 5166.89,
+    "total_quantity": 97,
+    "rank": 4
+  },
+  {
+    "product_id": "PROD-0045",
+    "product_name": "File Box",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "total_sales": 21393.41,
+    "total_profit": 5529.57,
+    "total_quantity": 95,
+    "rank": 5
+  },
+  {
+    "product_id": "PROD-0039",
+    "product_name": "Product",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "total_sales": 21065.85,
+    "total_profit": 4294.12,
+    "total_quantity": 111,
+    "rank": 6
   },
   {
     "product_id": "PROD-0077",
-    "product_name": "Storage Bin",
+    "product_name": "Notebook",
     "category": "Office Supplies",
-    "sub_category": "Storage",
-    "total_sales": 17446.81,
-    "total_profit": 4569.98,
-    "total_quantity": 70,
+    "sub_category": "Paper",
+    "total_sales": 20990.05,
+    "total_profit": 5173.14,
+    "total_quantity": 76,
+    "rank": 7
+  },
+  {
+    "product_id": "PROD-0075",
+    "product_name": "Mobile Phone",
+    "category": "Technology",
+    "sub_category": "Phones",
+    "total_sales": 20796.25,
+    "total_profit": 5179.72,
+    "total_quantity": 77,
+    "rank": 8
+  },
+  {
+    "product_id": "PROD-0027",
+    "product_name": "Copier Machine",
+    "category": "Technology",
+    "sub_category": "Copiers",
+    "total_sales": 18952.49,
+    "total_profit": 5394.61,
+    "total_quantity": 57,
     "rank": 9
   },
   {
-    "product_id": "PROD-0007",
-    "product_name": "Executive Chair",
+    "product_id": "PROD-0038",
+    "product_name": "Standard Bookcase",
     "category": "Furniture",
-    "sub_category": "Chairs",
-    "total_sales": 16977.09,
-    "total_profit": 3857.4,
-    "total_quantity": 82,
+    "sub_category": "Bookcases",
+    "total_sales": 18939.19,
+    "total_profit": 4660.98,
+    "total_quantity": 84,
     "rank": 10
   }
 ]
