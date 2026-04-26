@@ -1,0 +1,19 @@
+# Data Platform - Dashboard Dockerfile
+FROM python:3.14-slim
+
+WORKDIR /app
+
+# Install dependencies
+RUN pip install --no-cache-dir pyyaml
+
+# Copy dashboard files
+COPY dashboard /app/dashboard
+COPY config /app/config
+COPY utils /app/utils
+COPY data /app/data
+
+# Expose port
+EXPOSE 8888
+
+# Run dashboard
+CMD ["python", "dashboard/server.py"]

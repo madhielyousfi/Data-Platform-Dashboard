@@ -1,0 +1,25 @@
+# Data Platform - Requirements
+# Install: pip install -r requirements.txt
+
+# Web Framework
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Data Processing
+pandas>=2.0.0
+pyyaml>=6.0
+pyarrow>=12.0.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Optional: Airflow (for orchestration)
+apache-airflow>=2.6.0
+
+# Optional: Great Expectations (for data quality)
+great-expectations>=0.15.0
