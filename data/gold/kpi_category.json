@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Technology",
+    "total_sales": 429022.86,
+    "total_profit": 110573.61,
+    "total_quantity": 1920
+  },
+  {
+    "category": "Furniture",
+    "total_sales": 408401.34,
+    "total_profit": 102118.23,
+    "total_quantity": 1830
+  },
+  {
+    "category": "Office Supplies",
+    "total_sales": 382187.77,
+    "total_profit": 100161.5,
+    "total_quantity": 1779
+  }
+]

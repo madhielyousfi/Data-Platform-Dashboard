@@ -1,0 +1,93 @@
+[
+  {
+    "year_month": "2023-01",
+    "total_sales": 105125.25,
+    "total_profit": 27993.17,
+    "total_quantity": 434,
+    "order_count": 87
+  },
+  {
+    "year_month": "2023-02",
+    "total_sales": 102168.98,
+    "total_profit": 24457.94,
+    "total_quantity": 496,
+    "order_count": 78
+  },
+  {
+    "year_month": "2023-03",
+    "total_sales": 89185.61,
+    "total_profit": 22472.59,
+    "total_quantity": 428,
+    "order_count": 81
+  },
+  {
+    "year_month": "2023-04",
+    "total_sales": 96954.9,
+    "total_profit": 25427.24,
+    "total_quantity": 456,
+    "order_count": 89
+  },
+  {
+    "year_month": "2023-05",
+    "total_sales": 95221.22,
+    "total_profit": 23540.78,
+    "total_quantity": 447,
+    "order_count": 75
+  },
+  {
+    "year_month": "2023-06",
+    "total_sales": 96782.32,
+    "total_profit": 26418.14,
+    "total_quantity": 457,
+    "order_count": 89
+  },
+  {
+    "year_month": "2023-07",
+    "total_sales": 135139.0,
+    "total_profit": 33559.76,
+    "total_quantity": 543,
+    "order_count": 96
+  },
+  {
+    "year_month": "2023-08",
+    "total_sales": 93873.09,
+    "total_profit": 23660.91,
+    "total_quantity": 453,
+    "order_count": 81
+  },
+  {
+    "year_month": "2023-09",
+    "total_sales": 110196.43,
+    "total_profit": 30211.13,
+    "total_quantity": 480,
+    "order_count": 81
+  },
+  {
+    "year_month": "2023-10",
+    "total_sales": 113396.83,
+    "total_profit": 26986.32,
+    "total_quantity": 524,
+    "order_count": 96
+  },
+  {
+    "year_month": "2023-11",
+    "total_sales": 89594.91,
+    "total_profit": 23249.15,
+    "total_quantity": 363,
+    "order_count": 72
+  },
+  {
+    "year_month": "2023-12",
+    "total_sales": 86919.09,
+    "total_profit": 23482.56,
+    "total_quantity": 435,
+    "order_count": 72
+  },
+  {
+    "year_month": "2024-01",
+    "total_sales": 5054.34,
+    "total_profit": 1393.65,
+    "total_quantity": 13,
+    "order_count": 3
+  }
+]

@@ -1,0 +1,1001 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+1,OR-000001,07/28/2023,07/31/2023,Second Class,CUST-0361,George Martinez,Consumer,United States,Chicago,California,90732,West,PROD-0036,Technology,Computers,Tablet,350.37,1,0.21,80.79
+2,OR-000002,09/03/2023,09/06/2023,Same Day,CUST-0001,Hannah Lee,Home Office,United States,New York,Texas,87420,Central,PROD-0050,Technology,Phones,Mobile Phone,804.69,3,0.29,316.4
+3,OR-000003,04/27/2023,04/29/2023,Second Class,CUST-0378,Bob Johnson,Consumer,United States,Chicago,Oregon,17363,West,PROD-0041,Technology,Accessories,Webcam,380.43,1,0.07,75.25
+4,OR-000004,04/27/2023,05/02/2023,First Class,CUST-0306,John Smith,Corporate,United States,Los Angeles,California,40298,West,PROD-0042,Furniture,Tables,Conference Table,290.68,4,0.12,74.85
+5,OR-000005,04/07/2023,04/09/2023,Standard Class,CUST-0127,Bob Johnson,Consumer,United States,New York,Massachusetts,49569,East,PROD-0009,Technology,Computers,Desktop,1662.7,9,0.13,237.84
+6,OR-000006,12/23/2023,12/25/2023,Standard Class,CUST-0280,Fiona Garcia,Corporate,United States,Los Angeles,Massachusetts,72091,East,PROD-0044,Technology,Computers,Desktop,184.14,3,0.07,20.16
+7,OR-000007,10/09/2023,10/11/2023,Same Day,CUST-0293,John Smith,Corporate,United States,Los Angeles,Illinois,52396,Central,PROD-0042,Furniture,Chairs,Conference Chair,1423.23,4,0.25,179.9
+8,OR-000008,07/16/2023,07/20/2023,Same Day,CUST-0342,Alice Brown,Corporate,United States,New York,Texas,18904,Central,PROD-0061,Furniture,Tables,Coffee Table,974.92,10,0.19,336.29
+9,OR-000009,08/07/2023,08/12/2023,Standard Class,CUST-0249,Alice Brown,Home Office,United States,Los Angeles,Oregon,85287,West,PROD-0068,Technology,Accessories,Webcam,984.17,3,0.07,309.17
+10,OR-000010,01/11/2023,01/13/2023,Standard Class,CUST-0162,Diana Miller,Consumer,United States,Los Angeles,Illinois,27329,Central,PROD-0001,Office Supplies,Storage,File Box,792.11,3,0.25,291.43
+11,OR-000011,09/09/2023,09/14/2023,Second Class,CUST-0408,Diana Miller,Corporate,United States,Houston,Massachusetts,15938,East,PROD-0097,Furniture,Tables,Coffee Table,1739.53,8,0.26,659.49
+12,OR-000012,09/03/2023,09/10/2023,Standard Class,CUST-0217,Diana Miller,Corporate,United States,Chicago,Florida,20428,South,PROD-0082,Furniture,Furnishings,Product,218.08,1,0.01,81.06
+13,OR-000013,03/31/2023,04/04/2023,Same Day,CUST-0083,John Smith,Corporate,United States,Houston,Illinois,79016,Central,PROD-0093,Office Supplies,Labels,Shipping Labels,244.84,1,0.3,78.18
+14,OR-000014,01/07/2023,01/14/2023,Standard Class,CUST-0016,Hannah Lee,Home Office,United States,Houston,Ohio,53492,Central,PROD-0082,Office Supplies,Paper,Sticky Notes,323.42,2,0.07,74.75
+15,OR-000015,03/03/2023,03/06/2023,Same Day,CUST-0182,Bob Johnson,Consumer,United States,Los Angeles,Massachusetts,60065,East,PROD-0001,Technology,Accessories,Webcam,2048.34,8,0.22,796.47
+16,OR-000016,08/17/2023,08/23/2023,First Class,CUST-0194,George Martinez,Consumer,United States,Houston,Georgia,30455,South,PROD-0016,Office Supplies,Binders,3-Ring Binder,1560.92,6,0.22,323.68
+17,OR-000017,08/09/2023,08/16/2023,Standard Class,CUST-0151,Charlie Wilson,Home Office,United States,New York,Pennsylvania,97137,East,PROD-0085,Furniture,Tables,Coffee Table,1283.18,6,0.07,306.77
+18,OR-000018,08/17/2023,08/22/2023,Second Class,CUST-0144,Alice Brown,Corporate,United States,Houston,Massachusetts,27974,East,PROD-0077,Office Supplies,Binders,3-Ring Binder,81.6,4,0.11,30.23
+19,OR-000019,06/05/2023,06/12/2023,First Class,CUST-0194,Edward Davis,Home Office,United States,New York,Georgia,19477,South,PROD-0033,Technology,Accessories,Keyboard,1951.34,7,0.23,766.03
+20,OR-000020,09/13/2023,09/15/2023,Same Day,CUST-0165,Diana Miller,Home Office,United States,Chicago,Pennsylvania,65113,East,PROD-0091,Technology,Computers,Tablet,1704.99,9,0.02,603.18
+21,OR-000021,05/30/2023,06/03/2023,First Class,CUST-0388,Charlie Wilson,Home Office,United States,Houston,Oregon,26013,West,PROD-0012,Office Supplies,Labels,Shipping Labels,608.81,2,0.19,234.32
+22,OR-000022,04/16/2023,04/21/2023,Second Class,CUST-0343,Jane Doe,Consumer,United States,Houston,Florida,93286,South,PROD-0076,Technology,Accessories,Webcam,2205.32,7,0.23,855.5
+23,OR-000023,06/15/2023,06/20/2023,Standard Class,CUST-0232,Alice Brown,Consumer,United States,Chicago,Oregon,32114,West,PROD-0088,Furniture,Bookcases,Standard Bookcase,94.19,2,0.09,35.69
+24,OR-000024,10/26/2023,10/28/2023,Same Day,CUST-0360,Hannah Lee,Corporate,United States,Houston,Washington,48076,West,PROD-0019,Office Supplies,Storage,File Box,900.19,3,0.09,170.07
+25,OR-000025,08/02/2023,08/06/2023,Second Class,CUST-0428,Charlie Wilson,Corporate,United States,New York,California,57547,West,PROD-0086,Office Supplies,Paper,Copy Paper,402.34,3,0.19,62.86
+26,OR-000026,01/27/2023,01/28/2023,Standard Class,CUST-0495,George Martinez,Corporate,United States,Los Angeles,California,48423,West,PROD-0073,Office Supplies,Labels,Shipping Labels,39.07,1,0.26,10.24
+27,OR-000027,04/19/2023,04/23/2023,Second Class,CUST-0462,Fiona Garcia,Home Office,United States,New York,Pennsylvania,99307,East,PROD-0014,Office Supplies,Labels,Shipping Labels,400.83,8,0.01,122.53
+28,OR-000028,08/02/2023,08/09/2023,Standard Class,CUST-0086,George Martinez,Consumer,United States,Los Angeles,Oregon,63253,West,PROD-0061,Technology,Phones,Office Phone,432.86,4,0.18,137.8
+29,OR-000029,04/02/2023,04/09/2023,Standard Class,CUST-0094,George Martinez,Corporate,United States,Chicago,Massachusetts,44497,East,PROD-0020,Technology,Copiers,Copier Machine,3792.26,9,0.15,834.69
+30,OR-000030,06/28/2023,07/02/2023,First Class,CUST-0147,Hannah Lee,Consumer,United States,Los Angeles,Texas,33725,Central,PROD-0044,Office Supplies,Storage,Storage Bin,589.36,4,0.23,77.61
+31,OR-000031,08/28/2023,09/04/2023,Same Day,CUST-0092,Jane Doe,Consumer,United States,Chicago,Georgia,78880,South,PROD-0048,Furniture,Bookcases,Corner Bookcase,128.75,2,0.1,48.13
+32,OR-000032,11/01/2023,11/05/2023,Standard Class,CUST-0113,Alice Brown,Home Office,United States,New York,New York,76815,East,PROD-0055,Furniture,Bookcases,Standard Bookcase,1533.63,6,0.06,233.12
+33,OR-000033,07/31/2023,08/03/2023,Same Day,CUST-0121,Fiona Garcia,Consumer,United States,Los Angeles,Georgia,68261,South,PROD-0049,Furniture,Tables,Conference Table,1704.9,5,0.0,248.68
+34,OR-000034,04/26/2023,04/30/2023,Same Day,CUST-0049,Hannah Lee,Corporate,United States,Los Angeles,Oregon,38319,West,PROD-0073,Furniture,Chairs,Ergonomic Chair,224.15,1,0.17,28.45
+35,OR-000035,07/22/2023,07/25/2023,First Class,CUST-0316,Bob Johnson,Consumer,United States,Los Angeles,Massachusetts,51941,East,PROD-0087,Furniture,Chairs,Executive Chair,2710.04,7,0.02,1038.91
+36,OR-000036,12/05/2023,12/11/2023,First Class,CUST-0337,Bob Johnson,Corporate,United States,Chicago,Pennsylvania,10466,East,PROD-0007,Office Supplies,Paper,Sticky Notes,422.67,3,0.24,117.32
+37,OR-000037,01/27/2023,02/01/2023,Standard Class,CUST-0307,Charlie Wilson,Home Office,United States,Houston,Georgia,46976,South,PROD-0013,Furniture,Chairs,Conference Chair,270.76,3,0.12,95.45
+38,OR-000038,03/22/2023,03/23/2023,Same Day,CUST-0239,Bob Johnson,Home Office,United States,Los Angeles,Ohio,72567,Central,PROD-0029,Office Supplies,Paper,Sticky Notes,1132.79,4,0.16,431.67
+39,OR-000039,03/14/2023,03/15/2023,First Class,CUST-0176,Alice Brown,Corporate,United States,New York,Washington,46536,West,PROD-0097,Technology,Computers,Laptop,1006.7,6,0.2,351.03
+40,OR-000040,10/03/2023,10/09/2023,Standard Class,CUST-0151,John Smith,Corporate,United States,New York,Pennsylvania,95634,East,PROD-0076,Office Supplies,Labels,Shipping Labels,107.62,9,0.22,40.7
+41,OR-000041,07/15/2023,07/19/2023,Second Class,CUST-0266,Hannah Lee,Consumer,United States,New York,Massachusetts,86817,East,PROD-0065,Furniture,Chairs,Executive Chair,471.73,4,0.05,162.39
+42,OR-000042,05/30/2023,06/05/2023,Standard Class,CUST-0143,Edward Davis,Home Office,United States,Chicago,Illinois,35814,Central,PROD-0054,Office Supplies,Paper,Notebook,1105.2,5,0.25,143.92
+43,OR-000043,03/23/2023,03/30/2023,First Class,CUST-0351,Diana Miller,Consumer,United States,Houston,Illinois,53638,Central,PROD-0009,Office Supplies,Storage,File Box,2565.05,10,0.21,977.58
+44,OR-000044,05/08/2023,05/13/2023,Same Day,CUST-0268,Jane Doe,Corporate,United States,Los Angeles,Illinois,61055,Central,PROD-0001,Furniture,Tables,Coffee Table,3002.91,8,0.24,1060.56
+45,OR-000045,03/12/2023,03/19/2023,Second Class,CUST-0377,George Martinez,Consumer,United States,Chicago,Florida,95261,South,PROD-0081,Furniture,Bookcases,Standard Bookcase,638.44,7,0.07,170.19
+46,OR-000046,07/31/2023,08/05/2023,Second Class,CUST-0484,John Smith,Consumer,United States,Los Angeles,Georgia,78812,South,PROD-0025,Furniture,Furnishings,Product,460.74,2,0.25,156.62
+47,OR-000047,08/24/2023,08/30/2023,Second Class,CUST-0466,Diana Miller,Home Office,United States,New York,Pennsylvania,35384,East,PROD-0100,Technology,Copiers,Copier Machine,1566.55,7,0.25,182.85
+48,OR-000048,01/15/2023,01/19/2023,Same Day,CUST-0347,Jane Doe,Home Office,United States,New York,North Carolina,95196,South,PROD-0059,Office Supplies,Paper,Sticky Notes,326.03,1,0.08,80.92
+49,OR-000049,03/24/2023,03/26/2023,Standard Class,CUST-0065,Charlie Wilson,Home Office,United States,Houston,Oregon,40920,West,PROD-0017,Office Supplies,Binders,3-Ring Binder,145.74,1,0.22,25.64
+50,OR-000050,12/31/2023,01/03/2024,Standard Class,CUST-0144,Edward Davis,Home Office,United States,Los Angeles,Georgia,84355,South,PROD-0083,Technology,Copiers,Copier Machine,528.07,4,0.23,108.35
+51,OR-000051,12/21/2023,12/22/2023,Same Day,CUST-0136,Charlie Wilson,Corporate,United States,Houston,Florida,50978,South,PROD-0016,Furniture,Furnishings,Product,1732.14,9,0.21,447.52
+52,OR-000052,10/25/2023,10/31/2023,Standard Class,CUST-0050,Jane Doe,Corporate,United States,Los Angeles,Florida,57093,South,PROD-0067,Furniture,Furnishings,Product,849.19,6,0.22,213.03
+53,OR-000053,07/25/2023,07/27/2023,Second Class,CUST-0010,George Martinez,Consumer,United States,Los Angeles,Oregon,36927,West,PROD-0094,Furniture,Bookcases,Standard Bookcase,2007.29,7,0.24,773.5
+54,OR-000054,02/19/2023,02/21/2023,Standard Class,CUST-0494,Alice Brown,Consumer,United States,New York,Illinois,95022,Central,PROD-0032,Technology,Phones,Office Phone,345.14,6,0.16,51.17
+55,OR-000055,09/01/2023,09/07/2023,Second Class,CUST-0082,Diana Miller,Corporate,United States,Houston,New York,59717,East,PROD-0008,Furniture,Chairs,Ergonomic Chair,2089.08,8,0.1,595.69
+56,OR-000056,09/24/2023,09/26/2023,First Class,CUST-0347,Jane Doe,Consumer,United States,Chicago,Florida,72399,South,PROD-0040,Technology,Copiers,Copier Machine,725.15,2,0.22,261.63
+57,OR-000057,07/18/2023,07/23/2023,Same Day,CUST-0413,Diana Miller,Consumer,United States,Chicago,Texas,58668,Central,PROD-0026,Technology,Computers,Laptop,2827.31,9,0.22,864.37
+58,OR-000058,03/31/2023,04/03/2023,Second Class,CUST-0449,Diana Miller,Corporate,United States,Chicago,Washington,25061,West,PROD-0089,Technology,Phones,Office Phone,578.94,4,0.02,94.02
+59,OR-000059,07/30/2023,08/05/2023,First Class,CUST-0083,Charlie Wilson,Home Office,United States,Houston,Texas,79000,Central,PROD-0099,Furniture,Tables,Dining Table,1781.01,6,0.21,427.04
+60,OR-000060,10/23/2023,10/26/2023,First Class,CUST-0373,Bob Johnson,Corporate,United States,Chicago,Ohio,91513,Central,PROD-0002,Technology,Copiers,Copier Machine,1483.21,9,0.3,521.11
+61,OR-000061,08/22/2023,08/25/2023,Standard Class,CUST-0031,John Smith,Corporate,United States,Los Angeles,Georgia,45223,South,PROD-0068,Office Supplies,Binders,3-Ring Binder,171.38,4,0.18,50.57
+62,OR-000062,02/14/2023,02/21/2023,Same Day,CUST-0394,Alice Brown,Consumer,United States,Chicago,Massachusetts,99492,East,PROD-0085,Technology,Copiers,Copier Machine,811.15,8,0.23,168.88
+63,OR-000063,08/09/2023,08/12/2023,Standard Class,CUST-0041,Hannah Lee,Home Office,United States,Chicago,Massachusetts,92255,East,PROD-0041,Furniture,Furnishings,Product,2456.32,9,0.16,522.58
+64,OR-000064,11/28/2023,11/29/2023,Second Class,CUST-0179,Hannah Lee,Home Office,United States,Houston,Florida,85667,South,PROD-0067,Technology,Computers,Laptop,1258.79,4,0.02,340.13
+65,OR-000065,04/15/2023,04/16/2023,Second Class,CUST-0467,George Martinez,Consumer,United States,Los Angeles,Washington,66538,West,PROD-0006,Furniture,Tables,Conference Table,619.36,4,0.19,92.33
+66,OR-000066,09/13/2023,09/14/2023,Standard Class,CUST-0103,Bob Johnson,Corporate,United States,New York,Massachusetts,33569,East,PROD-0075,Furniture,Tables,Coffee Table,889.5,10,0.23,242.19
+67,OR-000067,04/01/2023,04/03/2023,First Class,CUST-0278,John Smith,Home Office,United States,New York,North Carolina,45164,South,PROD-0091,Office Supplies,Binders,3-Ring Binder,367.08,4,0.05,55.48
+68,OR-000068,03/25/2023,03/27/2023,Same Day,CUST-0280,Edward Davis,Corporate,United States,Chicago,North Carolina,54751,South,PROD-0056,Office Supplies,Labels,Shipping Labels,747.43,4,0.21,190.34
+69,OR-000069,10/30/2023,11/03/2023,Second Class,CUST-0445,Edward Davis,Consumer,United States,Chicago,Florida,62548,South,PROD-0036,Technology,Phones,Mobile Phone,1922.13,8,0.24,748.83
+70,OR-000070,11/22/2023,11/24/2023,First Class,CUST-0433,John Smith,Consumer,United States,New York,Illinois,12869,Central,PROD-0014,Office Supplies,Binders,3-Ring Binder,1269.0,4,0.07,312.4
+71,OR-000071,09/02/2023,09/07/2023,Second Class,CUST-0068,Fiona Garcia,Home Office,United States,Houston,North Carolina,24210,South,PROD-0053,Technology,Copiers,Copier Machine,1195.94,8,0.05,332.82
+72,OR-000072,07/17/2023,07/21/2023,Same Day,CUST-0062,Hannah Lee,Consumer,United States,New York,New York,59464,East,PROD-0043,Office Supplies,Paper,Notebook,134.64,4,0.28,35.85
+73,OR-000073,03/14/2023,03/18/2023,First Class,CUST-0256,Jane Doe,Consumer,United States,New York,North Carolina,56323,South,PROD-0058,Furniture,Bookcases,Standard Bookcase,170.82,2,0.1,21.74
+74,OR-000074,01/16/2023,01/22/2023,Same Day,CUST-0494,Alice Brown,Home Office,United States,New York,Texas,34578,Central,PROD-0015,Office Supplies,Labels,Shipping Labels,1410.71,5,0.24,319.2
+75,OR-000075,01/15/2023,01/20/2023,Same Day,CUST-0107,John Smith,Home Office,United States,Houston,Pennsylvania,99744,East,PROD-0067,Technology,Computers,Tablet,507.26,3,0.08,145.77
+76,OR-000076,08/26/2023,08/29/2023,Second Class,CUST-0157,Charlie Wilson,Consumer,United States,New York,California,57842,West,PROD-0022,Technology,Copiers,Copier Machine,384.47,1,0.15,147.92
+77,OR-000077,03/17/2023,03/23/2023,Same Day,CUST-0271,Fiona Garcia,Home Office,United States,New York,North Carolina,29797,South,PROD-0031,Furniture,Tables,Conference Table,1642.13,7,0.28,364.94
+78,OR-000078,11/28/2023,12/04/2023,Second Class,CUST-0396,Fiona Garcia,Corporate,United States,Los Angeles,Ohio,17429,Central,PROD-0058,Office Supplies,Labels,Shipping Labels,3131.14,9,0.28,986.34
+79,OR-000079,06/26/2023,06/28/2023,Standard Class,CUST-0046,Bob Johnson,Consumer,United States,New York,Oregon,91288,West,PROD-0039,Technology,Computers,Laptop,654.15,7,0.03,137.09
+80,OR-000080,09/12/2023,09/18/2023,Same Day,CUST-0145,Charlie Wilson,Consumer,United States,New York,Texas,43022,Central,PROD-0008,Technology,Computers,Tablet,2554.44,10,0.29,311.5
+81,OR-000081,03/31/2023,04/06/2023,Standard Class,CUST-0172,Charlie Wilson,Corporate,United States,New York,New York,12686,East,PROD-0026,Furniture,Bookcases,Standard Bookcase,1013.75,3,0.01,251.98
+82,OR-000082,09/20/2023,09/24/2023,Second Class,CUST-0053,Hannah Lee,Home Office,United States,Houston,Ohio,18794,Central,PROD-0050,Office Supplies,Paper,Sticky Notes,3119.25,7,0.05,579.5
+83,OR-000083,04/13/2023,04/17/2023,First Class,CUST-0333,Bob Johnson,Home Office,United States,Chicago,Florida,96805,South,PROD-0069,Office Supplies,Storage,Storage Bin,723.07,7,0.2,257.36
+84,OR-000084,01/09/2023,01/12/2023,Second Class,CUST-0161,Jane Doe,Consumer,United States,Chicago,North Carolina,74004,South,PROD-0078,Technology,Copiers,Copier Machine,1798.81,8,0.02,703.39
+85,OR-000085,11/17/2023,11/23/2023,Standard Class,CUST-0446,George Martinez,Consumer,United States,Houston,North Carolina,12707,South,PROD-0072,Technology,Accessories,Webcam,696.28,3,0.28,150.61
+86,OR-000086,07/05/2023,07/11/2023,Same Day,CUST-0162,Charlie Wilson,Consumer,United States,New York,Illinois,10311,Central,PROD-0003,Office Supplies,Paper,Notebook,1282.92,6,0.04,211.04
+87,OR-000087,10/19/2023,10/25/2023,Same Day,CUST-0196,Diana Miller,Home Office,United States,Houston,Massachusetts,89895,East,PROD-0073,Technology,Phones,Office Phone,799.45,2,0.19,237.56
+88,OR-000088,08/14/2023,08/15/2023,Same Day,CUST-0111,George Martinez,Corporate,United States,Chicago,Washington,25135,West,PROD-0060,Technology,Copiers,Copier Machine,1444.48,5,0.12,557.16
+89,OR-000089,04/19/2023,04/25/2023,Second Class,CUST-0125,Diana Miller,Consumer,United States,Houston,Oregon,63432,West,PROD-0008,Furniture,Tables,Coffee Table,977.7,6,0.28,378.6
+90,OR-000090,07/23/2023,07/24/2023,First Class,CUST-0305,Alice Brown,Corporate,United States,Chicago,Washington,71890,West,PROD-0097,Technology,Copiers,Copier Machine,446.19,2,0.25,106.71
+91,OR-000091,06/12/2023,06/15/2023,Second Class,CUST-0464,Fiona Garcia,Consumer,United States,Houston,Pennsylvania,12849,East,PROD-0051,Furniture,Tables,Conference Table,716.25,2,0.21,106.05
+92,OR-000092,01/14/2023,01/20/2023,Second Class,CUST-0436,Hannah Lee,Consumer,United States,Chicago,Florida,74528,South,PROD-0091,Technology,Copiers,Copier Machine,1215.65,4,0.09,307.82
+93,OR-000093,07/24/2023,07/27/2023,Same Day,CUST-0073,George Martinez,Corporate,United States,Chicago,Washington,33824,West,PROD-0009,Office Supplies,Labels,Address Labels,579.5,2,0.3,89.17
+94,OR-000094,09/27/2023,10/01/2023,Second Class,CUST-0243,Alice Brown,Consumer,United States,Chicago,Illinois,24868,Central,PROD-0003,Office Supplies,Labels,Shipping Labels,3644.27,9,0.05,1212.86
+95,OR-000095,10/10/2023,10/14/2023,First Class,CUST-0274,Bob Johnson,Home Office,United States,Chicago,New York,23583,East,PROD-0099,Furniture,Chairs,Executive Chair,2275.02,5,0.08,723.67
+96,OR-000096,10/06/2023,10/11/2023,Standard Class,CUST-0358,Fiona Garcia,Consumer,United States,Chicago,Illinois,63170,Central,PROD-0039,Technology,Phones,Mobile Phone,302.7,2,0.08,93.64
+97,OR-000097,02/18/2023,02/20/2023,Same Day,CUST-0314,Bob Johnson,Consumer,United States,Houston,Florida,79105,South,PROD-0021,Furniture,Tables,Dining Table,2114.1,8,0.29,581.21
+98,OR-000098,04/27/2023,04/30/2023,Standard Class,CUST-0393,Jane Doe,Home Office,United States,New York,Georgia,30169,South,PROD-0039,Technology,Phones,Office Phone,913.72,4,0.16,360.25
+99,OR-000099,07/18/2023,07/23/2023,Standard Class,CUST-0412,Hannah Lee,Consumer,United States,Houston,North Carolina,66756,South,PROD-0018,Furniture,Tables,Coffee Table,756.38,2,0.11,206.09
+100,OR-000100,08/05/2023,08/10/2023,First Class,CUST-0343,Diana Miller,Consumer,United States,Houston,Florida,93213,South,PROD-0019,Office Supplies,Labels,Shipping Labels,3814.78,10,0.19,1487.94
+101,OR-000101,01/17/2023,01/22/2023,First Class,CUST-0058,Alice Brown,Corporate,United States,Los Angeles,New York,64576,East,PROD-0094,Technology,Accessories,Webcam,355.07,1,0.04,118.41
+102,OR-000102,08/14/2023,08/19/2023,Second Class,CUST-0199,Fiona Garcia,Home Office,United States,Houston,New York,80625,East,PROD-0019,Technology,Copiers,Copier Machine,475.94,5,0.21,69.7
+103,OR-000103,10/26/2023,11/01/2023,First Class,CUST-0141,Diana Miller,Home Office,United States,Houston,Illinois,82158,Central,PROD-0008,Technology,Copiers,Copier Machine,3757.51,10,0.12,1077.79
+104,OR-000104,06/06/2023,06/07/2023,Second Class,CUST-0443,Jane Doe,Corporate,United States,Los Angeles,Ohio,13930,Central,PROD-0003,Technology,Phones,Mobile Phone,414.29,6,0.1,116.4
+105,OR-000105,01/23/2023,01/29/2023,Same Day,CUST-0215,Alice Brown,Corporate,United States,Houston,New York,99807,East,PROD-0083,Furniture,Tables,Coffee Table,1968.74,7,0.15,671.86
+106,OR-000106,02/15/2023,02/17/2023,Standard Class,CUST-0291,Diana Miller,Consumer,United States,Chicago,Massachusetts,95135,East,PROD-0051,Furniture,Tables,Coffee Table,575.77,7,0.28,225.46
+107,OR-000107,07/11/2023,07/12/2023,First Class,CUST-0396,Alice Brown,Corporate,United States,Houston,Georgia,41478,South,PROD-0049,Technology,Accessories,Webcam,2139.87,8,0.17,724.83
+108,OR-000108,10/27/2023,10/29/2023,Second Class,CUST-0121,Edward Davis,Home Office,United States,Houston,Massachusetts,11290,East,PROD-0063,Furniture,Furnishings,Product,1908.45,9,0.23,448.57
+109,OR-000109,06/03/2023,06/08/2023,Standard Class,CUST-0476,Fiona Garcia,Consumer,United States,Houston,Georgia,70280,South,PROD-0093,Furniture,Furnishings,Product,89.39,1,0.2,17.51
+110,OR-000110,10/05/2023,10/10/2023,Same Day,CUST-0339,Charlie Wilson,Corporate,United States,Chicago,Texas,36021,Central,PROD-0011,Technology,Copiers,Copier Machine,175.49,8,0.2,60.12
+111,OR-000111,11/28/2023,11/29/2023,Same Day,CUST-0456,Alice Brown,Consumer,United States,New York,Ohio,33135,Central,PROD-0033,Technology,Computers,Tablet,1040.61,4,0.22,178.92
+112,OR-000112,03/12/2023,03/13/2023,Second Class,CUST-0230,Alice Brown,Home Office,United States,Houston,Florida,47576,South,PROD-0038,Office Supplies,Binders,5-Ring Binder,1602.44,6,0.18,590.72
+113,OR-000113,08/02/2023,08/06/2023,Second Class,CUST-0467,John Smith,Consumer,United States,New York,California,43897,West,PROD-0037,Office Supplies,Binders,3-Ring Binder,165.94,1,0.27,49.51
+114,OR-000114,10/10/2023,10/14/2023,Same Day,CUST-0091,Hannah Lee,Corporate,United States,New York,Georgia,81079,South,PROD-0001,Technology,Phones,Mobile Phone,802.14,7,0.2,300.93
+115,OR-000115,06/07/2023,06/14/2023,Same Day,CUST-0373,Bob Johnson,Consumer,United States,Houston,Oregon,82467,West,PROD-0045,Furniture,Furnishings,Product,2354.18,8,0.24,406.09
+116,OR-000116,01/01/2024,01/05/2024,First Class,CUST-0391,Hannah Lee,Corporate,United States,New York,North Carolina,66201,South,PROD-0060,Office Supplies,Binders,3-Ring Binder,3857.7,10,0.16,1192.37
+117,OR-000117,02/18/2023,02/22/2023,First Class,CUST-0175,John Smith,Consumer,United States,Chicago,North Carolina,64284,South,PROD-0018,Furniture,Tables,Dining Table,2716.84,7,0.08,679.61
+118,OR-000118,09/09/2023,09/13/2023,First Class,CUST-0067,Charlie Wilson,Corporate,United States,Chicago,Ohio,29194,Central,PROD-0088,Office Supplies,Storage,Storage Bin,21.76,2,0.2,3.73
+119,OR-000119,11/05/2023,11/07/2023,Standard Class,CUST-0459,John Smith,Consumer,United States,Houston,Ohio,12151,Central,PROD-0008,Technology,Copiers,Copier Machine,309.17,1,0.28,105.44
+120,OR-000120,10/01/2023,10/02/2023,Second Class,CUST-0202,Alice Brown,Corporate,United States,Chicago,California,79996,West,PROD-0073,Technology,Accessories,Keyboard,1650.97,8,0.21,379.11
+121,OR-000121,01/24/2023,01/26/2023,Second Class,CUST-0399,Bob Johnson,Consumer,United States,Houston,California,70511,West,PROD-0074,Office Supplies,Paper,Notebook,2221.18,6,0.17,753.03
+122,OR-000122,06/21/2023,06/24/2023,Same Day,CUST-0096,John Smith,Home Office,United States,New York,California,90307,West,PROD-0010,Furniture,Furnishings,Product,1259.13,4,0.25,169.75
+123,OR-000123,11/22/2023,11/25/2023,Standard Class,CUST-0194,John Smith,Consumer,United States,Houston,Massachusetts,94559,East,PROD-0055,Office Supplies,Storage,Storage Bin,1838.1,8,0.11,695.59
+124,OR-000124,08/06/2023,08/08/2023,Second Class,CUST-0447,John Smith,Corporate,United States,Houston,New York,64141,East,PROD-0054,Technology,Phones,Mobile Phone,2531.22,8,0.14,429.46
+125,OR-000125,07/19/2023,07/22/2023,Second Class,CUST-0254,Charlie Wilson,Consumer,United States,New York,Massachusetts,65917,East,PROD-0001,Office Supplies,Labels,Shipping Labels,2875.2,8,0.0,496.93
+126,OR-000126,12/15/2023,12/18/2023,First Class,CUST-0406,Edward Davis,Consumer,United States,Chicago,Pennsylvania,48892,East,PROD-0018,Furniture,Chairs,Ergonomic Chair,1976.4,8,0.22,330.8
+127,OR-000127,08/15/2023,08/21/2023,Same Day,CUST-0129,Fiona Garcia,Home Office,United States,New York,Florida,83952,South,PROD-0032,Technology,Copiers,Copier Machine,131.13,1,0.18,18.27
+128,OR-000128,02/22/2023,02/25/2023,Second Class,CUST-0293,Edward Davis,Consumer,United States,Los Angeles,New York,54971,East,PROD-0074,Furniture,Tables,Coffee Table,1441.58,5,0.06,190.4
+129,OR-000129,02/26/2023,03/03/2023,Same Day,CUST-0425,Bob Johnson,Corporate,United States,Chicago,New York,11201,East,PROD-0086,Technology,Computers,Laptop,622.98,10,0.27,89.81
+130,OR-000130,12/23/2023,12/27/2023,Second Class,CUST-0187,Hannah Lee,Home Office,United States,Houston,Texas,30624,Central,PROD-0035,Technology,Accessories,Mouse,348.44,7,0.11,100.92
+131,OR-000131,03/23/2023,03/26/2023,Standard Class,CUST-0117,Jane Doe,Home Office,United States,Chicago,California,94972,West,PROD-0082,Furniture,Furnishings,Product,1857.36,5,0.09,479.23
+132,OR-000132,02/16/2023,02/17/2023,First Class,CUST-0216,Edward Davis,Home Office,United States,Los Angeles,Oregon,79930,West,PROD-0071,Office Supplies,Storage,File Box,395.57,6,0.13,96.48
+133,OR-000133,09/05/2023,09/08/2023,First Class,CUST-0116,Fiona Garcia,Home Office,United States,Los Angeles,Georgia,88968,South,PROD-0064,Technology,Copiers,Copier Machine,3336.41,8,0.03,764.05
+134,OR-000134,12/25/2023,01/01/2024,Same Day,CUST-0157,Diana Miller,Consumer,United States,New York,North Carolina,24020,South,PROD-0030,Technology,Copiers,Copier Machine,443.54,4,0.21,168.52
+135,OR-000135,03/17/2023,03/24/2023,Same Day,CUST-0030,Diana Miller,Consumer,United States,Chicago,Georgia,10928,South,PROD-0036,Technology,Computers,Laptop,1875.84,6,0.2,491.28
+136,OR-000136,03/28/2023,03/30/2023,First Class,CUST-0011,Alice Brown,Consumer,United States,Los Angeles,North Carolina,50730,South,PROD-0066,Furniture,Furnishings,Product,197.21,10,0.17,46.98
+137,OR-000137,02/05/2023,02/06/2023,Standard Class,CUST-0244,Bob Johnson,Home Office,United States,Chicago,Illinois,88972,Central,PROD-0072,Technology,Copiers,Copier Machine,483.38,9,0.24,138.74
+138,OR-000138,02/23/2023,02/25/2023,Second Class,CUST-0073,Jane Doe,Home Office,United States,Houston,Washington,20525,West,PROD-0015,Office Supplies,Labels,Address Labels,3692.71,9,0.1,1452.84
+139,OR-000139,06/02/2023,06/07/2023,Same Day,CUST-0390,Edward Davis,Corporate,United States,Houston,Oregon,66865,West,PROD-0073,Furniture,Chairs,Executive Chair,1255.3,6,0.01,196.09
+140,OR-000140,04/11/2023,04/14/2023,Second Class,CUST-0485,John Smith,Home Office,United States,Los Angeles,Texas,17826,Central,PROD-0054,Technology,Copiers,Copier Machine,2168.52,7,0.17,586.42
+141,OR-000141,08/15/2023,08/17/2023,First Class,CUST-0092,Charlie Wilson,Corporate,United States,Houston,Texas,12736,Central,PROD-0094,Technology,Accessories,Mouse,498.56,6,0.22,176.33
+142,OR-000142,10/17/2023,10/21/2023,First Class,CUST-0083,Bob Johnson,Corporate,United States,New York,California,62014,West,PROD-0035,Technology,Accessories,Webcam,250.0,1,0.23,31.79
+143,OR-000143,10/26/2023,10/29/2023,Second Class,CUST-0117,George Martinez,Consumer,United States,Los Angeles,New York,85361,East,PROD-0085,Furniture,Furnishings,Product,387.61,5,0.28,141.77
+144,OR-000144,08/03/2023,08/09/2023,Same Day,CUST-0119,Charlie Wilson,Consumer,United States,Houston,Ohio,39309,Central,PROD-0066,Technology,Accessories,Keyboard,1223.98,3,0.12,256.74
+145,OR-000145,09/27/2023,10/02/2023,First Class,CUST-0253,John Smith,Consumer,United States,Houston,California,31309,West,PROD-0004,Office Supplies,Storage,File Box,1090.28,6,0.3,206.67
+146,OR-000146,12/04/2023,12/06/2023,Standard Class,CUST-0168,George Martinez,Consumer,United States,Los Angeles,North Carolina,53922,South,PROD-0065,Office Supplies,Labels,Address Labels,1050.32,8,0.03,399.77
+147,OR-000147,10/03/2023,10/10/2023,Standard Class,CUST-0321,Alice Brown,Home Office,United States,Chicago,Georgia,49523,South,PROD-0014,Technology,Copiers,Copier Machine,192.07,3,0.06,47.68
+148,OR-000148,09/24/2023,09/27/2023,Same Day,CUST-0155,Charlie Wilson,Consumer,United States,Chicago,Ohio,17662,Central,PROD-0046,Technology,Phones,Mobile Phone,349.16,5,0.3,95.62
+149,OR-000149,11/26/2023,11/29/2023,Second Class,CUST-0371,Edward Davis,Home Office,United States,Chicago,Texas,43750,Central,PROD-0026,Office Supplies,Paper,Sticky Notes,189.28,6,0.08,50.51
+150,OR-000150,11/13/2023,11/15/2023,Standard Class,CUST-0056,George Martinez,Corporate,United States,New York,Texas,44166,Central,PROD-0097,Technology,Copiers,Copier Machine,262.08,4,0.09,45.11
+151,OR-000151,01/11/2023,01/18/2023,Second Class,CUST-0075,Jane Doe,Corporate,United States,Chicago,North Carolina,20631,South,PROD-0001,Furniture,Tables,Dining Table,322.7,4,0.3,110.12
+152,OR-000152,10/24/2023,10/28/2023,Same Day,CUST-0492,Jane Doe,Corporate,United States,Chicago,Ohio,83045,Central,PROD-0055,Furniture,Chairs,Executive Chair,3525.73,8,0.08,682.53
+153,OR-000153,05/24/2023,05/31/2023,Second Class,CUST-0306,Diana Miller,Consumer,United States,Houston,New York,96696,East,PROD-0044,Office Supplies,Storage,Storage Bin,1297.01,4,0.27,493.0
+154,OR-000154,04/20/2023,04/25/2023,Same Day,CUST-0424,Fiona Garcia,Consumer,United States,New York,Ohio,44540,Central,PROD-0008,Technology,Phones,Mobile Phone,3427.69,7,0.0,731.19
+155,OR-000155,09/06/2023,09/08/2023,Standard Class,CUST-0200,Edward Davis,Home Office,United States,New York,Illinois,17204,Central,PROD-0069,Technology,Copiers,Copier Machine,1488.28,5,0.08,502.4
+156,OR-000156,10/15/2023,10/22/2023,Standard Class,CUST-0205,Hannah Lee,Home Office,United States,Chicago,Florida,93443,South,PROD-0051,Office Supplies,Storage,Storage Bin,1326.06,3,0.03,139.82
+157,OR-000157,10/19/2023,10/23/2023,Standard Class,CUST-0481,Charlie Wilson,Home Office,United States,New York,New York,13980,East,PROD-0007,Office Supplies,Paper,Copy Paper,1697.12,10,0.14,660.95
+158,OR-000158,12/06/2023,12/09/2023,First Class,CUST-0060,Diana Miller,Consumer,United States,Houston,Georgia,26378,South,PROD-0054,Technology,Accessories,Mouse,684.49,7,0.16,185.84
+159,OR-000159,06/21/2023,06/23/2023,First Class,CUST-0039,George Martinez,Home Office,United States,Houston,Washington,97178,West,PROD-0078,Technology,Computers,Tablet,202.15,2,0.11,71.65
+160,OR-000160,02/07/2023,02/12/2023,Standard Class,CUST-0273,Bob Johnson,Corporate,United States,Chicago,California,55064,West,PROD-0012,Office Supplies,Paper,Copy Paper,254.64,4,0.05,64.05
+161,OR-000161,10/12/2023,10/14/2023,First Class,CUST-0151,Bob Johnson,Home Office,United States,Los Angeles,New York,63712,East,PROD-0030,Office Supplies,Storage,File Box,1875.43,6,0.19,607.56
+162,OR-000162,05/02/2023,05/03/2023,Same Day,CUST-0247,John Smith,Corporate,United States,New York,California,93873,West,PROD-0097,Technology,Computers,Laptop,867.64,4,0.19,245.29
+163,OR-000163,03/30/2023,04/02/2023,Standard Class,CUST-0241,Charlie Wilson,Consumer,United States,Los Angeles,Georgia,44242,South,PROD-0078,Technology,Copiers,Copier Machine,122.88,3,0.1,12.45
+164,OR-000164,06/10/2023,06/16/2023,Standard Class,CUST-0294,John Smith,Home Office,United States,Chicago,Oregon,14548,West,PROD-0041,Office Supplies,Labels,Shipping Labels,1501.6,4,0.1,404.83
+165,OR-000165,01/20/2023,01/26/2023,Standard Class,CUST-0050,Diana Miller,Corporate,United States,New York,Ohio,68503,Central,PROD-0022,Technology,Copiers,Copier Machine,1014.25,9,0.26,226.66
+166,OR-000166,08/24/2023,08/29/2023,First Class,CUST-0003,George Martinez,Home Office,United States,Houston,New York,10811,East,PROD-0041,Office Supplies,Storage,File Box,3585.7,10,0.04,1314.62
+167,OR-000167,07/07/2023,07/13/2023,Second Class,CUST-0251,Jane Doe,Corporate,United States,Los Angeles,Ohio,63772,Central,PROD-0024,Office Supplies,Paper,Notebook,589.83,7,0.28,86.54
+168,OR-000168,01/06/2023,01/09/2023,Same Day,CUST-0045,Edward Davis,Consumer,United States,Chicago,New York,61911,East,PROD-0007,Technology,Phones,Mobile Phone,1522.2,9,0.04,264.14
+169,OR-000169,01/25/2023,01/30/2023,Same Day,CUST-0435,George Martinez,Corporate,United States,Houston,Massachusetts,37096,East,PROD-0001,Furniture,Furnishings,Product,2318.29,6,0.21,694.22
+170,OR-000170,06/13/2023,06/19/2023,Standard Class,CUST-0017,Hannah Lee,Corporate,United States,New York,North Carolina,41674,South,PROD-0016,Office Supplies,Binders,5-Ring Binder,1325.18,5,0.17,368.97
+171,OR-000171,02/20/2023,02/23/2023,First Class,CUST-0252,Charlie Wilson,Corporate,United States,Houston,Illinois,80797,Central,PROD-0040,Furniture,Furnishings,Product,3325.11,9,0.11,1002.01
+172,OR-000172,04/19/2023,04/26/2023,Same Day,CUST-0499,Edward Davis,Home Office,United States,New York,Oregon,13742,West,PROD-0013,Technology,Copiers,Copier Machine,329.19,1,0.21,82.27
+173,OR-000173,10/21/2023,10/23/2023,Standard Class,CUST-0132,Bob Johnson,Home Office,United States,Los Angeles,Texas,61334,Central,PROD-0050,Furniture,Bookcases,Corner Bookcase,2743.22,10,0.07,461.38
+174,OR-000174,03/25/2023,03/30/2023,Second Class,CUST-0071,Hannah Lee,Home Office,United States,Los Angeles,Florida,76090,South,PROD-0075,Furniture,Furnishings,Product,1618.51,6,0.25,213.19
+175,OR-000175,04/21/2023,04/26/2023,First Class,CUST-0040,Jane Doe,Home Office,United States,Houston,Florida,46519,South,PROD-0090,Office Supplies,Paper,Copy Paper,1450.45,6,0.23,348.69
+176,OR-000176,07/01/2023,07/06/2023,Standard Class,CUST-0328,John Smith,Home Office,United States,Los Angeles,New York,16487,East,PROD-0072,Technology,Computers,Tablet,445.76,3,0.19,77.69
+177,OR-000177,11/15/2023,11/21/2023,First Class,CUST-0070,Fiona Garcia,Consumer,United States,Chicago,Ohio,88855,Central,PROD-0079,Technology,Accessories,Webcam,2620.68,8,0.22,615.16
+178,OR-000178,04/18/2023,04/25/2023,Standard Class,CUST-0212,Edward Davis,Consumer,United States,Chicago,Texas,76650,Central,PROD-0022,Technology,Accessories,Keyboard,1271.69,9,0.17,363.94
+179,OR-000179,12/31/2023,01/02/2024,Second Class,CUST-0337,Jane Doe,Corporate,United States,New York,Illinois,14845,Central,PROD-0031,Office Supplies,Labels,Shipping Labels,993.56,6,0.17,208.93
+180,OR-000180,05/17/2023,05/24/2023,Same Day,CUST-0445,Hannah Lee,Consumer,United States,Los Angeles,Pennsylvania,26590,East,PROD-0089,Furniture,Furnishings,Product,978.31,8,0.22,281.29
+181,OR-000181,07/15/2023,07/18/2023,Standard Class,CUST-0486,George Martinez,Home Office,United States,Los Angeles,New York,85297,East,PROD-0051,Technology,Accessories,Webcam,1858.48,6,0.13,701.32
+182,OR-000182,09/21/2023,09/26/2023,Same Day,CUST-0088,Bob Johnson,Corporate,United States,Houston,Oregon,25109,West,PROD-0035,Office Supplies,Paper,Notebook,1399.49,4,0.2,341.75
+183,OR-000183,09/30/2023,10/06/2023,First Class,CUST-0104,Jane Doe,Consumer,United States,Los Angeles,Illinois,79879,Central,PROD-0038,Furniture,Tables,Dining Table,3137.51,8,0.01,986.63
+184,OR-000184,11/29/2023,12/01/2023,Second Class,CUST-0284,Alice Brown,Consumer,United States,New York,New York,16587,East,PROD-0047,Furniture,Tables,Dining Table,226.06,7,0.26,46.81
+185,OR-000185,05/15/2023,05/17/2023,First Class,CUST-0162,Jane Doe,Home Office,United States,Los Angeles,Illinois,13079,Central,PROD-0026,Technology,Phones,Office Phone,2219.71,8,0.21,526.0
+186,OR-000186,12/15/2023,12/19/2023,First Class,CUST-0067,John Smith,Corporate,United States,Chicago,New York,59105,East,PROD-0032,Furniture,Furnishings,Product,1664.15,6,0.14,295.77
+187,OR-000187,07/09/2023,07/14/2023,Standard Class,CUST-0051,Diana Miller,Corporate,United States,New York,Pennsylvania,59408,East,PROD-0062,Technology,Copiers,Copier Machine,1537.09,8,0.21,252.42
+188,OR-000188,12/05/2023,12/09/2023,Same Day,CUST-0145,Alice Brown,Home Office,United States,New York,Pennsylvania,79151,East,PROD-0031,Technology,Copiers,Copier Machine,1471.22,8,0.28,389.02
+189,OR-000189,05/29/2023,05/31/2023,Second Class,CUST-0084,Jane Doe,Consumer,United States,Chicago,Massachusetts,40839,East,PROD-0015,Office Supplies,Storage,Storage Bin,1011.87,6,0.25,280.35
+190,OR-000190,09/10/2023,09/11/2023,Second Class,CUST-0162,Hannah Lee,Home Office,United States,New York,Washington,31353,West,PROD-0037,Furniture,Furnishings,Product,140.58,9,0.0,53.36
+191,OR-000191,10/27/2023,11/02/2023,Standard Class,CUST-0452,Charlie Wilson,Corporate,United States,Houston,Texas,41115,Central,PROD-0064,Office Supplies,Paper,Notebook,874.25,3,0.3,222.85
+192,OR-000192,04/20/2023,04/21/2023,Second Class,CUST-0338,Fiona Garcia,Consumer,United States,Los Angeles,Ohio,18139,Central,PROD-0023,Technology,Accessories,Mouse,809.5,5,0.17,305.6
+193,OR-000193,03/28/2023,03/31/2023,Same Day,CUST-0109,John Smith,Corporate,United States,Chicago,Illinois,66136,Central,PROD-0006,Furniture,Tables,Dining Table,2195.29,7,0.09,544.88
+194,OR-000194,03/30/2023,04/03/2023,First Class,CUST-0418,Edward Davis,Corporate,United States,Chicago,Washington,91177,West,PROD-0089,Office Supplies,Binders,5-Ring Binder,447.82,4,0.06,74.64
+195,OR-000195,01/14/2023,01/16/2023,First Class,CUST-0083,George Martinez,Consumer,United States,New York,Georgia,44008,South,PROD-0035,Furniture,Furnishings,Product,303.13,6,0.05,115.49
+196,OR-000196,08/31/2023,09/02/2023,First Class,CUST-0353,Hannah Lee,Corporate,United States,New York,Washington,50833,West,PROD-0019,Technology,Accessories,Keyboard,131.8,3,0.07,21.43
+197,OR-000197,10/07/2023,10/10/2023,Second Class,CUST-0471,Alice Brown,Home Office,United States,Houston,Texas,14000,Central,PROD-0030,Technology,Copiers,Copier Machine,712.53,4,0.14,116.15
+198,OR-000198,02/07/2023,02/14/2023,First Class,CUST-0376,George Martinez,Consumer,United States,New York,Ohio,25469,Central,PROD-0048,Technology,Computers,Laptop,3992.38,10,0.05,418.89
+199,OR-000199,06/27/2023,07/01/2023,Standard Class,CUST-0414,Diana Miller,Home Office,United States,Los Angeles,Texas,43357,Central,PROD-0091,Furniture,Tables,Conference Table,254.0,1,0.3,91.47
+200,OR-000200,10/29/2023,11/03/2023,Same Day,CUST-0267,Hannah Lee,Home Office,United States,New York,Washington,14611,West,PROD-0021,Office Supplies,Labels,Shipping Labels,1718.54,6,0.2,604.43
+201,OR-000201,10/19/2023,10/22/2023,Second Class,CUST-0348,Edward Davis,Home Office,United States,Los Angeles,Florida,13874,South,PROD-0092,Technology,Computers,Laptop,121.65,4,0.22,38.15
+202,OR-000202,09/04/2023,09/09/2023,Second Class,CUST-0332,Charlie Wilson,Consumer,United States,Los Angeles,Massachusetts,26237,East,PROD-0012,Technology,Accessories,Webcam,227.81,4,0.07,46.01
+203,OR-000203,05/10/2023,05/17/2023,Same Day,CUST-0345,Bob Johnson,Home Office,United States,Houston,Ohio,61546,Central,PROD-0027,Office Supplies,Storage,File Box,2272.81,10,0.03,333.85
+204,OR-000204,06/27/2023,07/04/2023,Second Class,CUST-0110,Fiona Garcia,Home Office,United States,New York,Oregon,65480,West,PROD-0097,Office Supplies,Labels,Shipping Labels,1969.61,6,0.11,478.56
+205,OR-000205,01/04/2023,01/08/2023,Same Day,CUST-0396,Jane Doe,Home Office,United States,New York,Georgia,16217,South,PROD-0077,Technology,Computers,Desktop,1943.55,8,0.2,531.01
+206,OR-000206,08/19/2023,08/26/2023,Same Day,CUST-0105,Charlie Wilson,Corporate,United States,Los Angeles,Texas,22054,Central,PROD-0028,Furniture,Chairs,Ergonomic Chair,261.78,7,0.11,49.13
+207,OR-000207,01/08/2023,01/13/2023,Standard Class,CUST-0245,John Smith,Consumer,United States,Houston,Illinois,75744,Central,PROD-0097,Furniture,Tables,Coffee Table,274.47,1,0.19,95.24
+208,OR-000208,10/26/2023,11/01/2023,First Class,CUST-0143,George Martinez,Home Office,United States,New York,Illinois,12221,Central,PROD-0094,Office Supplies,Paper,Copy Paper,1739.83,6,0.29,259.79
+209,OR-000209,09/12/2023,09/14/2023,First Class,CUST-0337,Bob Johnson,Home Office,United States,Los Angeles,Massachusetts,79795,East,PROD-0057,Technology,Computers,Laptop,88.77,2,0.25,29.6
+210,OR-000210,08/03/2023,08/06/2023,Standard Class,CUST-0145,Fiona Garcia,Consumer,United States,Houston,Oregon,98192,West,PROD-0077,Technology,Accessories,Keyboard,2032.57,10,0.23,593.55
+211,OR-000211,05/10/2023,05/14/2023,First Class,CUST-0071,Jane Doe,Home Office,United States,Los Angeles,Georgia,10201,South,PROD-0058,Furniture,Chairs,Executive Chair,978.94,3,0.1,186.38
+212,OR-000212,11/09/2023,11/11/2023,First Class,CUST-0405,Alice Brown,Corporate,United States,Chicago,New York,79236,East,PROD-0048,Office Supplies,Labels,Address Labels,1363.57,10,0.25,380.4
+213,OR-000213,11/23/2023,11/24/2023,First Class,CUST-0480,Jane Doe,Corporate,United States,Houston,New York,67540,East,PROD-0036,Technology,Phones,Mobile Phone,2247.67,6,0.04,458.91
+214,OR-000214,08/31/2023,09/04/2023,Same Day,CUST-0394,Charlie Wilson,Consumer,United States,Chicago,New York,29985,East,PROD-0034,Furniture,Furnishings,Product,2204.8,6,0.08,841.11
+215,OR-000215,12/07/2023,12/10/2023,First Class,CUST-0364,Charlie Wilson,Corporate,United States,Los Angeles,Oregon,43965,West,PROD-0003,Technology,Phones,Office Phone,603.54,2,0.18,109.6
+216,OR-000216,04/03/2023,04/09/2023,Second Class,CUST-0252,Hannah Lee,Corporate,United States,New York,Florida,99762,South,PROD-0012,Furniture,Tables,Dining Table,124.18,6,0.18,38.97
+217,OR-000217,01/01/2023,01/08/2023,Second Class,CUST-0430,George Martinez,Home Office,United States,New York,Oregon,44178,West,PROD-0028,Furniture,Tables,Coffee Table,703.32,7,0.18,233.03
+218,OR-000218,10/22/2023,10/26/2023,Same Day,CUST-0058,Diana Miller,Home Office,United States,Chicago,Georgia,34097,South,PROD-0085,Technology,Accessories,Webcam,88.07,2,0.26,19.73
+219,OR-000219,01/10/2023,01/17/2023,Same Day,CUST-0271,Fiona Garcia,Home Office,United States,Houston,Ohio,27513,Central,PROD-0068,Furniture,Furnishings,Product,1252.45,8,0.09,469.99
+220,OR-000220,02/10/2023,02/13/2023,Second Class,CUST-0044,Bob Johnson,Home Office,United States,Chicago,Massachusetts,58941,East,PROD-0087,Office Supplies,Storage,Storage Bin,746.78,5,0.28,98.3
+221,OR-000221,05/15/2023,05/19/2023,First Class,CUST-0363,Alice Brown,Home Office,United States,New York,New York,58739,East,PROD-0023,Technology,Accessories,Webcam,2633.89,8,0.23,816.13
+222,OR-000222,09/17/2023,09/21/2023,Second Class,CUST-0079,Hannah Lee,Home Office,United States,Los Angeles,Oregon,74753,West,PROD-0003,Technology,Copiers,Copier Machine,1369.89,9,0.15,259.2
+223,OR-000223,02/02/2023,02/06/2023,Same Day,CUST-0158,Diana Miller,Home Office,United States,Chicago,Washington,15846,West,PROD-0023,Office Supplies,Binders,3-Ring Binder,1060.09,10,0.01,239.95
+224,OR-000224,10/08/2023,10/12/2023,Standard Class,CUST-0341,Diana Miller,Corporate,United States,Houston,Georgia,28398,South,PROD-0082,Furniture,Tables,Coffee Table,198.83,2,0.24,54.16
+225,OR-000225,04/02/2023,04/05/2023,Second Class,CUST-0244,Jane Doe,Home Office,United States,Los Angeles,California,85444,West,PROD-0022,Office Supplies,Paper,Notebook,2384.58,10,0.11,547.44
+226,OR-000226,01/03/2023,01/08/2023,Second Class,CUST-0013,Jane Doe,Consumer,United States,Los Angeles,Oregon,87215,West,PROD-0032,Furniture,Furnishings,Product,3122.33,8,0.21,924.87
+227,OR-000227,07/05/2023,07/09/2023,Second Class,CUST-0352,Edward Davis,Corporate,United States,Los Angeles,Massachusetts,34801,East,PROD-0058,Technology,Copiers,Copier Machine,242.0,7,0.18,43.51
+228,OR-000228,03/12/2023,03/13/2023,Standard Class,CUST-0398,Bob Johnson,Home Office,United States,Chicago,Florida,65648,South,PROD-0009,Office Supplies,Labels,Shipping Labels,2657.45,6,0.11,597.95
+229,OR-000229,08/04/2023,08/09/2023,First Class,CUST-0478,Edward Davis,Consumer,United States,New York,Georgia,61020,South,PROD-0030,Furniture,Chairs,Executive Chair,209.19,10,0.21,66.19
+230,OR-000230,04/14/2023,04/19/2023,Standard Class,CUST-0049,Fiona Garcia,Corporate,United States,Houston,California,11178,West,PROD-0078,Technology,Computers,Desktop,892.21,6,0.03,311.67
+231,OR-000231,09/22/2023,09/27/2023,Standard Class,CUST-0283,Alice Brown,Consumer,United States,New York,New York,81288,East,PROD-0061,Technology,Phones,Mobile Phone,634.39,3,0.15,137.03
+232,OR-000232,09/03/2023,09/04/2023,Second Class,CUST-0034,Bob Johnson,Consumer,United States,New York,Massachusetts,87506,East,PROD-0049,Furniture,Tables,Dining Table,1006.85,4,0.04,192.65
+233,OR-000233,02/04/2023,02/09/2023,First Class,CUST-0069,Alice Brown,Home Office,United States,Houston,Pennsylvania,46427,East,PROD-0089,Office Supplies,Storage,File Box,1917.5,9,0.2,312.55
+234,OR-000234,03/18/2023,03/20/2023,First Class,CUST-0125,Jane Doe,Corporate,United States,Houston,Massachusetts,93285,East,PROD-0056,Office Supplies,Binders,5-Ring Binder,115.38,1,0.01,40.27
+235,OR-000235,06/05/2023,06/06/2023,Same Day,CUST-0077,Edward Davis,Home Office,United States,Houston,New York,23132,East,PROD-0069,Office Supplies,Storage,File Box,1019.41,6,0.17,173.55
+236,OR-000236,04/19/2023,04/23/2023,Same Day,CUST-0434,John Smith,Consumer,United States,New York,Illinois,31774,Central,PROD-0032,Furniture,Bookcases,Standard Bookcase,20.67,1,0.24,5.69
+237,OR-000237,04/06/2023,04/10/2023,Same Day,CUST-0362,Hannah Lee,Consumer,United States,New York,Massachusetts,30671,East,PROD-0094,Office Supplies,Paper,Notebook,167.23,10,0.03,26.12
+238,OR-000238,12/22/2023,12/25/2023,Standard Class,CUST-0138,Jane Doe,Consumer,United States,Chicago,Florida,72757,South,PROD-0098,Office Supplies,Binders,3-Ring Binder,1699.63,10,0.11,453.35
+239,OR-000239,10/25/2023,11/01/2023,Same Day,CUST-0302,John Smith,Consumer,United States,Chicago,Texas,86914,Central,PROD-0100,Furniture,Chairs,Executive Chair,978.44,6,0.01,270.54
+240,OR-000240,04/29/2023,05/04/2023,First Class,CUST-0236,Charlie Wilson,Home Office,United States,New York,Oregon,54119,West,PROD-0061,Technology,Accessories,Keyboard,2654.49,10,0.01,385.57
+241,OR-000241,12/16/2023,12/18/2023,Standard Class,CUST-0385,Fiona Garcia,Consumer,United States,Chicago,North Carolina,14506,South,PROD-0008,Furniture,Chairs,Conference Chair,1639.12,10,0.25,293.36
+242,OR-000242,03/14/2023,03/16/2023,Second Class,CUST-0322,Jane Doe,Home Office,United States,Houston,Illinois,40240,Central,PROD-0036,Technology,Computers,Tablet,68.64,3,0.26,24.16
+243,OR-000243,08/12/2023,08/19/2023,Standard Class,CUST-0299,Edward Davis,Consumer,United States,New York,North Carolina,90474,South,PROD-0087,Office Supplies,Storage,Storage Bin,200.33,7,0.22,47.68
+244,OR-000244,02/10/2023,02/14/2023,First Class,CUST-0228,Charlie Wilson,Home Office,United States,New York,Florida,21433,South,PROD-0083,Technology,Copiers,Copier Machine,158.3,2,0.17,24.49
+245,OR-000245,08/17/2023,08/18/2023,Same Day,CUST-0169,Fiona Garcia,Corporate,United States,New York,Illinois,42697,Central,PROD-0082,Technology,Copiers,Copier Machine,3996.85,10,0.14,660.4
+246,OR-000246,02/11/2023,02/14/2023,Standard Class,CUST-0204,Alice Brown,Corporate,United States,Chicago,Washington,91126,West,PROD-0023,Office Supplies,Storage,Storage Bin,2186.45,7,0.21,503.96
+247,OR-000247,06/04/2023,06/10/2023,First Class,CUST-0386,Edward Davis,Corporate,United States,Los Angeles,Pennsylvania,81417,East,PROD-0047,Office Supplies,Storage,File Box,642.24,6,0.0,161.79
+248,OR-000248,08/04/2023,08/09/2023,First Class,CUST-0094,Hannah Lee,Home Office,United States,Chicago,Washington,87141,West,PROD-0051,Furniture,Furnishings,Product,1569.13,9,0.28,599.56
+249,OR-000249,08/17/2023,08/24/2023,Same Day,CUST-0396,Fiona Garcia,Consumer,United States,Chicago,Texas,43005,Central,PROD-0093,Furniture,Tables,Dining Table,1935.76,4,0.0,275.01
+250,OR-000250,10/24/2023,10/30/2023,Second Class,CUST-0080,Diana Miller,Corporate,United States,Chicago,Oregon,13120,West,PROD-0036,Office Supplies,Labels,Address Labels,683.99,5,0.06,192.29
+251,OR-000251,02/17/2023,02/21/2023,Second Class,CUST-0167,John Smith,Consumer,United States,New York,Pennsylvania,54013,East,PROD-0043,Furniture,Tables,Conference Table,517.1,8,0.21,143.23
+252,OR-000252,01/14/2023,01/18/2023,Second Class,CUST-0207,Jane Doe,Consumer,United States,New York,Massachusetts,29116,East,PROD-0099,Technology,Computers,Laptop,1433.97,5,0.1,559.59
+253,OR-000253,11/04/2023,11/08/2023,Same Day,CUST-0140,Bob Johnson,Corporate,United States,New York,Pennsylvania,22383,East,PROD-0053,Technology,Phones,Mobile Phone,1213.04,5,0.27,135.44
+254,OR-000254,06/01/2023,06/03/2023,Standard Class,CUST-0097,Diana Miller,Home Office,United States,Chicago,North Carolina,44709,South,PROD-0083,Technology,Accessories,Webcam,244.97,2,0.25,85.86
+255,OR-000255,08/02/2023,08/09/2023,Standard Class,CUST-0443,Fiona Garcia,Corporate,United States,Houston,Illinois,89629,Central,PROD-0077,Technology,Phones,Mobile Phone,203.32,1,0.19,46.38
+256,OR-000256,12/11/2023,12/15/2023,Standard Class,CUST-0336,Diana Miller,Corporate,United States,New York,Ohio,80337,Central,PROD-0022,Technology,Accessories,Mouse,2846.75,7,0.18,1042.01
+257,OR-000257,02/19/2023,02/20/2023,Second Class,CUST-0186,Alice Brown,Consumer,United States,Houston,Pennsylvania,43700,East,PROD-0037,Furniture,Tables,Coffee Table,2916.1,10,0.09,407.72
+258,OR-000258,02/16/2023,02/17/2023,First Class,CUST-0373,Edward Davis,Corporate,United States,Chicago,Washington,99775,West,PROD-0071,Office Supplies,Paper,Notebook,1704.69,6,0.11,449.46
+259,OR-000259,10/25/2023,10/28/2023,Same Day,CUST-0334,Charlie Wilson,Corporate,United States,New York,Pennsylvania,66523,East,PROD-0093,Furniture,Furnishings,Product,2463.06,8,0.25,861.81
+260,OR-000260,04/17/2023,04/20/2023,First Class,CUST-0491,Jane Doe,Home Office,United States,Los Angeles,Illinois,90406,Central,PROD-0075,Office Supplies,Storage,Storage Bin,864.0,10,0.28,258.83
+261,OR-000261,01/01/2024,01/02/2024,First Class,CUST-0008,Diana Miller,Consumer,United States,New York,New York,26021,East,PROD-0096,Furniture,Tables,Conference Table,318.34,1,0.06,79.94
+262,OR-000262,08/18/2023,08/25/2023,Standard Class,CUST-0267,George Martinez,Consumer,United States,Houston,Georgia,25347,South,PROD-0028,Office Supplies,Binders,3-Ring Binder,451.65,1,0.08,117.3
+263,OR-000263,06/17/2023,06/18/2023,First Class,CUST-0367,Hannah Lee,Corporate,United States,Los Angeles,Florida,40973,South,PROD-0069,Technology,Computers,Desktop,2051.29,7,0.11,465.48
+264,OR-000264,09/25/2023,10/01/2023,Standard Class,CUST-0342,Edward Davis,Consumer,United States,Chicago,Washington,61470,West,PROD-0098,Technology,Accessories,Mouse,395.74,6,0.26,132.45
+265,OR-000265,05/11/2023,05/17/2023,Standard Class,CUST-0023,Fiona Garcia,Home Office,United States,Houston,Pennsylvania,36670,East,PROD-0015,Technology,Phones,Mobile Phone,64.05,4,0.21,8.46
+266,OR-000266,05/04/2023,05/08/2023,Standard Class,CUST-0111,Edward Davis,Consumer,United States,Chicago,New York,24045,East,PROD-0062,Technology,Phones,Office Phone,3057.92,7,0.06,1127.45
+267,OR-000267,04/08/2023,04/14/2023,Same Day,CUST-0327,Jane Doe,Consumer,United States,Houston,Washington,80656,West,PROD-0071,Technology,Phones,Office Phone,175.55,1,0.21,24.62
+268,OR-000268,01/16/2023,01/18/2023,Second Class,CUST-0413,Bob Johnson,Consumer,United States,Chicago,Florida,65248,South,PROD-0038,Technology,Copiers,Copier Machine,2670.93,7,0.11,762.32
+269,OR-000269,12/09/2023,12/13/2023,First Class,CUST-0470,Fiona Garcia,Consumer,United States,Houston,North Carolina,15784,South,PROD-0049,Furniture,Tables,Dining Table,1880.03,7,0.25,749.07
+270,OR-000270,01/07/2023,01/14/2023,Same Day,CUST-0198,Fiona Garcia,Home Office,United States,Los Angeles,Georgia,34307,South,PROD-0037,Technology,Copiers,Copier Machine,726.03,2,0.26,111.51
+271,OR-000271,08/28/2023,09/02/2023,Second Class,CUST-0310,Fiona Garcia,Home Office,United States,Chicago,Florida,71929,South,PROD-0094,Furniture,Furnishings,Product,1434.72,10,0.21,402.66
+272,OR-000272,05/22/2023,05/29/2023,Second Class,CUST-0192,Alice Brown,Corporate,United States,Los Angeles,Oregon,87081,West,PROD-0049,Technology,Phones,Mobile Phone,2851.46,8,0.21,414.84
+273,OR-000273,09/08/2023,09/11/2023,Standard Class,CUST-0344,Hannah Lee,Consumer,United States,Houston,Massachusetts,35550,East,PROD-0034,Office Supplies,Storage,Storage Bin,454.49,9,0.02,152.41
+274,OR-000274,04/22/2023,04/25/2023,Same Day,CUST-0093,Diana Miller,Home Office,United States,New York,Oregon,50765,West,PROD-0073,Technology,Copiers,Copier Machine,768.02,2,0.01,155.12
+275,OR-000275,05/18/2023,05/25/2023,Second Class,CUST-0460,Diana Miller,Corporate,United States,Houston,Texas,81888,Central,PROD-0066,Technology,Accessories,Keyboard,2459.08,9,0.1,472.78
+276,OR-000276,01/27/2023,01/29/2023,Same Day,CUST-0359,Fiona Garcia,Corporate,United States,Chicago,Ohio,24808,Central,PROD-0006,Furniture,Chairs,Executive Chair,1022.88,4,0.25,117.74
+277,OR-000277,07/10/2023,07/12/2023,Second Class,CUST-0109,John Smith,Consumer,United States,Chicago,Washington,44297,West,PROD-0091,Furniture,Tables,Conference Table,1481.16,6,0.29,187.8
+278,OR-000278,10/28/2023,10/30/2023,First Class,CUST-0316,John Smith,Consumer,United States,Chicago,Ohio,34262,Central,PROD-0044,Office Supplies,Paper,Sticky Notes,287.08,4,0.16,51.79
+279,OR-000279,03/18/2023,03/19/2023,Same Day,CUST-0390,Bob Johnson,Corporate,United States,Houston,Washington,19812,West,PROD-0085,Furniture,Tables,Coffee Table,2279.9,9,0.08,280.6
+280,OR-000280,10/07/2023,10/09/2023,Standard Class,CUST-0090,Alice Brown,Home Office,United States,Houston,Massachusetts,72562,East,PROD-0083,Office Supplies,Binders,3-Ring Binder,924.83,4,0.07,180.97
+281,OR-000281,03/07/2023,03/10/2023,Standard Class,CUST-0143,Edward Davis,Corporate,United States,Houston,Florida,41522,South,PROD-0048,Technology,Accessories,Keyboard,626.34,4,0.28,124.35
+282,OR-000282,08/09/2023,08/13/2023,Standard Class,CUST-0172,Diana Miller,Consumer,United States,Houston,Florida,80019,South,PROD-0074,Technology,Accessories,Keyboard,322.83,5,0.15,110.51
+283,OR-000283,08/30/2023,09/01/2023,Same Day,CUST-0055,Diana Miller,Consumer,United States,Houston,New York,69080,East,PROD-0003,Furniture,Tables,Coffee Table,33.11,1,0.06,6.81
+284,OR-000284,01/21/2023,01/26/2023,Standard Class,CUST-0057,Diana Miller,Corporate,United States,Chicago,Georgia,98069,South,PROD-0062,Office Supplies,Binders,3-Ring Binder,438.51,1,0.08,168.31
+285,OR-000285,01/25/2023,01/29/2023,Standard Class,CUST-0185,Hannah Lee,Home Office,United States,New York,Pennsylvania,47988,East,PROD-0014,Technology,Phones,Mobile Phone,409.82,1,0.07,120.56
+286,OR-000286,10/14/2023,10/21/2023,Standard Class,CUST-0202,John Smith,Corporate,United States,Los Angeles,California,12377,West,PROD-0048,Furniture,Tables,Coffee Table,3833.92,10,0.13,425.74
+287,OR-000287,01/05/2023,01/12/2023,Standard Class,CUST-0046,Diana Miller,Corporate,United States,New York,Texas,83120,Central,PROD-0019,Technology,Copiers,Copier Machine,1679.02,5,0.26,514.24
+288,OR-000288,04/14/2023,04/16/2023,Same Day,CUST-0365,Diana Miller,Home Office,United States,New York,California,95968,West,PROD-0072,Furniture,Chairs,Executive Chair,438.81,1,0.12,108.69
+289,OR-000289,11/11/2023,11/18/2023,First Class,CUST-0145,Edward Davis,Consumer,United States,Houston,Georgia,36408,South,PROD-0073,Office Supplies,Binders,3-Ring Binder,1903.32,9,0.2,751.25
+290,OR-000290,12/23/2023,12/28/2023,Second Class,CUST-0043,Charlie Wilson,Consumer,United States,Chicago,North Carolina,49831,South,PROD-0034,Technology,Copiers,Copier Machine,195.48,1,0.14,72.0
+291,OR-000291,12/23/2023,12/27/2023,Second Class,CUST-0178,Alice Brown,Consumer,United States,Los Angeles,New York,25007,East,PROD-0026,Technology,Computers,Desktop,1251.67,6,0.24,216.48
+292,OR-000292,10/13/2023,10/14/2023,Second Class,CUST-0081,Edward Davis,Consumer,United States,Houston,Washington,29744,West,PROD-0086,Technology,Phones,Mobile Phone,443.18,2,0.14,66.16
+293,OR-000293,11/20/2023,11/27/2023,First Class,CUST-0162,George Martinez,Consumer,United States,Houston,California,91294,West,PROD-0028,Technology,Computers,Tablet,336.02,1,0.13,122.65
+294,OR-000294,07/21/2023,07/28/2023,Second Class,CUST-0391,John Smith,Consumer,United States,Chicago,Illinois,39414,Central,PROD-0046,Office Supplies,Storage,File Box,1825.39,5,0.06,688.27
+295,OR-000295,07/07/2023,07/13/2023,Standard Class,CUST-0072,Fiona Garcia,Consumer,United States,Los Angeles,California,42762,West,PROD-0001,Furniture,Tables,Conference Table,1207.3,9,0.27,197.39
+296,OR-000296,03/24/2023,03/25/2023,Standard Class,CUST-0280,Edward Davis,Consumer,United States,Los Angeles,Massachusetts,25116,East,PROD-0058,Office Supplies,Binders,3-Ring Binder,2247.51,6,0.18,252.76
+297,OR-000297,06/05/2023,06/08/2023,Second Class,CUST-0228,Charlie Wilson,Home Office,United States,New York,North Carolina,71019,South,PROD-0052,Technology,Phones,Office Phone,1755.79,6,0.2,620.17
+298,OR-000298,09/01/2023,09/03/2023,Second Class,CUST-0244,Alice Brown,Corporate,United States,New York,Oregon,22009,West,PROD-0014,Technology,Phones,Office Phone,2017.4,7,0.26,660.36
+299,OR-000299,07/26/2023,08/02/2023,Same Day,CUST-0423,Edward Davis,Corporate,United States,Chicago,Texas,40405,Central,PROD-0016,Office Supplies,Paper,Copy Paper,2670.41,7,0.08,675.27
+300,OR-000300,07/28/2023,08/02/2023,First Class,CUST-0105,Charlie Wilson,Corporate,United States,Houston,Georgia,77605,South,PROD-0002,Technology,Copiers,Copier Machine,1652.95,5,0.11,323.41
+301,OR-000301,04/17/2023,04/24/2023,Second Class,CUST-0103,Fiona Garcia,Consumer,United States,Los Angeles,Texas,11029,Central,PROD-0083,Technology,Copiers,Copier Machine,995.24,3,0.25,391.25
+302,OR-000302,07/09/2023,07/14/2023,Second Class,CUST-0493,John Smith,Home Office,United States,Chicago,Washington,57078,West,PROD-0074,Technology,Computers,Tablet,894.98,3,0.3,183.86
+303,OR-000303,05/15/2023,05/19/2023,Standard Class,CUST-0235,John Smith,Consumer,United States,Houston,Georgia,52797,South,PROD-0095,Office Supplies,Binders,5-Ring Binder,1272.79,3,0.11,231.96
+304,OR-000304,06/10/2023,06/11/2023,First Class,CUST-0218,Charlie Wilson,Corporate,United States,Houston,Washington,43832,West,PROD-0049,Office Supplies,Binders,3-Ring Binder,1175.79,10,0.3,274.83
+305,OR-000305,10/31/2023,11/04/2023,Standard Class,CUST-0038,Diana Miller,Corporate,United States,Houston,Pennsylvania,62978,East,PROD-0044,Technology,Accessories,Webcam,734.41,7,0.03,166.62
+306,OR-000306,02/06/2023,02/09/2023,First Class,CUST-0272,Edward Davis,Corporate,United States,Los Angeles,Oregon,56088,West,PROD-0050,Furniture,Chairs,Conference Chair,987.24,4,0.25,164.67
+307,OR-000307,07/12/2023,07/19/2023,Same Day,CUST-0022,Diana Miller,Corporate,United States,Los Angeles,Ohio,40064,Central,PROD-0059,Technology,Accessories,Webcam,4241.54,10,0.07,629.08
+308,OR-000308,06/22/2023,06/23/2023,Second Class,CUST-0458,George Martinez,Home Office,United States,Chicago,Georgia,11454,South,PROD-0054,Office Supplies,Binders,5-Ring Binder,1001.43,9,0.19,389.08
+309,OR-000309,01/17/2023,01/20/2023,Second Class,CUST-0203,Fiona Garcia,Corporate,United States,Chicago,Ohio,96700,Central,PROD-0043,Furniture,Chairs,Executive Chair,893.13,7,0.27,134.35
+310,OR-000310,09/01/2023,09/06/2023,First Class,CUST-0144,Jane Doe,Consumer,United States,Houston,Washington,27163,West,PROD-0034,Technology,Computers,Desktop,2717.76,8,0.24,683.15
+311,OR-000311,03/04/2023,03/09/2023,Standard Class,CUST-0127,Fiona Garcia,Consumer,United States,Chicago,Georgia,43251,South,PROD-0030,Technology,Copiers,Copier Machine,1539.4,5,0.01,293.65
+312,OR-000312,08/31/2023,09/01/2023,Standard Class,CUST-0325,Bob Johnson,Home Office,United States,Los Angeles,New York,84441,East,PROD-0026,Technology,Phones,Office Phone,325.79,8,0.16,96.25
+313,OR-000313,12/16/2023,12/18/2023,First Class,CUST-0148,Edward Davis,Corporate,United States,Houston,North Carolina,77885,South,PROD-0002,Office Supplies,Labels,Address Labels,399.2,4,0.17,101.63
+314,OR-000314,10/26/2023,11/02/2023,First Class,CUST-0277,Diana Miller,Consumer,United States,Chicago,California,11984,West,PROD-0031,Furniture,Furnishings,Product,2239.51,7,0.24,339.64
+315,OR-000315,01/07/2023,01/08/2023,Second Class,CUST-0306,Edward Davis,Home Office,United States,Los Angeles,Washington,12118,West,PROD-0041,Furniture,Chairs,Conference Chair,124.76,1,0.24,29.94
+316,OR-000316,11/15/2023,11/22/2023,Same Day,CUST-0462,Edward Davis,Corporate,United States,Chicago,Ohio,96930,Central,PROD-0085,Furniture,Chairs,Ergonomic Chair,2049.14,8,0.11,551.72
+317,OR-000317,04/08/2023,04/13/2023,Same Day,CUST-0377,Bob Johnson,Corporate,United States,Los Angeles,Oregon,84653,West,PROD-0013,Office Supplies,Paper,Sticky Notes,1757.75,10,0.08,611.73
+318,OR-000318,02/16/2023,02/21/2023,First Class,CUST-0196,Fiona Garcia,Consumer,United States,Chicago,Pennsylvania,10740,East,PROD-0075,Furniture,Furnishings,Product,2453.49,10,0.22,692.94
+319,OR-000319,12/22/2023,12/28/2023,Standard Class,CUST-0091,Diana Miller,Corporate,United States,Chicago,Oregon,66700,West,PROD-0064,Office Supplies,Binders,5-Ring Binder,839.86,9,0.01,303.15
+320,OR-000320,06/14/2023,06/17/2023,Second Class,CUST-0155,Charlie Wilson,Consumer,United States,Chicago,Texas,86733,Central,PROD-0005,Furniture,Tables,Coffee Table,858.92,4,0.01,335.09
+321,OR-000321,07/23/2023,07/26/2023,First Class,CUST-0414,Hannah Lee,Consumer,United States,Houston,Pennsylvania,57252,East,PROD-0069,Furniture,Chairs,Ergonomic Chair,3966.84,10,0.14,1384.3
+322,OR-000322,02/08/2023,02/10/2023,Standard Class,CUST-0336,Hannah Lee,Consumer,United States,Chicago,Massachusetts,94740,East,PROD-0022,Technology,Accessories,Keyboard,2517.46,7,0.16,912.36
+323,OR-000323,10/01/2023,10/05/2023,Same Day,CUST-0300,Hannah Lee,Consumer,United States,New York,Texas,42858,Central,PROD-0021,Technology,Accessories,Webcam,266.65,5,0.19,88.14
+324,OR-000324,07/28/2023,07/30/2023,Second Class,CUST-0395,Charlie Wilson,Home Office,United States,New York,Oregon,28240,West,PROD-0057,Office Supplies,Labels,Address Labels,1552.93,10,0.27,502.61
+325,OR-000325,10/02/2023,10/09/2023,Standard Class,CUST-0050,Edward Davis,Home Office,United States,Houston,Oregon,83067,West,PROD-0053,Furniture,Chairs,Executive Chair,657.68,2,0.04,254.47
+326,OR-000326,07/14/2023,07/21/2023,Second Class,CUST-0263,George Martinez,Consumer,United States,New York,Washington,95540,West,PROD-0052,Furniture,Tables,Coffee Table,211.93,1,0.08,37.49
+327,OR-000327,05/07/2023,05/13/2023,Second Class,CUST-0315,Alice Brown,Consumer,United States,Houston,Georgia,81120,South,PROD-0095,Technology,Accessories,Mouse,502.57,9,0.19,185.09
+328,OR-000328,06/13/2023,06/20/2023,Same Day,CUST-0283,Jane Doe,Home Office,United States,Chicago,Massachusetts,21475,East,PROD-0093,Furniture,Chairs,Ergonomic Chair,2490.01,8,0.22,598.11
+329,OR-000329,08/28/2023,09/03/2023,First Class,CUST-0303,Charlie Wilson,Consumer,United States,Los Angeles,Georgia,98125,South,PROD-0070,Furniture,Tables,Conference Table,578.91,3,0.18,191.71
+330,OR-000330,10/01/2023,10/07/2023,Second Class,CUST-0355,Bob Johnson,Home Office,United States,Houston,Pennsylvania,35604,East,PROD-0044,Office Supplies,Labels,Address Labels,1098.99,10,0.14,374.29
+331,OR-000331,05/23/2023,05/26/2023,Second Class,CUST-0235,George Martinez,Consumer,United States,New York,Massachusetts,49886,East,PROD-0048,Office Supplies,Paper,Copy Paper,1386.78,10,0.27,154.52
+332,OR-000332,07/10/2023,07/13/2023,Standard Class,CUST-0335,Bob Johnson,Corporate,United States,New York,California,32980,West,PROD-0097,Technology,Computers,Desktop,277.87,1,0.07,96.33
+333,OR-000333,02/22/2023,02/23/2023,Second Class,CUST-0219,John Smith,Consumer,United States,Chicago,Florida,51963,South,PROD-0055,Technology,Copiers,Copier Machine,1366.85,8,0.2,355.81
+334,OR-000334,05/16/2023,05/22/2023,Same Day,CUST-0246,Jane Doe,Corporate,United States,Chicago,Texas,69968,Central,PROD-0082,Office Supplies,Binders,3-Ring Binder,954.97,6,0.02,153.63
+335,OR-000335,01/27/2023,01/29/2023,Second Class,CUST-0144,John Smith,Corporate,United States,Los Angeles,Georgia,52914,South,PROD-0070,Furniture,Chairs,Conference Chair,173.62,2,0.14,60.36
+336,OR-000336,01/15/2023,01/16/2023,Second Class,CUST-0388,Edward Davis,Home Office,United States,Chicago,Georgia,40001,South,PROD-0012,Office Supplies,Storage,File Box,268.35,4,0.06,60.91
+337,OR-000337,05/18/2023,05/19/2023,Standard Class,CUST-0235,Fiona Garcia,Consumer,United States,New York,Florida,28786,South,PROD-0082,Technology,Accessories,Mouse,1682.61,5,0.26,612.49
+338,OR-000338,01/02/2023,01/04/2023,Same Day,CUST-0305,Hannah Lee,Corporate,United States,New York,Pennsylvania,57156,East,PROD-0004,Furniture,Furnishings,Product,2876.93,8,0.21,609.75
+339,OR-000339,09/06/2023,09/07/2023,First Class,CUST-0274,Fiona Garcia,Consumer,United States,New York,Pennsylvania,10415,East,PROD-0096,Technology,Computers,Tablet,667.96,7,0.08,76.71
+340,OR-000340,02/12/2023,02/13/2023,First Class,CUST-0016,Diana Miller,Corporate,United States,Los Angeles,Illinois,69113,Central,PROD-0010,Technology,Copiers,Copier Machine,3081.86,9,0.03,916.15
+341,OR-000341,11/23/2023,11/27/2023,Standard Class,CUST-0299,Hannah Lee,Home Office,United States,Los Angeles,New York,71065,East,PROD-0050,Furniture,Chairs,Ergonomic Chair,1346.73,7,0.08,437.99
+342,OR-000342,07/02/2023,07/09/2023,Second Class,CUST-0497,Hannah Lee,Consumer,United States,New York,Oregon,42347,West,PROD-0025,Furniture,Tables,Coffee Table,760.56,2,0.03,177.77
+343,OR-000343,06/13/2023,06/19/2023,Same Day,CUST-0334,Bob Johnson,Corporate,United States,Chicago,Florida,86527,South,PROD-0079,Furniture,Bookcases,Corner Bookcase,1708.11,6,0.22,232.69
+344,OR-000344,04/24/2023,04/26/2023,First Class,CUST-0122,Fiona Garcia,Consumer,United States,Los Angeles,Texas,45906,Central,PROD-0068,Furniture,Bookcases,Corner Bookcase,1487.52,6,0.02,466.41
+345,OR-000345,01/15/2023,01/22/2023,Same Day,CUST-0482,Charlie Wilson,Home Office,United States,New York,Illinois,99831,Central,PROD-0083,Technology,Accessories,Keyboard,1030.72,3,0.04,188.03
+346,OR-000346,08/26/2023,08/31/2023,First Class,CUST-0351,Alice Brown,Home Office,United States,Chicago,Pennsylvania,67397,East,PROD-0080,Technology,Copiers,Copier Machine,1745.58,7,0.2,217.33
+347,OR-000347,01/01/2023,01/07/2023,Second Class,CUST-0497,Jane Doe,Corporate,United States,New York,Massachusetts,77827,East,PROD-0089,Office Supplies,Paper,Copy Paper,1377.98,6,0.22,533.94
+348,OR-000348,05/12/2023,05/19/2023,Same Day,CUST-0089,Hannah Lee,Corporate,United States,Chicago,California,24712,West,PROD-0078,Office Supplies,Paper,Sticky Notes,639.95,10,0.08,85.36
+349,OR-000349,12/18/2023,12/25/2023,Standard Class,CUST-0160,Fiona Garcia,Consumer,United States,New York,Pennsylvania,65959,East,PROD-0061,Furniture,Tables,Conference Table,1551.85,10,0.29,601.75
+350,OR-000350,06/19/2023,06/20/2023,First Class,CUST-0230,Fiona Garcia,Home Office,United States,Chicago,Pennsylvania,34868,East,PROD-0098,Furniture,Tables,Dining Table,692.97,3,0.17,121.61
+351,OR-000351,10/24/2023,10/31/2023,Same Day,CUST-0435,Edward Davis,Home Office,United States,Houston,Washington,43713,West,PROD-0076,Technology,Computers,Laptop,1032.53,7,0.04,380.4
+352,OR-000352,11/08/2023,11/15/2023,Standard Class,CUST-0157,Alice Brown,Home Office,United States,Houston,New York,16886,East,PROD-0072,Technology,Copiers,Copier Machine,463.83,6,0.29,155.85
+353,OR-000353,10/21/2023,10/22/2023,Same Day,CUST-0361,Charlie Wilson,Corporate,United States,Chicago,Massachusetts,89329,East,PROD-0089,Technology,Computers,Desktop,1505.04,8,0.01,269.38
+354,OR-000354,05/23/2023,05/29/2023,Standard Class,CUST-0448,Fiona Garcia,Home Office,United States,Chicago,Texas,63827,Central,PROD-0055,Office Supplies,Storage,Storage Bin,95.23,3,0.16,14.18
+355,OR-000355,04/11/2023,04/18/2023,Same Day,CUST-0151,Fiona Garcia,Consumer,United States,Houston,North Carolina,73171,South,PROD-0098,Furniture,Bookcases,Corner Bookcase,1620.81,6,0.1,606.14
+356,OR-000356,04/02/2023,04/08/2023,Standard Class,CUST-0388,John Smith,Home Office,United States,Los Angeles,Ohio,32261,Central,PROD-0014,Office Supplies,Paper,Notebook,275.69,1,0.25,46.33
+357,OR-000357,09/29/2023,10/05/2023,Standard Class,CUST-0190,Diana Miller,Consumer,United States,Los Angeles,Florida,48837,South,PROD-0037,Technology,Copiers,Copier Machine,778.36,2,0.08,296.25
+358,OR-000358,08/24/2023,08/27/2023,Same Day,CUST-0213,Hannah Lee,Home Office,United States,Los Angeles,New York,59834,East,PROD-0017,Furniture,Bookcases,Standard Bookcase,1314.96,5,0.02,163.65
+359,OR-000359,07/13/2023,07/14/2023,Standard Class,CUST-0318,Diana Miller,Home Office,United States,Los Angeles,Washington,88839,West,PROD-0083,Furniture,Bookcases,Standard Bookcase,242.37,2,0.3,38.12
+360,OR-000360,10/05/2023,10/08/2023,First Class,CUST-0115,Hannah Lee,Home Office,United States,Los Angeles,Massachusetts,22798,East,PROD-0033,Furniture,Tables,Dining Table,2142.51,9,0.14,573.67
+361,OR-000361,07/13/2023,07/19/2023,Standard Class,CUST-0323,Fiona Garcia,Corporate,United States,Houston,Georgia,27313,South,PROD-0067,Furniture,Tables,Dining Table,3010.92,9,0.19,370.55
+362,OR-000362,06/07/2023,06/10/2023,Standard Class,CUST-0185,Alice Brown,Consumer,United States,Chicago,Washington,96227,West,PROD-0042,Furniture,Chairs,Executive Chair,686.57,5,0.23,110.11
+363,OR-000363,02/10/2023,02/13/2023,First Class,CUST-0464,George Martinez,Corporate,United States,Houston,Georgia,60946,South,PROD-0041,Furniture,Bookcases,Corner Bookcase,60.76,5,0.17,16.25
+364,OR-000364,12/22/2023,12/28/2023,First Class,CUST-0406,John Smith,Consumer,United States,New York,New York,31024,East,PROD-0021,Furniture,Chairs,Executive Chair,491.58,2,0.26,189.26
+365,OR-000365,10/29/2023,10/31/2023,Second Class,CUST-0271,Edward Davis,Corporate,United States,Houston,Illinois,36304,Central,PROD-0096,Office Supplies,Binders,3-Ring Binder,94.32,2,0.2,14.49
+366,OR-000366,06/17/2023,06/22/2023,Same Day,CUST-0271,Alice Brown,Home Office,United States,Los Angeles,Illinois,36555,Central,PROD-0070,Technology,Phones,Office Phone,2764.0,9,0.19,810.05
+367,OR-000367,10/04/2023,10/10/2023,Same Day,CUST-0197,Charlie Wilson,Consumer,United States,Los Angeles,Massachusetts,34510,East,PROD-0005,Technology,Copiers,Copier Machine,4582.59,10,0.06,691.13
+368,OR-000368,04/04/2023,04/11/2023,Standard Class,CUST-0155,Charlie Wilson,Corporate,United States,Los Angeles,Ohio,37876,Central,PROD-0055,Furniture,Chairs,Executive Chair,2035.76,6,0.23,357.05
+369,OR-000369,09/17/2023,09/20/2023,Same Day,CUST-0302,Jane Doe,Consumer,United States,Houston,California,57706,West,PROD-0064,Furniture,Bookcases,Standard Bookcase,318.98,1,0.1,93.41
+370,OR-000370,02/26/2023,03/02/2023,Same Day,CUST-0281,Alice Brown,Home Office,United States,New York,Illinois,41951,Central,PROD-0066,Furniture,Bookcases,Standard Bookcase,224.96,2,0.1,30.84
+371,OR-000371,10/04/2023,10/08/2023,Standard Class,CUST-0394,Alice Brown,Corporate,United States,Houston,North Carolina,85152,South,PROD-0020,Technology,Copiers,Copier Machine,1502.44,8,0.28,496.05
+372,OR-000372,05/17/2023,05/22/2023,Same Day,CUST-0135,Hannah Lee,Home Office,United States,Los Angeles,North Carolina,85990,South,PROD-0078,Furniture,Chairs,Executive Chair,1960.89,7,0.14,285.81
+373,OR-000373,02/05/2023,02/12/2023,Second Class,CUST-0469,John Smith,Consumer,United States,New York,Illinois,14600,Central,PROD-0078,Furniture,Tables,Dining Table,1942.69,5,0.1,533.72
+374,OR-000374,06/30/2023,07/01/2023,First Class,CUST-0198,Edward Davis,Corporate,United States,Houston,Texas,13241,Central,PROD-0034,Furniture,Furnishings,Product,376.94,1,0.11,65.68
+375,OR-000375,12/15/2023,12/21/2023,Second Class,CUST-0003,Jane Doe,Corporate,United States,Los Angeles,Texas,61327,Central,PROD-0056,Office Supplies,Labels,Address Labels,1236.06,8,0.24,262.86
+376,OR-000376,12/09/2023,12/14/2023,First Class,CUST-0066,Diana Miller,Corporate,United States,New York,Georgia,96555,South,PROD-0089,Furniture,Bookcases,Corner Bookcase,2115.91,6,0.23,824.39
+377,OR-000377,02/18/2023,02/20/2023,First Class,CUST-0183,Charlie Wilson,Corporate,United States,Los Angeles,Illinois,65664,Central,PROD-0073,Furniture,Bookcases,Corner Bookcase,223.22,7,0.17,48.83
+378,OR-000378,07/06/2023,07/09/2023,Second Class,CUST-0212,Diana Miller,Home Office,United States,Chicago,Ohio,82091,Central,PROD-0089,Technology,Computers,Tablet,1413.32,5,0.1,269.71
+379,OR-000379,04/21/2023,04/26/2023,Same Day,CUST-0470,Hannah Lee,Home Office,United States,New York,Texas,25260,Central,PROD-0027,Furniture,Chairs,Ergonomic Chair,3952.23,9,0.1,829.75
+380,OR-000380,01/18/2023,01/19/2023,First Class,CUST-0467,Hannah Lee,Consumer,United States,Chicago,Pennsylvania,51356,East,PROD-0031,Technology,Copiers,Copier Machine,4041.5,9,0.05,695.45
+381,OR-000381,02/09/2023,02/11/2023,First Class,CUST-0113,Jane Doe,Corporate,United States,Chicago,Georgia,63065,South,PROD-0040,Office Supplies,Binders,5-Ring Binder,1368.81,4,0.14,380.29
+382,OR-000382,12/21/2023,12/25/2023,Second Class,CUST-0216,Hannah Lee,Home Office,United States,New York,New York,77794,East,PROD-0093,Furniture,Bookcases,Standard Bookcase,1612.12,6,0.25,345.26
+383,OR-000383,12/07/2023,12/08/2023,Standard Class,CUST-0184,George Martinez,Consumer,United States,Chicago,Massachusetts,60573,East,PROD-0005,Technology,Computers,Tablet,882.3,3,0.16,296.21
+384,OR-000384,07/08/2023,07/11/2023,First Class,CUST-0199,Fiona Garcia,Corporate,United States,Los Angeles,Florida,17750,South,PROD-0015,Office Supplies,Binders,5-Ring Binder,1614.14,4,0.16,344.67
+385,OR-000385,04/30/2023,05/06/2023,Standard Class,CUST-0198,John Smith,Consumer,United States,Houston,Washington,46754,West,PROD-0099,Technology,Copiers,Copier Machine,531.04,2,0.06,189.5
+386,OR-000386,09/21/2023,09/26/2023,Second Class,CUST-0418,George Martinez,Consumer,United States,Los Angeles,Pennsylvania,41094,East,PROD-0059,Technology,Phones,Office Phone,1263.52,10,0.22,341.71
+387,OR-000387,04/15/2023,04/17/2023,Standard Class,CUST-0258,Alice Brown,Corporate,United States,Houston,Illinois,78704,Central,PROD-0002,Technology,Phones,Office Phone,1369.02,4,0.2,165.9
+388,OR-000388,12/17/2023,12/22/2023,First Class,CUST-0460,John Smith,Consumer,United States,Los Angeles,Massachusetts,75833,East,PROD-0046,Furniture,Furnishings,Product,723.0,8,0.23,205.33
+389,OR-000389,08/13/2023,08/18/2023,First Class,CUST-0054,Jane Doe,Consumer,United States,New York,North Carolina,67828,South,PROD-0089,Furniture,Furnishings,Product,1088.93,10,0.04,340.2
+390,OR-000390,10/18/2023,10/20/2023,First Class,CUST-0001,Edward Davis,Corporate,United States,Houston,Washington,45696,West,PROD-0038,Technology,Phones,Office Phone,482.84,2,0.12,156.85
+391,OR-000391,05/31/2023,06/03/2023,Same Day,CUST-0290,George Martinez,Consumer,United States,New York,California,70993,West,PROD-0041,Technology,Copiers,Copier Machine,240.32,10,0.27,30.54
+392,OR-000392,05/19/2023,05/21/2023,Second Class,CUST-0029,Bob Johnson,Home Office,United States,Chicago,New York,94177,East,PROD-0087,Office Supplies,Paper,Sticky Notes,447.65,3,0.06,159.0
+393,OR-000393,04/18/2023,04/20/2023,Second Class,CUST-0288,Hannah Lee,Consumer,United States,Los Angeles,Ohio,66769,Central,PROD-0036,Office Supplies,Storage,File Box,145.27,3,0.19,22.22
+394,OR-000394,01/12/2023,01/17/2023,Standard Class,CUST-0146,Hannah Lee,Consumer,United States,Los Angeles,Washington,52325,West,PROD-0098,Furniture,Chairs,Executive Chair,695.34,2,0.24,102.85
+395,OR-000395,01/04/2023,01/07/2023,Second Class,CUST-0241,George Martinez,Consumer,United States,New York,Ohio,89006,Central,PROD-0069,Office Supplies,Binders,5-Ring Binder,540.95,2,0.26,101.79
+396,OR-000396,07/19/2023,07/20/2023,Second Class,CUST-0007,George Martinez,Home Office,United States,Los Angeles,Texas,60145,Central,PROD-0030,Office Supplies,Paper,Sticky Notes,2378.2,7,0.18,585.85
+397,OR-000397,12/30/2023,01/03/2024,Standard Class,CUST-0100,Charlie Wilson,Home Office,United States,Houston,Texas,70963,Central,PROD-0041,Furniture,Furnishings,Product,2166.6,7,0.21,247.33
+398,OR-000398,03/22/2023,03/25/2023,Standard Class,CUST-0473,Hannah Lee,Home Office,United States,Chicago,Georgia,66771,South,PROD-0015,Technology,Accessories,Webcam,175.28,1,0.27,27.12
+399,OR-000399,01/05/2023,01/06/2023,Standard Class,CUST-0188,Jane Doe,Corporate,United States,Los Angeles,Georgia,33381,South,PROD-0023,Furniture,Tables,Conference Table,2923.99,8,0.24,797.15
+400,OR-000400,03/07/2023,03/11/2023,Standard Class,CUST-0466,Alice Brown,Home Office,United States,Houston,Pennsylvania,21009,East,PROD-0065,Technology,Computers,Laptop,582.07,5,0.13,228.56
+401,OR-000401,03/16/2023,03/22/2023,First Class,CUST-0115,George Martinez,Corporate,United States,Chicago,Washington,80815,West,PROD-0047,Office Supplies,Storage,Storage Bin,1482.92,5,0.2,560.2
+402,OR-000402,12/13/2023,12/18/2023,Standard Class,CUST-0359,Hannah Lee,Consumer,United States,Los Angeles,Pennsylvania,79249,East,PROD-0008,Technology,Copiers,Copier Machine,409.44,4,0.2,71.21
+403,OR-000403,01/29/2023,02/04/2023,Same Day,CUST-0262,Bob Johnson,Home Office,United States,Houston,Washington,76461,West,PROD-0002,Furniture,Bookcases,Corner Bookcase,2122.69,5,0.12,695.96
+404,OR-000404,03/18/2023,03/24/2023,First Class,CUST-0024,Fiona Garcia,Consumer,United States,Houston,Georgia,57759,South,PROD-0080,Office Supplies,Labels,Address Labels,614.81,2,0.13,129.1
+405,OR-000405,05/22/2023,05/26/2023,Second Class,CUST-0085,Diana Miller,Home Office,United States,Los Angeles,Pennsylvania,22803,East,PROD-0099,Office Supplies,Labels,Address Labels,717.55,3,0.09,173.19
+406,OR-000406,01/30/2023,02/01/2023,Second Class,CUST-0129,Charlie Wilson,Corporate,United States,New York,California,97773,West,PROD-0046,Technology,Copiers,Copier Machine,4006.42,10,0.08,976.04
+407,OR-000407,12/10/2023,12/17/2023,First Class,CUST-0449,Charlie Wilson,Home Office,United States,Chicago,Massachusetts,65669,East,PROD-0066,Furniture,Tables,Dining Table,610.92,3,0.11,194.28
+408,OR-000408,08/18/2023,08/20/2023,Standard Class,CUST-0297,Hannah Lee,Home Office,United States,New York,Massachusetts,18284,East,PROD-0097,Furniture,Bookcases,Corner Bookcase,391.78,10,0.04,48.19
+409,OR-000409,03/16/2023,03/18/2023,Second Class,CUST-0086,Alice Brown,Home Office,United States,New York,Ohio,10283,Central,PROD-0029,Office Supplies,Binders,3-Ring Binder,1785.68,5,0.25,336.68
+410,OR-000410,04/02/2023,04/05/2023,Second Class,CUST-0465,Charlie Wilson,Home Office,United States,Houston,New York,42213,East,PROD-0078,Technology,Copiers,Copier Machine,941.49,4,0.01,322.91
+411,OR-000411,02/23/2023,02/24/2023,Same Day,CUST-0289,George Martinez,Corporate,United States,New York,Georgia,50725,South,PROD-0059,Office Supplies,Binders,3-Ring Binder,942.04,5,0.12,143.51
+412,OR-000412,09/05/2023,09/07/2023,First Class,CUST-0397,Charlie Wilson,Consumer,United States,Chicago,Pennsylvania,19949,East,PROD-0047,Office Supplies,Paper,Sticky Notes,1184.88,9,0.21,423.4
+413,OR-000413,08/13/2023,08/14/2023,Standard Class,CUST-0011,George Martinez,Home Office,United States,Chicago,Illinois,76550,Central,PROD-0034,Furniture,Bookcases,Standard Bookcase,2281.31,8,0.18,514.78
+414,OR-000414,06/13/2023,06/18/2023,Same Day,CUST-0176,George Martinez,Corporate,United States,Houston,Illinois,36197,Central,PROD-0017,Office Supplies,Storage,File Box,3698.02,9,0.17,831.58
+415,OR-000415,05/25/2023,05/29/2023,Second Class,CUST-0195,John Smith,Corporate,United States,New York,Texas,87101,Central,PROD-0025,Furniture,Tables,Dining Table,497.75,6,0.28,164.66
+416,OR-000416,07/30/2023,08/04/2023,Second Class,CUST-0491,George Martinez,Home Office,United States,Chicago,Massachusetts,75633,East,PROD-0045,Office Supplies,Storage,File Box,210.06,5,0.23,75.0
+417,OR-000417,06/23/2023,06/29/2023,Same Day,CUST-0206,Alice Brown,Home Office,United States,New York,Pennsylvania,56416,East,PROD-0062,Technology,Phones,Mobile Phone,1745.79,6,0.17,671.22
+418,OR-000418,09/28/2023,09/30/2023,Standard Class,CUST-0027,Jane Doe,Consumer,United States,Los Angeles,Oregon,89389,West,PROD-0006,Office Supplies,Paper,Sticky Notes,414.85,10,0.29,161.38
+419,OR-000419,11/11/2023,11/15/2023,Second Class,CUST-0090,Charlie Wilson,Corporate,United States,Los Angeles,Florida,81088,South,PROD-0090,Office Supplies,Storage,Storage Bin,610.56,2,0.09,66.48
+420,OR-000420,07/01/2023,07/05/2023,First Class,CUST-0237,George Martinez,Consumer,United States,Los Angeles,Washington,64116,West,PROD-0096,Office Supplies,Binders,3-Ring Binder,2688.37,7,0.07,928.34
+421,OR-000421,05/25/2023,05/26/2023,First Class,CUST-0384,Fiona Garcia,Consumer,United States,Chicago,Washington,94845,West,PROD-0082,Technology,Phones,Office Phone,2243.09,7,0.27,285.35
+422,OR-000422,03/12/2023,03/13/2023,Same Day,CUST-0291,Hannah Lee,Corporate,United States,Los Angeles,Georgia,44325,South,PROD-0044,Office Supplies,Binders,3-Ring Binder,140.43,1,0.2,43.48
+423,OR-000423,11/27/2023,12/04/2023,Standard Class,CUST-0037,Bob Johnson,Corporate,United States,Chicago,Florida,47567,South,PROD-0012,Furniture,Tables,Conference Table,325.8,1,0.15,115.05
+424,OR-000424,04/21/2023,04/25/2023,Second Class,CUST-0112,George Martinez,Home Office,United States,New York,Washington,17283,West,PROD-0005,Office Supplies,Paper,Notebook,990.46,6,0.14,177.91
+425,OR-000425,11/02/2023,11/06/2023,Second Class,CUST-0322,Jane Doe,Corporate,United States,Chicago,New York,19516,East,PROD-0033,Furniture,Furnishings,Product,2751.03,7,0.04,416.12
+426,OR-000426,04/13/2023,04/17/2023,Second Class,CUST-0475,Bob Johnson,Corporate,United States,New York,Pennsylvania,80657,East,PROD-0051,Furniture,Tables,Dining Table,1725.93,6,0.01,604.3
+427,OR-000427,04/08/2023,04/15/2023,Standard Class,CUST-0231,Bob Johnson,Corporate,United States,Chicago,Florida,11126,South,PROD-0056,Technology,Computers,Laptop,310.34,1,0.25,70.94
+428,OR-000428,02/22/2023,02/26/2023,Second Class,CUST-0312,John Smith,Consumer,United States,Chicago,Florida,26652,South,PROD-0064,Technology,Accessories,Webcam,122.4,10,0.2,47.49
+429,OR-000429,09/26/2023,09/29/2023,Same Day,CUST-0076,Edward Davis,Home Office,United States,Houston,Pennsylvania,33898,East,PROD-0065,Office Supplies,Storage,Storage Bin,410.05,2,0.06,100.06
+430,OR-000430,07/28/2023,07/31/2023,First Class,CUST-0153,Bob Johnson,Consumer,United States,Chicago,New York,19196,East,PROD-0043,Technology,Phones,Office Phone,1746.92,5,0.26,558.01
+431,OR-000431,12/28/2023,01/01/2024,First Class,CUST-0245,Alice Brown,Corporate,United States,Houston,New York,37421,East,PROD-0077,Office Supplies,Binders,3-Ring Binder,890.83,7,0.07,247.29
+432,OR-000432,12/20/2023,12/26/2023,Second Class,CUST-0375,Jane Doe,Corporate,United States,Chicago,Oregon,99525,West,PROD-0046,Office Supplies,Labels,Shipping Labels,963.5,5,0.18,153.81
+433,OR-000433,03/23/2023,03/28/2023,First Class,CUST-0258,Bob Johnson,Corporate,United States,New York,Pennsylvania,20517,East,PROD-0079,Furniture,Bookcases,Corner Bookcase,1376.95,6,0.14,331.59
+434,OR-000434,06/13/2023,06/20/2023,Second Class,CUST-0428,George Martinez,Corporate,United States,Chicago,Georgia,82225,South,PROD-0041,Office Supplies,Paper,Notebook,2309.15,10,0.13,788.94
+435,OR-000435,12/18/2023,12/21/2023,Same Day,CUST-0292,Charlie Wilson,Corporate,United States,Los Angeles,Florida,39848,South,PROD-0029,Furniture,Bookcases,Corner Bookcase,71.6,3,0.28,17.34
+436,OR-000436,07/27/2023,07/31/2023,Standard Class,CUST-0344,George Martinez,Consumer,United States,New York,New York,90179,East,PROD-0041,Furniture,Bookcases,Corner Bookcase,1003.07,9,0.17,167.45
+437,OR-000437,01/01/2023,01/04/2023,Second Class,CUST-0221,Fiona Garcia,Consumer,United States,Chicago,Oregon,70326,West,PROD-0033,Technology,Computers,Laptop,121.06,4,0.22,32.95
+438,OR-000438,11/16/2023,11/17/2023,Standard Class,CUST-0392,Jane Doe,Home Office,United States,Chicago,North Carolina,43705,South,PROD-0057,Office Supplies,Storage,Storage Bin,2872.86,8,0.04,1086.33
+439,OR-000439,10/25/2023,11/01/2023,Same Day,CUST-0123,Charlie Wilson,Corporate,United States,New York,Texas,89723,Central,PROD-0014,Technology,Accessories,Webcam,838.55,5,0.0,302.3
+440,OR-000440,07/31/2023,08/04/2023,Second Class,CUST-0203,Jane Doe,Consumer,United States,Los Angeles,Oregon,85025,West,PROD-0057,Office Supplies,Storage,Storage Bin,608.61,4,0.05,227.57
+441,OR-000441,09/11/2023,09/17/2023,Standard Class,CUST-0359,Diana Miller,Corporate,United States,Los Angeles,New York,42646,East,PROD-0021,Technology,Copiers,Copier Machine,443.4,3,0.28,156.81
+442,OR-000442,07/19/2023,07/25/2023,Standard Class,CUST-0406,Hannah Lee,Home Office,United States,Chicago,North Carolina,92286,South,PROD-0014,Technology,Computers,Tablet,3157.2,9,0.17,521.04
+443,OR-000443,08/28/2023,08/30/2023,Same Day,CUST-0495,Bob Johnson,Consumer,United States,Los Angeles,Illinois,47078,Central,PROD-0005,Furniture,Chairs,Executive Chair,1039.2,3,0.23,131.49
+444,OR-000444,02/04/2023,02/11/2023,Second Class,CUST-0311,Charlie Wilson,Home Office,United States,New York,California,64628,West,PROD-0082,Office Supplies,Storage,File Box,1027.35,3,0.02,197.8
+445,OR-000445,05/20/2023,05/25/2023,Same Day,CUST-0255,George Martinez,Home Office,United States,Chicago,Pennsylvania,81417,East,PROD-0031,Technology,Copiers,Copier Machine,2918.84,10,0.23,982.42
+446,OR-000446,11/16/2023,11/19/2023,First Class,CUST-0390,Jane Doe,Home Office,United States,Los Angeles,California,12760,West,PROD-0019,Office Supplies,Labels,Address Labels,2350.71,7,0.28,682.22
+447,OR-000447,07/24/2023,07/28/2023,First Class,CUST-0112,Edward Davis,Home Office,United States,Chicago,Pennsylvania,99233,East,PROD-0098,Office Supplies,Labels,Address Labels,808.75,3,0.27,309.46
+448,OR-000448,01/30/2023,02/06/2023,Second Class,CUST-0259,Hannah Lee,Home Office,United States,Houston,Oregon,20006,West,PROD-0025,Office Supplies,Storage,File Box,812.03,10,0.29,148.42
+449,OR-000449,05/20/2023,05/23/2023,Standard Class,CUST-0424,George Martinez,Corporate,United States,New York,Texas,17705,Central,PROD-0049,Furniture,Bookcases,Standard Bookcase,1714.96,9,0.17,252.88
+450,OR-000450,10/27/2023,11/03/2023,Same Day,CUST-0009,Jane Doe,Consumer,United States,New York,Oregon,56595,West,PROD-0004,Technology,Copiers,Copier Machine,157.86,1,0.02,38.23
+451,OR-000451,03/06/2023,03/08/2023,Second Class,CUST-0230,Alice Brown,Consumer,United States,New York,Massachusetts,38150,East,PROD-0071,Office Supplies,Labels,Shipping Labels,94.95,9,0.16,10.16
+452,OR-000452,05/15/2023,05/22/2023,Same Day,CUST-0183,Fiona Garcia,Consumer,United States,Chicago,California,17278,West,PROD-0001,Furniture,Chairs,Ergonomic Chair,429.8,1,0.1,76.23
+453,OR-000453,04/27/2023,05/01/2023,Standard Class,CUST-0456,Diana Miller,Home Office,United States,New York,Florida,71030,South,PROD-0063,Technology,Accessories,Mouse,625.24,2,0.21,191.55
+454,OR-000454,06/14/2023,06/16/2023,Second Class,CUST-0414,Edward Davis,Consumer,United States,New York,Illinois,89217,Central,PROD-0013,Technology,Computers,Desktop,599.68,8,0.02,167.4
+455,OR-000455,03/23/2023,03/29/2023,Standard Class,CUST-0126,Fiona Garcia,Home Office,United States,Houston,Illinois,96312,Central,PROD-0040,Furniture,Bookcases,Corner Bookcase,225.6,6,0.0,45.63
+456,OR-000456,07/17/2023,07/21/2023,First Class,CUST-0257,Jane Doe,Corporate,United States,Houston,New York,34032,East,PROD-0043,Technology,Computers,Desktop,3834.54,10,0.02,896.5
+457,OR-000457,12/01/2023,12/07/2023,First Class,CUST-0318,Hannah Lee,Corporate,United States,Chicago,Florida,45400,South,PROD-0088,Office Supplies,Storage,Storage Bin,175.79,1,0.08,29.76
+458,OR-000458,03/30/2023,04/04/2023,Second Class,CUST-0201,Jane Doe,Home Office,United States,New York,Georgia,50287,South,PROD-0002,Technology,Copiers,Copier Machine,412.48,1,0.09,75.42
+459,OR-000459,09/21/2023,09/24/2023,Second Class,CUST-0421,Fiona Garcia,Consumer,United States,Houston,Oregon,53459,West,PROD-0013,Technology,Accessories,Webcam,2426.21,7,0.09,618.39
+460,OR-000460,11/14/2023,11/20/2023,First Class,CUST-0091,Jane Doe,Consumer,United States,Houston,North Carolina,79218,South,PROD-0065,Office Supplies,Storage,File Box,44.89,1,0.16,10.6
+461,OR-000461,10/28/2023,10/29/2023,Same Day,CUST-0498,Charlie Wilson,Corporate,United States,Chicago,North Carolina,80136,South,PROD-0029,Technology,Computers,Laptop,90.18,2,0.1,23.61
+462,OR-000462,09/10/2023,09/13/2023,Second Class,CUST-0064,George Martinez,Corporate,United States,New York,Oregon,92019,West,PROD-0029,Technology,Computers,Laptop,2559.27,9,0.12,997.74
+463,OR-000463,02/07/2023,02/10/2023,Second Class,CUST-0061,Alice Brown,Home Office,United States,Los Angeles,Texas,72066,Central,PROD-0003,Technology,Copiers,Copier Machine,2555.78,8,0.23,1015.12
+464,OR-000464,12/01/2023,12/07/2023,First Class,CUST-0437,Fiona Garcia,Home Office,United States,Los Angeles,California,48762,West,PROD-0081,Technology,Computers,Desktop,1238.81,7,0.17,427.31
+465,OR-000465,02/10/2023,02/12/2023,Standard Class,CUST-0328,Fiona Garcia,Consumer,United States,Chicago,California,55818,West,PROD-0003,Office Supplies,Labels,Shipping Labels,2133.88,9,0.17,455.35
+466,OR-000466,06/18/2023,06/23/2023,First Class,CUST-0232,Alice Brown,Corporate,United States,Chicago,Pennsylvania,39273,East,PROD-0088,Furniture,Bookcases,Corner Bookcase,1315.15,6,0.2,275.8
+467,OR-000467,05/18/2023,05/25/2023,Second Class,CUST-0320,Hannah Lee,Consumer,United States,Chicago,Pennsylvania,61719,East,PROD-0020,Furniture,Tables,Conference Table,747.69,4,0.01,220.95
+468,OR-000468,11/02/2023,11/05/2023,Second Class,CUST-0089,George Martinez,Home Office,United States,Los Angeles,North Carolina,87609,South,PROD-0072,Furniture,Bookcases,Corner Bookcase,4475.56,10,0.02,891.92
+469,OR-000469,07/12/2023,07/19/2023,Same Day,CUST-0342,George Martinez,Consumer,United States,Chicago,Washington,15828,West,PROD-0081,Office Supplies,Paper,Notebook,1730.27,6,0.11,318.58
+470,OR-000470,04/05/2023,04/11/2023,Standard Class,CUST-0034,Diana Miller,Consumer,United States,Los Angeles,California,84818,West,PROD-0039,Technology,Copiers,Copier Machine,372.93,1,0.2,82.8
+471,OR-000471,06/27/2023,07/01/2023,Standard Class,CUST-0447,Charlie Wilson,Home Office,United States,Houston,Oregon,61449,West,PROD-0014,Office Supplies,Paper,Sticky Notes,1646.82,9,0.06,357.54
+472,OR-000472,03/23/2023,03/29/2023,Standard Class,CUST-0109,George Martinez,Consumer,United States,Chicago,Illinois,29750,Central,PROD-0075,Furniture,Chairs,Executive Chair,4686.4,10,0.0,1427.3
+473,OR-000473,07/17/2023,07/22/2023,First Class,CUST-0447,Edward Davis,Home Office,United States,Chicago,Pennsylvania,96379,East,PROD-0008,Office Supplies,Labels,Shipping Labels,1529.48,4,0.12,509.65
+474,OR-000474,12/15/2023,12/22/2023,Same Day,CUST-0084,Bob Johnson,Corporate,United States,Los Angeles,California,73662,West,PROD-0031,Technology,Accessories,Mouse,528.7,8,0.12,128.86
+475,OR-000475,01/10/2023,01/13/2023,First Class,CUST-0262,Diana Miller,Home Office,United States,Houston,Pennsylvania,25113,East,PROD-0041,Technology,Copiers,Copier Machine,2330.5,7,0.28,882.97
+476,OR-000476,11/08/2023,11/13/2023,Same Day,CUST-0373,Fiona Garcia,Home Office,United States,Chicago,Florida,38160,South,PROD-0018,Technology,Copiers,Copier Machine,316.36,1,0.13,103.71
+477,OR-000477,08/28/2023,09/02/2023,Standard Class,CUST-0451,Bob Johnson,Home Office,United States,Houston,Oregon,29247,West,PROD-0065,Technology,Phones,Office Phone,1427.64,5,0.07,162.99
+478,OR-000478,07/13/2023,07/14/2023,Standard Class,CUST-0122,Jane Doe,Home Office,United States,New York,Florida,17017,South,PROD-0021,Technology,Phones,Mobile Phone,2106.98,7,0.25,819.49
+479,OR-000479,03/17/2023,03/24/2023,Second Class,CUST-0249,George Martinez,Corporate,United States,Los Angeles,Massachusetts,44804,East,PROD-0016,Technology,Phones,Office Phone,264.96,10,0.23,63.79
+480,OR-000480,10/23/2023,10/30/2023,Same Day,CUST-0218,Charlie Wilson,Home Office,United States,Chicago,North Carolina,54973,South,PROD-0046,Furniture,Furnishings,Product,1140.58,7,0.26,308.46
+481,OR-000481,11/26/2023,11/30/2023,First Class,CUST-0053,Edward Davis,Consumer,United States,Los Angeles,Illinois,16391,Central,PROD-0053,Furniture,Bookcases,Standard Bookcase,2625.87,9,0.21,908.41
+482,OR-000482,04/09/2023,04/16/2023,Second Class,CUST-0280,Alice Brown,Corporate,United States,Chicago,Washington,38040,West,PROD-0012,Furniture,Chairs,Ergonomic Chair,2161.6,5,0.0,582.67
+483,OR-000483,07/23/2023,07/30/2023,First Class,CUST-0417,Hannah Lee,Consumer,United States,New York,California,20186,West,PROD-0096,Furniture,Bookcases,Corner Bookcase,1378.72,5,0.3,365.74
+484,OR-000484,07/29/2023,08/02/2023,Same Day,CUST-0371,Alice Brown,Corporate,United States,New York,Florida,98126,South,PROD-0016,Furniture,Furnishings,Product,1225.38,5,0.27,447.84
+485,OR-000485,06/10/2023,06/12/2023,Same Day,CUST-0009,Alice Brown,Home Office,United States,Chicago,Florida,67757,South,PROD-0054,Furniture,Bookcases,Corner Bookcase,278.2,4,0.03,58.66
+486,OR-000486,12/07/2023,12/14/2023,Same Day,CUST-0429,Alice Brown,Consumer,United States,Chicago,Florida,59933,South,PROD-0030,Technology,Copiers,Copier Machine,2435.85,6,0.04,956.19
+487,OR-000487,11/04/2023,11/10/2023,Second Class,CUST-0207,Charlie Wilson,Consumer,United States,New York,North Carolina,48194,South,PROD-0029,Furniture,Chairs,Executive Chair,1402.57,5,0.29,248.82
+488,OR-000488,03/14/2023,03/15/2023,Second Class,CUST-0369,John Smith,Home Office,United States,Chicago,Pennsylvania,93459,East,PROD-0057,Furniture,Bookcases,Corner Bookcase,93.74,2,0.15,32.08
+489,OR-000489,03/10/2023,03/17/2023,Same Day,CUST-0430,Hannah Lee,Home Office,United States,New York,Texas,98191,Central,PROD-0074,Technology,Computers,Tablet,3092.78,9,0.19,589.97
+490,OR-000490,07/03/2023,07/09/2023,Standard Class,CUST-0118,Jane Doe,Home Office,United States,New York,Illinois,37658,Central,PROD-0078,Office Supplies,Binders,3-Ring Binder,325.85,1,0.21,98.41
+491,OR-000491,07/03/2023,07/04/2023,Standard Class,CUST-0127,Charlie Wilson,Consumer,United States,Los Angeles,New York,21031,East,PROD-0093,Furniture,Furnishings,Product,2825.7,9,0.26,457.19
+492,OR-000492,07/04/2023,07/11/2023,First Class,CUST-0434,George Martinez,Consumer,United States,Los Angeles,Massachusetts,31650,East,PROD-0074,Furniture,Tables,Coffee Table,2163.96,6,0.02,707.95
+493,OR-000493,04/06/2023,04/09/2023,Second Class,CUST-0330,John Smith,Corporate,United States,New York,North Carolina,45837,South,PROD-0040,Furniture,Chairs,Conference Chair,1412.43,4,0.11,289.13
+494,OR-000494,11/11/2023,11/12/2023,Same Day,CUST-0274,Jane Doe,Consumer,United States,Houston,New York,54841,East,PROD-0049,Furniture,Furnishings,Product,1943.44,7,0.02,241.68
+495,OR-000495,05/15/2023,05/19/2023,Standard Class,CUST-0119,Charlie Wilson,Home Office,United States,Houston,Texas,83279,Central,PROD-0087,Office Supplies,Paper,Copy Paper,276.39,9,0.16,88.12
+496,OR-000496,08/21/2023,08/22/2023,Same Day,CUST-0265,Jane Doe,Corporate,United States,New York,Ohio,18432,Central,PROD-0084,Furniture,Tables,Conference Table,4063.05,9,0.07,775.54
+497,OR-000497,07/20/2023,07/21/2023,First Class,CUST-0175,Hannah Lee,Home Office,United States,Chicago,North Carolina,71174,South,PROD-0011,Technology,Accessories,Webcam,828.15,4,0.08,222.83
+498,OR-000498,07/01/2023,07/08/2023,Second Class,CUST-0236,Charlie Wilson,Consumer,United States,Houston,Massachusetts,47568,East,PROD-0017,Technology,Phones,Mobile Phone,2564.55,8,0.15,826.53
+499,OR-000499,03/14/2023,03/17/2023,Same Day,CUST-0081,Charlie Wilson,Corporate,United States,Los Angeles,North Carolina,94495,South,PROD-0056,Technology,Phones,Office Phone,2589.14,10,0.06,663.73
+500,OR-000500,09/17/2023,09/24/2023,Second Class,CUST-0269,Fiona Garcia,Corporate,United States,Los Angeles,Massachusetts,81038,East,PROD-0021,Technology,Copiers,Copier Machine,1024.53,5,0.26,206.35
+501,OR-000501,04/15/2023,04/20/2023,Second Class,CUST-0274,Hannah Lee,Consumer,United States,Los Angeles,California,71528,West,PROD-0032,Furniture,Bookcases,Standard Bookcase,415.07,7,0.2,66.03
+502,OR-000502,12/03/2023,12/10/2023,First Class,CUST-0285,Hannah Lee,Corporate,United States,Houston,New York,46128,East,PROD-0069,Furniture,Bookcases,Standard Bookcase,2840.83,9,0.28,896.48
+503,OR-000503,08/25/2023,08/31/2023,Standard Class,CUST-0121,Edward Davis,Corporate,United States,New York,Illinois,90851,Central,PROD-0024,Technology,Phones,Mobile Phone,1945.5,8,0.06,747.44
+504,OR-000504,07/23/2023,07/28/2023,Same Day,CUST-0406,John Smith,Home Office,United States,Chicago,Georgia,48515,South,PROD-0001,Technology,Accessories,Webcam,1770.71,4,0.01,328.88
+505,OR-000505,02/10/2023,02/16/2023,First Class,CUST-0054,Charlie Wilson,Home Office,United States,Chicago,Ohio,65875,Central,PROD-0055,Office Supplies,Labels,Shipping Labels,932.72,7,0.1,273.13
+506,OR-000506,02/09/2023,02/13/2023,Standard Class,CUST-0378,Edward Davis,Home Office,United States,Los Angeles,Illinois,34028,Central,PROD-0069,Furniture,Furnishings,Product,318.38,1,0.15,48.11
+507,OR-000507,01/22/2023,01/23/2023,Second Class,CUST-0483,Charlie Wilson,Corporate,United States,Houston,Illinois,40700,Central,PROD-0068,Furniture,Furnishings,Product,2195.47,6,0.08,482.06
+508,OR-000508,06/03/2023,06/05/2023,First Class,CUST-0147,Fiona Garcia,Consumer,United States,New York,Massachusetts,25767,East,PROD-0095,Furniture,Chairs,Conference Chair,1249.9,4,0.24,333.42
+509,OR-000509,08/09/2023,08/14/2023,Standard Class,CUST-0432,Charlie Wilson,Consumer,United States,Chicago,New York,37193,East,PROD-0086,Technology,Computers,Tablet,323.63,1,0.13,91.33
+510,OR-000510,02/02/2023,02/09/2023,First Class,CUST-0022,John Smith,Home Office,United States,Houston,Oregon,62208,West,PROD-0097,Furniture,Chairs,Executive Chair,611.06,9,0.09,201.95
+511,OR-000511,07/05/2023,07/12/2023,Second Class,CUST-0080,Fiona Garcia,Corporate,United States,New York,Florida,26152,South,PROD-0037,Office Supplies,Paper,Copy Paper,555.66,5,0.03,198.9
+512,OR-000512,11/24/2023,12/01/2023,Standard Class,CUST-0141,Edward Davis,Home Office,United States,New York,Florida,72839,South,PROD-0042,Furniture,Bookcases,Corner Bookcase,3679.45,10,0.07,1364.58
+513,OR-000513,05/10/2023,05/13/2023,Second Class,CUST-0126,Hannah Lee,Corporate,United States,Chicago,Pennsylvania,36187,East,PROD-0027,Furniture,Chairs,Ergonomic Chair,1966.82,5,0.16,391.31
+514,OR-000514,06/03/2023,06/07/2023,Standard Class,CUST-0238,Fiona Garcia,Corporate,United States,Los Angeles,Pennsylvania,69128,East,PROD-0079,Office Supplies,Storage,Storage Bin,1581.7,7,0.28,625.88
+515,OR-000515,11/28/2023,12/02/2023,Standard Class,CUST-0332,Hannah Lee,Corporate,United States,Los Angeles,North Carolina,15733,South,PROD-0054,Furniture,Furnishings,Product,106.63,1,0.16,29.01
+516,OR-000516,09/14/2023,09/20/2023,Same Day,CUST-0127,Edward Davis,Home Office,United States,Chicago,Illinois,99703,Central,PROD-0063,Office Supplies,Labels,Shipping Labels,1516.32,10,0.04,586.81
+517,OR-000517,02/12/2023,02/17/2023,Second Class,CUST-0002,George Martinez,Consumer,United States,Los Angeles,Texas,17339,Central,PROD-0081,Office Supplies,Binders,5-Ring Binder,292.5,1,0.08,53.74
+518,OR-000518,09/13/2023,09/19/2023,Same Day,CUST-0148,Jane Doe,Consumer,United States,Los Angeles,Pennsylvania,64117,East,PROD-0050,Technology,Copiers,Copier Machine,1402.68,7,0.21,286.52
+519,OR-000519,05/29/2023,06/01/2023,First Class,CUST-0043,Charlie Wilson,Home Office,United States,Los Angeles,California,26809,West,PROD-0087,Technology,Phones,Mobile Phone,799.59,8,0.17,270.77
+520,OR-000520,06/27/2023,07/03/2023,First Class,CUST-0480,Hannah Lee,Consumer,United States,Houston,Washington,95272,West,PROD-0060,Furniture,Furnishings,Product,172.64,4,0.17,20.21
+521,OR-000521,02/21/2023,02/26/2023,Second Class,CUST-0460,Diana Miller,Home Office,United States,Chicago,Texas,90832,Central,PROD-0071,Furniture,Tables,Coffee Table,1245.37,6,0.04,329.28
+522,OR-000522,12/24/2023,12/31/2023,Second Class,CUST-0356,Hannah Lee,Consumer,United States,New York,Massachusetts,91376,East,PROD-0076,Office Supplies,Paper,Sticky Notes,393.1,8,0.13,96.62
+523,OR-000523,10/19/2023,10/21/2023,Same Day,CUST-0330,George Martinez,Home Office,United States,Houston,Georgia,65713,South,PROD-0016,Technology,Accessories,Mouse,1740.24,8,0.25,623.76
+524,OR-000524,10/19/2023,10/22/2023,Second Class,CUST-0181,George Martinez,Consumer,United States,New York,Florida,93804,South,PROD-0063,Technology,Copiers,Copier Machine,1189.77,7,0.3,332.49
+525,OR-000525,03/21/2023,03/26/2023,Second Class,CUST-0441,Bob Johnson,Consumer,United States,Houston,Massachusetts,36399,East,PROD-0001,Office Supplies,Paper,Notebook,221.46,6,0.16,55.83
+526,OR-000526,11/20/2023,11/23/2023,Standard Class,CUST-0178,Alice Brown,Home Office,United States,Houston,California,46339,West,PROD-0020,Furniture,Tables,Coffee Table,1004.09,7,0.1,161.84
+527,OR-000527,03/14/2023,03/16/2023,Second Class,CUST-0185,Fiona Garcia,Consumer,United States,Los Angeles,Illinois,76150,Central,PROD-0086,Furniture,Chairs,Executive Chair,883.46,4,0.22,241.31
+528,OR-000528,01/10/2023,01/14/2023,Second Class,CUST-0329,Hannah Lee,Consumer,United States,New York,Pennsylvania,51533,East,PROD-0018,Technology,Phones,Office Phone,547.47,3,0.29,179.02
+529,OR-000529,09/01/2023,09/04/2023,Standard Class,CUST-0047,Edward Davis,Consumer,United States,Los Angeles,Washington,34970,West,PROD-0064,Furniture,Chairs,Ergonomic Chair,144.15,1,0.06,35.18
+530,OR-000530,12/14/2023,12/18/2023,First Class,CUST-0302,Diana Miller,Home Office,United States,New York,Massachusetts,84661,East,PROD-0083,Office Supplies,Storage,File Box,163.37,2,0.25,49.82
+531,OR-000531,03/21/2023,03/23/2023,Second Class,CUST-0299,Diana Miller,Home Office,United States,New York,California,35848,West,PROD-0036,Office Supplies,Paper,Notebook,1913.09,10,0.09,710.92
+532,OR-000532,11/16/2023,11/23/2023,Same Day,CUST-0263,Bob Johnson,Consumer,United States,New York,Illinois,95425,Central,PROD-0003,Technology,Computers,Laptop,561.12,4,0.24,68.25
+533,OR-000533,06/25/2023,06/29/2023,Same Day,CUST-0426,Alice Brown,Corporate,United States,Chicago,Massachusetts,70617,East,PROD-0028,Furniture,Tables,Dining Table,506.87,6,0.16,101.96
+534,OR-000534,04/14/2023,04/15/2023,Same Day,CUST-0296,Bob Johnson,Corporate,United States,New York,Washington,56526,West,PROD-0067,Technology,Phones,Office Phone,192.61,1,0.25,40.17
+535,OR-000535,01/26/2023,02/01/2023,Second Class,CUST-0190,Charlie Wilson,Home Office,United States,New York,Georgia,29888,South,PROD-0095,Technology,Phones,Mobile Phone,634.92,2,0.27,88.23
+536,OR-000536,09/02/2023,09/08/2023,Standard Class,CUST-0007,Edward Davis,Corporate,United States,Chicago,Pennsylvania,25513,East,PROD-0090,Furniture,Bookcases,Corner Bookcase,4789.4,10,0.0,698.78
+537,OR-000537,07/22/2023,07/25/2023,Second Class,CUST-0019,Bob Johnson,Corporate,United States,New York,New York,36323,East,PROD-0096,Office Supplies,Paper,Notebook,1236.17,10,0.28,392.04
+538,OR-000538,01/30/2023,02/03/2023,Same Day,CUST-0415,Hannah Lee,Home Office,United States,New York,Georgia,82436,South,PROD-0067,Furniture,Furnishings,Product,250.39,7,0.28,25.3
+539,OR-000539,09/04/2023,09/06/2023,Same Day,CUST-0010,Jane Doe,Consumer,United States,Chicago,Massachusetts,96100,East,PROD-0036,Technology,Accessories,Keyboard,2711.36,8,0.2,439.22
+540,OR-000540,12/25/2023,12/31/2023,Standard Class,CUST-0368,Alice Brown,Home Office,United States,New York,Oregon,80042,West,PROD-0086,Office Supplies,Paper,Notebook,699.9,4,0.25,153.85
+541,OR-000541,01/22/2023,01/27/2023,Second Class,CUST-0482,Charlie Wilson,Corporate,United States,Los Angeles,New York,58421,East,PROD-0087,Technology,Copiers,Copier Machine,3133.2,7,0.07,968.62
+542,OR-000542,11/24/2023,11/26/2023,Second Class,CUST-0391,Charlie Wilson,Home Office,United States,Houston,Massachusetts,23781,East,PROD-0025,Office Supplies,Binders,3-Ring Binder,1666.36,4,0.16,471.72
+543,OR-000543,07/13/2023,07/15/2023,First Class,CUST-0253,John Smith,Corporate,United States,New York,Oregon,89535,West,PROD-0018,Office Supplies,Labels,Shipping Labels,3430.11,10,0.24,1196.15
+544,OR-000544,07/08/2023,07/10/2023,Standard Class,CUST-0333,Alice Brown,Home Office,United States,Chicago,North Carolina,64311,South,PROD-0031,Technology,Computers,Desktop,452.06,2,0.27,70.39
+545,OR-000545,01/06/2023,01/09/2023,First Class,CUST-0356,Edward Davis,Consumer,United States,Houston,Texas,50004,Central,PROD-0097,Office Supplies,Paper,Sticky Notes,2549.34,7,0.09,666.72
+546,OR-000546,04/21/2023,04/28/2023,Second Class,CUST-0439,Bob Johnson,Home Office,United States,Chicago,California,87621,West,PROD-0035,Technology,Phones,Office Phone,619.31,7,0.3,61.99
+547,OR-000547,07/07/2023,07/12/2023,Same Day,CUST-0055,Hannah Lee,Home Office,United States,Chicago,Illinois,40159,Central,PROD-0033,Furniture,Bookcases,Corner Bookcase,1411.56,8,0.1,310.3
+548,OR-000548,06/04/2023,06/08/2023,First Class,CUST-0038,Alice Brown,Consumer,United States,Los Angeles,Oregon,43450,West,PROD-0032,Technology,Accessories,Webcam,158.71,1,0.29,60.17
+549,OR-000549,11/22/2023,11/23/2023,Second Class,CUST-0331,Hannah Lee,Home Office,United States,Houston,Oregon,38387,West,PROD-0037,Furniture,Tables,Conference Table,451.0,5,0.09,82.97
+550,OR-000550,05/02/2023,05/08/2023,Standard Class,CUST-0062,Charlie Wilson,Consumer,United States,Los Angeles,Pennsylvania,80088,East,PROD-0044,Technology,Phones,Mobile Phone,444.69,5,0.05,174.45
+551,OR-000551,10/21/2023,10/23/2023,Standard Class,CUST-0165,Alice Brown,Consumer,United States,Chicago,Texas,32196,Central,PROD-0082,Office Supplies,Storage,File Box,2744.39,9,0.26,502.99
+552,OR-000552,08/31/2023,09/02/2023,Same Day,CUST-0075,Jane Doe,Home Office,United States,Los Angeles,Ohio,40950,Central,PROD-0056,Technology,Computers,Tablet,1614.68,5,0.22,583.44
+553,OR-000553,04/27/2023,04/29/2023,First Class,CUST-0061,Hannah Lee,Corporate,United States,New York,Texas,90812,Central,PROD-0100,Office Supplies,Labels,Address Labels,447.01,1,0.0,171.03
+554,OR-000554,01/05/2023,01/09/2023,Second Class,CUST-0403,Jane Doe,Corporate,United States,Los Angeles,Illinois,61180,Central,PROD-0044,Technology,Phones,Mobile Phone,1972.02,5,0.07,349.98
+555,OR-000555,08/16/2023,08/17/2023,Second Class,CUST-0353,John Smith,Consumer,United States,Chicago,New York,63039,East,PROD-0029,Furniture,Bookcases,Standard Bookcase,1713.46,10,0.27,287.53
+556,OR-000556,03/22/2023,03/27/2023,First Class,CUST-0224,Diana Miller,Consumer,United States,Houston,Illinois,78282,Central,PROD-0085,Furniture,Chairs,Conference Chair,649.8,3,0.0,231.11
+557,OR-000557,03/01/2023,03/07/2023,Second Class,CUST-0399,Jane Doe,Corporate,United States,Chicago,Texas,14765,Central,PROD-0088,Office Supplies,Paper,Notebook,139.23,10,0.24,18.29
+558,OR-000558,08/04/2023,08/06/2023,Same Day,CUST-0465,George Martinez,Consumer,United States,New York,Oregon,56254,West,PROD-0094,Office Supplies,Labels,Address Labels,87.42,9,0.29,15.79
+559,OR-000559,05/12/2023,05/16/2023,Same Day,CUST-0062,Charlie Wilson,Corporate,United States,Houston,Texas,56423,Central,PROD-0015,Office Supplies,Paper,Copy Paper,2993.9,9,0.11,1120.95
+560,OR-000560,01/01/2023,01/04/2023,Same Day,CUST-0370,Charlie Wilson,Consumer,United States,Chicago,Washington,14764,West,PROD-0083,Furniture,Furnishings,Product,1468.46,5,0.12,348.38
+561,OR-000561,04/05/2023,04/09/2023,First Class,CUST-0105,Hannah Lee,Home Office,United States,Los Angeles,Massachusetts,71703,East,PROD-0073,Technology,Computers,Laptop,604.09,6,0.22,210.0
+562,OR-000562,06/15/2023,06/19/2023,Same Day,CUST-0399,Fiona Garcia,Consumer,United States,Chicago,Florida,33793,South,PROD-0069,Technology,Phones,Office Phone,530.95,2,0.1,152.35
+563,OR-000563,11/13/2023,11/14/2023,First Class,CUST-0477,Charlie Wilson,Home Office,United States,Los Angeles,Texas,77441,Central,PROD-0093,Office Supplies,Binders,5-Ring Binder,916.02,4,0.11,211.77
+564,OR-000564,03/15/2023,03/18/2023,Standard Class,CUST-0373,Fiona Garcia,Corporate,United States,Los Angeles,Texas,59416,Central,PROD-0080,Technology,Accessories,Mouse,315.43,3,0.25,95.89
+565,OR-000565,01/22/2023,01/28/2023,First Class,CUST-0341,Alice Brown,Corporate,United States,Houston,Oregon,10067,West,PROD-0004,Technology,Accessories,Webcam,805.48,4,0.21,114.79
+566,OR-000566,05/15/2023,05/17/2023,Standard Class,CUST-0077,Jane Doe,Consumer,United States,Los Angeles,Washington,69267,West,PROD-0046,Office Supplies,Binders,5-Ring Binder,273.56,8,0.26,92.45
+567,OR-000567,06/17/2023,06/19/2023,Same Day,CUST-0194,George Martinez,Home Office,United States,Los Angeles,Washington,20085,West,PROD-0095,Office Supplies,Binders,3-Ring Binder,2558.77,10,0.26,964.34
+568,OR-000568,05/20/2023,05/22/2023,Standard Class,CUST-0255,Edward Davis,Home Office,United States,Los Angeles,Washington,30931,West,PROD-0060,Technology,Accessories,Mouse,1479.99,4,0.09,467.94
+569,OR-000569,04/29/2023,05/06/2023,Second Class,CUST-0095,Charlie Wilson,Corporate,United States,Houston,Florida,54396,South,PROD-0026,Technology,Accessories,Webcam,146.64,1,0.26,20.78
+570,OR-000570,01/06/2023,01/13/2023,Second Class,CUST-0023,Diana Miller,Home Office,United States,Houston,Washington,55548,West,PROD-0074,Technology,Copiers,Copier Machine,249.59,1,0.07,42.65
+571,OR-000571,12/16/2023,12/17/2023,Second Class,CUST-0213,Edward Davis,Corporate,United States,Chicago,Ohio,64687,Central,PROD-0057,Technology,Computers,Tablet,241.15,6,0.11,81.3
+572,OR-000572,03/02/2023,03/07/2023,First Class,CUST-0393,Charlie Wilson,Corporate,United States,Los Angeles,California,62597,West,PROD-0054,Technology,Accessories,Webcam,417.76,2,0.0,122.6
+573,OR-000573,08/31/2023,09/05/2023,Same Day,CUST-0130,Diana Miller,Corporate,United States,Houston,Florida,98495,South,PROD-0019,Office Supplies,Paper,Sticky Notes,2902.79,7,0.1,652.38
+574,OR-000574,05/11/2023,05/16/2023,Standard Class,CUST-0053,Hannah Lee,Corporate,United States,Houston,Massachusetts,30755,East,PROD-0094,Office Supplies,Storage,File Box,1359.65,6,0.09,205.49
+575,OR-000575,03/03/2023,03/06/2023,Standard Class,CUST-0153,George Martinez,Consumer,United States,New York,Florida,93066,South,PROD-0037,Technology,Computers,Laptop,3286.3,10,0.01,374.65
+576,OR-000576,06/18/2023,06/23/2023,Second Class,CUST-0484,Bob Johnson,Home Office,United States,Houston,Ohio,70579,Central,PROD-0091,Office Supplies,Binders,3-Ring Binder,990.15,4,0.07,291.25
+577,OR-000577,01/12/2023,01/15/2023,Same Day,CUST-0367,Hannah Lee,Home Office,United States,Los Angeles,North Carolina,63920,South,PROD-0001,Office Supplies,Paper,Notebook,1529.25,5,0.26,197.38
+578,OR-000578,05/24/2023,05/28/2023,Standard Class,CUST-0183,Edward Davis,Home Office,United States,New York,Pennsylvania,35269,East,PROD-0038,Technology,Phones,Office Phone,2263.06,10,0.07,399.35
+579,OR-000579,08/31/2023,09/04/2023,Standard Class,CUST-0074,Edward Davis,Home Office,United States,New York,Pennsylvania,70647,East,PROD-0057,Technology,Computers,Laptop,590.1,10,0.25,112.07
+580,OR-000580,05/20/2023,05/25/2023,First Class,CUST-0285,George Martinez,Home Office,United States,New York,Washington,10979,West,PROD-0053,Technology,Phones,Office Phone,2057.47,5,0.15,483.7
+581,OR-000581,01/10/2023,01/11/2023,First Class,CUST-0375,Jane Doe,Consumer,United States,Houston,Georgia,61054,South,PROD-0028,Technology,Accessories,Mouse,736.12,5,0.25,243.89
+582,OR-000582,03/02/2023,03/08/2023,Same Day,CUST-0076,Charlie Wilson,Consumer,United States,Houston,Massachusetts,27494,East,PROD-0021,Furniture,Bookcases,Corner Bookcase,725.48,2,0.14,236.96
+583,OR-000583,02/27/2023,03/05/2023,Same Day,CUST-0387,Diana Miller,Home Office,United States,Los Angeles,Florida,96697,South,PROD-0078,Technology,Phones,Office Phone,144.99,4,0.12,29.42
+584,OR-000584,07/01/2023,07/08/2023,Same Day,CUST-0386,Diana Miller,Home Office,United States,New York,California,26470,West,PROD-0018,Technology,Computers,Laptop,2186.67,8,0.24,506.52
+585,OR-000585,06/03/2023,06/10/2023,Second Class,CUST-0296,Bob Johnson,Home Office,United States,Chicago,Florida,57182,South,PROD-0014,Furniture,Chairs,Conference Chair,3193.34,10,0.13,1096.53
+586,OR-000586,10/10/2023,10/17/2023,First Class,CUST-0395,Edward Davis,Consumer,United States,Houston,Texas,53153,Central,PROD-0012,Office Supplies,Labels,Shipping Labels,1761.89,10,0.08,670.99
+587,OR-000587,03/28/2023,04/03/2023,Same Day,CUST-0494,Fiona Garcia,Home Office,United States,New York,Illinois,18460,Central,PROD-0064,Technology,Copiers,Copier Machine,2887.32,8,0.16,478.91
+588,OR-000588,02/02/2023,02/09/2023,Standard Class,CUST-0125,George Martinez,Consumer,United States,Los Angeles,Oregon,29124,West,PROD-0092,Office Supplies,Paper,Copy Paper,1291.92,5,0.24,165.85
+589,OR-000589,03/16/2023,03/17/2023,First Class,CUST-0070,Edward Davis,Home Office,United States,Los Angeles,Georgia,97957,South,PROD-0073,Office Supplies,Labels,Address Labels,251.72,1,0.02,69.48
+590,OR-000590,02/12/2023,02/19/2023,Second Class,CUST-0449,Bob Johnson,Consumer,United States,Chicago,Oregon,40255,West,PROD-0010,Furniture,Tables,Dining Table,1410.59,6,0.1,146.25
+591,OR-000591,09/30/2023,10/01/2023,Same Day,CUST-0180,Jane Doe,Consumer,United States,Chicago,Oregon,69810,West,PROD-0044,Furniture,Chairs,Conference Chair,302.61,3,0.02,109.23
+592,OR-000592,03/31/2023,04/04/2023,Second Class,CUST-0001,George Martinez,Corporate,United States,New York,Washington,55390,West,PROD-0034,Office Supplies,Labels,Address Labels,264.67,2,0.14,90.14
+593,OR-000593,10/14/2023,10/20/2023,Standard Class,CUST-0163,Diana Miller,Consumer,United States,Chicago,California,29881,West,PROD-0023,Technology,Accessories,Keyboard,3405.25,10,0.12,377.42
+594,OR-000594,01/24/2023,01/31/2023,First Class,CUST-0187,Diana Miller,Corporate,United States,New York,Florida,59847,South,PROD-0015,Technology,Accessories,Keyboard,68.96,1,0.29,23.78
+595,OR-000595,05/02/2023,05/04/2023,Second Class,CUST-0452,Bob Johnson,Consumer,United States,Houston,Massachusetts,61639,East,PROD-0017,Office Supplies,Storage,File Box,130.8,4,0.07,18.97
+596,OR-000596,06/03/2023,06/09/2023,First Class,CUST-0105,George Martinez,Consumer,United States,Chicago,Massachusetts,57159,East,PROD-0071,Furniture,Bookcases,Standard Bookcase,1188.26,8,0.11,283.56
+597,OR-000597,01/11/2023,01/16/2023,First Class,CUST-0260,John Smith,Home Office,United States,Chicago,Ohio,75375,Central,PROD-0041,Furniture,Chairs,Conference Chair,406.89,8,0.07,115.01
+598,OR-000598,08/28/2023,08/30/2023,First Class,CUST-0108,Fiona Garcia,Home Office,United States,New York,Georgia,97887,South,PROD-0036,Office Supplies,Storage,File Box,545.53,2,0.16,149.12
+599,OR-000599,06/05/2023,06/09/2023,Same Day,CUST-0417,Diana Miller,Home Office,United States,Chicago,Washington,15713,West,PROD-0082,Office Supplies,Paper,Copy Paper,782.94,3,0.12,232.07
+600,OR-000600,06/22/2023,06/25/2023,Standard Class,CUST-0262,George Martinez,Corporate,United States,Chicago,Massachusetts,48803,East,PROD-0006,Furniture,Furnishings,Product,2667.15,7,0.15,1044.69
+601,OR-000601,12/04/2023,12/07/2023,Standard Class,CUST-0493,Diana Miller,Consumer,United States,Houston,Florida,38105,South,PROD-0007,Furniture,Chairs,Conference Chair,798.26,2,0.2,252.52
+602,OR-000602,05/14/2023,05/21/2023,Same Day,CUST-0484,Diana Miller,Corporate,United States,Chicago,Washington,53247,West,PROD-0035,Technology,Computers,Laptop,299.95,5,0.28,102.75
+603,OR-000603,10/25/2023,11/01/2023,Second Class,CUST-0482,Charlie Wilson,Corporate,United States,Houston,Massachusetts,14946,East,PROD-0008,Furniture,Furnishings,Product,729.24,8,0.09,250.47
+604,OR-000604,06/26/2023,06/27/2023,First Class,CUST-0031,Jane Doe,Corporate,United States,Los Angeles,Illinois,65071,Central,PROD-0046,Technology,Copiers,Copier Machine,366.31,7,0.22,118.83
+605,OR-000605,07/20/2023,07/26/2023,Second Class,CUST-0395,George Martinez,Consumer,United States,Houston,California,23963,West,PROD-0038,Technology,Copiers,Copier Machine,143.44,1,0.21,18.37
+606,OR-000606,03/09/2023,03/16/2023,Second Class,CUST-0015,Edward Davis,Consumer,United States,Chicago,North Carolina,24327,South,PROD-0069,Furniture,Furnishings,Product,531.31,4,0.29,146.82
+607,OR-000607,02/28/2023,03/05/2023,Standard Class,CUST-0245,Fiona Garcia,Home Office,United States,New York,Florida,84806,South,PROD-0042,Office Supplies,Paper,Notebook,49.53,3,0.21,5.6
+608,OR-000608,08/25/2023,08/29/2023,Standard Class,CUST-0200,Diana Miller,Consumer,United States,Los Angeles,Ohio,11106,Central,PROD-0062,Office Supplies,Paper,Sticky Notes,178.2,1,0.27,34.17
+609,OR-000609,01/18/2023,01/21/2023,Second Class,CUST-0340,Charlie Wilson,Home Office,United States,New York,North Carolina,24904,South,PROD-0064,Office Supplies,Storage,File Box,1147.38,4,0.26,299.9
+610,OR-000610,02/11/2023,02/13/2023,Standard Class,CUST-0332,Bob Johnson,Home Office,United States,Houston,Oregon,45708,West,PROD-0006,Technology,Computers,Tablet,130.13,9,0.15,37.5
+611,OR-000611,08/06/2023,08/08/2023,Same Day,CUST-0273,Charlie Wilson,Corporate,United States,Chicago,Illinois,34335,Central,PROD-0030,Furniture,Tables,Coffee Table,3390.04,10,0.18,1236.92
+612,OR-000612,08/19/2023,08/22/2023,Same Day,CUST-0021,Bob Johnson,Corporate,United States,Chicago,California,20429,West,PROD-0039,Technology,Accessories,Mouse,231.67,2,0.27,40.96
+613,OR-000613,02/05/2023,02/09/2023,First Class,CUST-0168,John Smith,Home Office,United States,New York,Pennsylvania,61860,East,PROD-0060,Office Supplies,Labels,Shipping Labels,426.79,10,0.08,106.44
+614,OR-000614,11/15/2023,11/16/2023,First Class,CUST-0247,Jane Doe,Consumer,United States,Los Angeles,New York,51986,East,PROD-0044,Office Supplies,Labels,Address Labels,1055.93,3,0.02,322.33
+615,OR-000615,06/14/2023,06/17/2023,First Class,CUST-0168,Fiona Garcia,Home Office,United States,New York,Washington,70946,West,PROD-0100,Furniture,Bookcases,Corner Bookcase,524.83,4,0.16,153.09
+616,OR-000616,12/02/2023,12/07/2023,Standard Class,CUST-0151,John Smith,Consumer,United States,New York,Florida,81896,South,PROD-0087,Office Supplies,Binders,5-Ring Binder,230.53,2,0.27,59.19
+617,OR-000617,07/15/2023,07/22/2023,Same Day,CUST-0305,George Martinez,Consumer,United States,Houston,Massachusetts,57587,East,PROD-0047,Office Supplies,Binders,3-Ring Binder,333.38,9,0.22,72.49
+618,OR-000618,12/31/2023,01/03/2024,Same Day,CUST-0256,George Martinez,Corporate,United States,Chicago,California,84523,West,PROD-0091,Furniture,Tables,Conference Table,1698.97,7,0.27,263.89
+619,OR-000619,08/30/2023,09/04/2023,Same Day,CUST-0053,George Martinez,Home Office,United States,Houston,Florida,79826,South,PROD-0037,Technology,Phones,Office Phone,189.52,3,0.11,42.62
+620,OR-000620,09/26/2023,10/02/2023,Standard Class,CUST-0395,John Smith,Consumer,United States,Chicago,New York,95713,East,PROD-0073,Office Supplies,Paper,Copy Paper,2073.56,6,0.28,276.51
+621,OR-000621,05/11/2023,05/17/2023,Standard Class,CUST-0368,Bob Johnson,Corporate,United States,Chicago,North Carolina,83432,South,PROD-0045,Office Supplies,Binders,3-Ring Binder,1430.06,7,0.18,278.03
+622,OR-000622,04/19/2023,04/22/2023,Same Day,CUST-0175,John Smith,Consumer,United States,Los Angeles,Georgia,90759,South,PROD-0066,Technology,Copiers,Copier Machine,983.64,6,0.22,242.15
+623,OR-000623,05/30/2023,06/02/2023,First Class,CUST-0148,John Smith,Consumer,United States,Los Angeles,North Carolina,31237,South,PROD-0077,Technology,Phones,Mobile Phone,393.25,1,0.07,131.15
+624,OR-000624,12/07/2023,12/11/2023,Same Day,CUST-0080,George Martinez,Corporate,United States,Los Angeles,Texas,88280,Central,PROD-0089,Furniture,Tables,Coffee Table,15.85,1,0.14,2.97
+625,OR-000625,03/22/2023,03/28/2023,Same Day,CUST-0483,Hannah Lee,Consumer,United States,Chicago,Georgia,42634,South,PROD-0065,Office Supplies,Storage,Storage Bin,1664.95,9,0.15,410.26
+626,OR-000626,03/17/2023,03/22/2023,Standard Class,CUST-0236,Fiona Garcia,Home Office,United States,New York,North Carolina,59466,South,PROD-0060,Technology,Accessories,Webcam,1214.31,4,0.26,144.38
+627,OR-000627,06/13/2023,06/15/2023,Second Class,CUST-0475,Bob Johnson,Corporate,United States,Chicago,Massachusetts,44976,East,PROD-0014,Technology,Computers,Desktop,607.25,3,0.12,183.07
+628,OR-000628,01/03/2023,01/04/2023,First Class,CUST-0382,Jane Doe,Consumer,United States,Chicago,Georgia,54321,South,PROD-0098,Furniture,Furnishings,Product,1060.26,10,0.18,296.37
+629,OR-000629,10/08/2023,10/09/2023,First Class,CUST-0377,Hannah Lee,Corporate,United States,Chicago,Georgia,85892,South,PROD-0018,Office Supplies,Labels,Shipping Labels,197.56,4,0.13,59.87
+630,OR-000630,05/27/2023,05/28/2023,Same Day,CUST-0193,Edward Davis,Home Office,United States,Chicago,Pennsylvania,32873,East,PROD-0062,Office Supplies,Storage,File Box,1215.13,5,0.3,285.3
+631,OR-000631,02/26/2023,02/28/2023,Standard Class,CUST-0260,Alice Brown,Consumer,United States,Chicago,Massachusetts,74502,East,PROD-0069,Office Supplies,Paper,Notebook,298.84,1,0.28,99.95
+632,OR-000632,10/28/2023,11/01/2023,Second Class,CUST-0082,Jane Doe,Home Office,United States,New York,Massachusetts,12922,East,PROD-0083,Technology,Computers,Tablet,357.26,2,0.28,58.99
+633,OR-000633,01/30/2023,02/01/2023,Second Class,CUST-0294,Fiona Garcia,Corporate,United States,Chicago,Illinois,56313,Central,PROD-0036,Technology,Computers,Laptop,869.18,7,0.12,216.33
+634,OR-000634,08/11/2023,08/13/2023,Second Class,CUST-0124,John Smith,Corporate,United States,New York,California,90984,West,PROD-0081,Furniture,Bookcases,Standard Bookcase,2382.47,6,0.09,541.74
+635,OR-000635,08/13/2023,08/18/2023,First Class,CUST-0085,Hannah Lee,Home Office,United States,Houston,Texas,51828,Central,PROD-0082,Technology,Copiers,Copier Machine,1516.35,5,0.0,381.46
+636,OR-000636,03/25/2023,04/01/2023,Same Day,CUST-0293,Charlie Wilson,Corporate,United States,New York,Texas,20174,Central,PROD-0060,Furniture,Tables,Coffee Table,258.33,2,0.26,29.41
+637,OR-000637,05/01/2023,05/03/2023,Standard Class,CUST-0098,John Smith,Corporate,United States,Chicago,New York,27242,East,PROD-0041,Furniture,Furnishings,Product,171.83,1,0.01,55.57
+638,OR-000638,03/01/2023,03/08/2023,Standard Class,CUST-0132,Jane Doe,Consumer,United States,Houston,Georgia,74234,South,PROD-0100,Furniture,Furnishings,Product,2940.05,7,0.14,1120.61
+639,OR-000639,11/23/2023,11/28/2023,First Class,CUST-0086,Diana Miller,Home Office,United States,New York,Pennsylvania,91418,East,PROD-0064,Office Supplies,Paper,Sticky Notes,1963.37,9,0.12,670.94
+640,OR-000640,05/15/2023,05/21/2023,First Class,CUST-0053,George Martinez,Corporate,United States,Houston,Massachusetts,46607,East,PROD-0013,Furniture,Chairs,Conference Chair,2494.82,10,0.21,328.74
+641,OR-000641,06/20/2023,06/23/2023,First Class,CUST-0127,Alice Brown,Home Office,United States,Chicago,Ohio,14610,Central,PROD-0086,Technology,Accessories,Keyboard,446.97,10,0.05,59.9
+642,OR-000642,11/27/2023,11/29/2023,First Class,CUST-0303,Charlie Wilson,Corporate,United States,New York,Florida,56639,South,PROD-0003,Office Supplies,Storage,Storage Bin,452.05,4,0.05,140.62
+643,OR-000643,10/11/2023,10/12/2023,First Class,CUST-0182,Alice Brown,Home Office,United States,Los Angeles,Pennsylvania,85761,East,PROD-0056,Technology,Phones,Office Phone,2526.91,10,0.18,792.94
+644,OR-000644,12/21/2023,12/26/2023,First Class,CUST-0452,Hannah Lee,Home Office,United States,Houston,Oregon,18669,West,PROD-0095,Furniture,Furnishings,Product,188.42,2,0.1,22.16
+645,OR-000645,01/06/2023,01/08/2023,First Class,CUST-0141,Fiona Garcia,Consumer,United States,Chicago,Pennsylvania,76740,East,PROD-0023,Technology,Copiers,Copier Machine,54.91,1,0.12,7.13
+646,OR-000646,12/04/2023,12/08/2023,Same Day,CUST-0193,Diana Miller,Corporate,United States,Houston,Pennsylvania,49136,East,PROD-0090,Technology,Computers,Laptop,1843.56,8,0.25,639.25
+647,OR-000647,10/24/2023,10/29/2023,Second Class,CUST-0155,Hannah Lee,Consumer,United States,Houston,Ohio,94349,Central,PROD-0080,Office Supplies,Binders,5-Ring Binder,3038.49,9,0.27,358.1
+648,OR-000648,11/07/2023,11/12/2023,First Class,CUST-0095,Jane Doe,Consumer,United States,Chicago,New York,39518,East,PROD-0027,Furniture,Tables,Conference Table,262.0,3,0.19,75.16
+649,OR-000649,11/19/2023,11/24/2023,Standard Class,CUST-0131,Fiona Garcia,Home Office,United States,Houston,Georgia,72866,South,PROD-0096,Technology,Copiers,Copier Machine,764.91,5,0.22,81.41
+650,OR-000650,12/08/2023,12/15/2023,Standard Class,CUST-0293,Diana Miller,Home Office,United States,Houston,Texas,11531,Central,PROD-0068,Technology,Phones,Mobile Phone,299.78,2,0.15,45.49
+651,OR-000651,08/03/2023,08/04/2023,Same Day,CUST-0186,Jane Doe,Corporate,United States,Chicago,Florida,34439,South,PROD-0049,Office Supplies,Storage,Storage Bin,1603.01,7,0.16,489.27
+652,OR-000652,04/22/2023,04/24/2023,Second Class,CUST-0015,Edward Davis,Home Office,United States,Houston,California,80189,West,PROD-0038,Office Supplies,Paper,Copy Paper,399.53,1,0.1,155.9
+653,OR-000653,07/14/2023,07/21/2023,Same Day,CUST-0481,Edward Davis,Consumer,United States,Los Angeles,California,80327,West,PROD-0086,Technology,Copiers,Copier Machine,2304.93,9,0.02,365.98
+654,OR-000654,01/26/2023,01/29/2023,First Class,CUST-0206,John Smith,Corporate,United States,Houston,Oregon,34959,West,PROD-0060,Furniture,Furnishings,Product,841.67,3,0.1,271.12
+655,OR-000655,01/04/2023,01/05/2023,Same Day,CUST-0174,Fiona Garcia,Corporate,United States,Los Angeles,Ohio,21915,Central,PROD-0028,Technology,Computers,Laptop,559.8,2,0.08,106.1
+656,OR-000656,07/11/2023,07/14/2023,Same Day,CUST-0427,Alice Brown,Consumer,United States,Los Angeles,Massachusetts,65975,East,PROD-0075,Technology,Phones,Office Phone,3806.09,10,0.03,1451.78
+657,OR-000657,11/23/2023,11/24/2023,First Class,CUST-0311,Alice Brown,Corporate,United States,Los Angeles,Ohio,76411,Central,PROD-0063,Technology,Phones,Office Phone,551.95,2,0.09,73.03
+658,OR-000658,04/03/2023,04/06/2023,Second Class,CUST-0208,Bob Johnson,Corporate,United States,Houston,Florida,21514,South,PROD-0096,Furniture,Furnishings,Product,54.81,1,0.27,12.56
+659,OR-000659,07/21/2023,07/28/2023,Same Day,CUST-0136,John Smith,Consumer,United States,Los Angeles,Ohio,12617,Central,PROD-0022,Technology,Phones,Mobile Phone,170.74,1,0.18,33.91
+660,OR-000660,02/18/2023,02/22/2023,First Class,CUST-0092,Edward Davis,Home Office,United States,Chicago,Georgia,62151,South,PROD-0076,Office Supplies,Labels,Shipping Labels,357.88,8,0.06,115.89
+661,OR-000661,09/29/2023,10/05/2023,Same Day,CUST-0400,Hannah Lee,Home Office,United States,Chicago,Georgia,19730,South,PROD-0079,Furniture,Tables,Coffee Table,2510.89,8,0.05,812.4
+662,OR-000662,10/18/2023,10/20/2023,Standard Class,CUST-0437,Diana Miller,Consumer,United States,Houston,Florida,52206,South,PROD-0100,Office Supplies,Labels,Address Labels,1197.23,4,0.17,345.67
+663,OR-000663,02/16/2023,02/20/2023,Same Day,CUST-0292,John Smith,Home Office,United States,Houston,Oregon,30757,West,PROD-0063,Technology,Accessories,Webcam,1658.57,6,0.15,345.38
+664,OR-000664,11/26/2023,11/30/2023,Second Class,CUST-0053,Fiona Garcia,Corporate,United States,Chicago,Texas,28900,Central,PROD-0094,Office Supplies,Labels,Shipping Labels,131.79,1,0.11,39.54
+665,OR-000665,01/25/2023,01/27/2023,First Class,CUST-0354,Bob Johnson,Corporate,United States,Los Angeles,Oregon,18341,West,PROD-0007,Technology,Computers,Tablet,308.01,2,0.13,56.29
+666,OR-000666,04/23/2023,04/30/2023,Second Class,CUST-0157,John Smith,Corporate,United States,New York,Massachusetts,49623,East,PROD-0076,Technology,Accessories,Webcam,1045.45,3,0.29,384.96
+667,OR-000667,12/30/2023,01/03/2024,Standard Class,CUST-0338,Fiona Garcia,Home Office,United States,Chicago,Massachusetts,35976,East,PROD-0074,Office Supplies,Paper,Sticky Notes,3607.12,9,0.18,1234.32
+668,OR-000668,06/29/2023,07/04/2023,Standard Class,CUST-0032,Charlie Wilson,Corporate,United States,New York,North Carolina,37947,South,PROD-0013,Office Supplies,Storage,Storage Bin,461.6,1,0.07,139.64
+669,OR-000669,06/12/2023,06/13/2023,Same Day,CUST-0218,Hannah Lee,Corporate,United States,Los Angeles,Illinois,92828,Central,PROD-0088,Furniture,Tables,Coffee Table,129.62,2,0.14,44.89
+670,OR-000670,06/17/2023,06/18/2023,First Class,CUST-0343,Bob Johnson,Home Office,United States,Los Angeles,Oregon,33420,West,PROD-0065,Technology,Accessories,Keyboard,378.86,8,0.05,102.91
+671,OR-000671,07/04/2023,07/08/2023,Standard Class,CUST-0075,Fiona Garcia,Consumer,United States,Chicago,Washington,46769,West,PROD-0085,Furniture,Chairs,Conference Chair,1433.02,10,0.15,490.83
+672,OR-000672,10/15/2023,10/17/2023,Standard Class,CUST-0447,Alice Brown,Home Office,United States,Chicago,Georgia,37115,South,PROD-0097,Office Supplies,Binders,5-Ring Binder,1828.46,5,0.25,482.02
+673,OR-000673,02/22/2023,02/23/2023,Standard Class,CUST-0428,George Martinez,Consumer,United States,Los Angeles,Texas,51870,Central,PROD-0067,Office Supplies,Labels,Shipping Labels,3233.87,7,0.04,637.62
+674,OR-000674,06/22/2023,06/28/2023,First Class,CUST-0433,Jane Doe,Corporate,United States,Chicago,California,65355,West,PROD-0088,Office Supplies,Binders,5-Ring Binder,817.33,5,0.19,290.3
+675,OR-000675,05/04/2023,05/07/2023,Second Class,CUST-0371,Bob Johnson,Home Office,United States,Chicago,Florida,67084,South,PROD-0073,Furniture,Tables,Dining Table,255.61,7,0.29,34.06
+676,OR-000676,10/21/2023,10/24/2023,Second Class,CUST-0398,Fiona Garcia,Consumer,United States,Los Angeles,Massachusetts,57357,East,PROD-0054,Furniture,Bookcases,Corner Bookcase,1179.53,10,0.02,296.5
+677,OR-000677,06/10/2023,06/16/2023,Second Class,CUST-0448,George Martinez,Corporate,United States,Los Angeles,Pennsylvania,95985,East,PROD-0052,Office Supplies,Paper,Sticky Notes,402.73,5,0.11,124.24
+678,OR-000678,04/04/2023,04/06/2023,Standard Class,CUST-0353,Edward Davis,Consumer,United States,Chicago,Texas,81332,Central,PROD-0016,Furniture,Furnishings,Product,19.3,1,0.0,3.74
+679,OR-000679,06/25/2023,07/01/2023,Second Class,CUST-0078,Charlie Wilson,Consumer,United States,Los Angeles,Pennsylvania,81458,East,PROD-0049,Furniture,Chairs,Executive Chair,1222.69,9,0.14,195.74
+680,OR-000680,10/30/2023,11/03/2023,Same Day,CUST-0030,Alice Brown,Corporate,United States,Houston,North Carolina,65437,South,PROD-0033,Technology,Computers,Laptop,248.91,1,0.16,27.0
+681,OR-000681,05/15/2023,05/17/2023,Second Class,CUST-0359,Charlie Wilson,Home Office,United States,New York,Florida,70226,South,PROD-0013,Furniture,Bookcases,Corner Bookcase,1116.02,4,0.02,239.75
+682,OR-000682,08/30/2023,09/04/2023,Second Class,CUST-0397,Fiona Garcia,Corporate,United States,Houston,Oregon,59130,West,PROD-0001,Furniture,Tables,Conference Table,286.42,7,0.29,77.67
+683,OR-000683,05/25/2023,06/01/2023,Same Day,CUST-0324,Fiona Garcia,Home Office,United States,Houston,Massachusetts,89720,East,PROD-0058,Furniture,Furnishings,Product,892.58,3,0.3,276.37
+684,OR-000684,05/31/2023,06/04/2023,Second Class,CUST-0186,Jane Doe,Corporate,United States,Los Angeles,Oregon,15906,West,PROD-0055,Office Supplies,Paper,Sticky Notes,1374.67,3,0.06,400.79
+685,OR-000685,11/28/2023,12/02/2023,Same Day,CUST-0275,John Smith,Consumer,United States,New York,Oregon,97159,West,PROD-0035,Office Supplies,Paper,Notebook,2038.23,7,0.15,514.36
+686,OR-000686,01/12/2023,01/13/2023,Second Class,CUST-0155,Bob Johnson,Corporate,United States,Houston,California,79995,West,PROD-0062,Furniture,Chairs,Executive Chair,830.08,2,0.0,132.2
+687,OR-000687,11/17/2023,11/21/2023,Standard Class,CUST-0165,John Smith,Home Office,United States,Chicago,Florida,14812,South,PROD-0078,Furniture,Furnishings,Product,419.75,6,0.24,167.78
+688,OR-000688,10/01/2023,10/06/2023,First Class,CUST-0104,Fiona Garcia,Home Office,United States,Houston,Texas,58073,Central,PROD-0052,Office Supplies,Labels,Address Labels,325.4,3,0.08,128.93
+689,OR-000689,05/26/2023,05/29/2023,Same Day,CUST-0122,Diana Miller,Consumer,United States,Chicago,Pennsylvania,13775,East,PROD-0063,Technology,Computers,Tablet,1807.36,7,0.09,506.48
+690,OR-000690,07/06/2023,07/11/2023,First Class,CUST-0118,Edward Davis,Consumer,United States,New York,Pennsylvania,75650,East,PROD-0070,Office Supplies,Storage,Storage Bin,1485.07,4,0.17,186.06
+691,OR-000691,08/09/2023,08/15/2023,Second Class,CUST-0230,George Martinez,Consumer,United States,Los Angeles,Washington,96956,West,PROD-0030,Technology,Accessories,Keyboard,249.08,2,0.12,78.21
+692,OR-000692,06/30/2023,07/05/2023,Same Day,CUST-0327,Charlie Wilson,Home Office,United States,Houston,Ohio,82693,Central,PROD-0045,Furniture,Chairs,Conference Chair,213.43,2,0.1,49.39
+693,OR-000693,01/01/2024,01/03/2024,Same Day,CUST-0347,John Smith,Home Office,United States,Chicago,North Carolina,12496,South,PROD-0023,Technology,Accessories,Webcam,878.3,2,0.02,121.34
+694,OR-000694,07/25/2023,07/29/2023,First Class,CUST-0021,Hannah Lee,Corporate,United States,Chicago,Ohio,67070,Central,PROD-0075,Furniture,Tables,Conference Table,1088.57,8,0.03,128.54
+695,OR-000695,04/16/2023,04/23/2023,First Class,CUST-0091,Alice Brown,Corporate,United States,Los Angeles,Florida,24005,South,PROD-0044,Office Supplies,Storage,File Box,2353.49,8,0.23,924.17
+696,OR-000696,08/01/2023,08/06/2023,Same Day,CUST-0046,Fiona Garcia,Consumer,United States,Chicago,Illinois,76053,Central,PROD-0090,Furniture,Chairs,Conference Chair,2788.28,8,0.22,498.63
+697,OR-000697,09/08/2023,09/15/2023,Same Day,CUST-0406,George Martinez,Consumer,United States,New York,Oregon,60972,West,PROD-0040,Furniture,Furnishings,Product,124.4,9,0.05,34.46
+698,OR-000698,06/25/2023,07/01/2023,First Class,CUST-0459,Bob Johnson,Consumer,United States,Houston,North Carolina,74688,South,PROD-0077,Furniture,Tables,Dining Table,885.01,7,0.03,347.36
+699,OR-000699,07/22/2023,07/24/2023,Same Day,CUST-0039,Fiona Garcia,Corporate,United States,Houston,Oregon,45682,West,PROD-0037,Furniture,Bookcases,Standard Bookcase,314.12,2,0.03,54.48
+700,OR-000700,06/07/2023,06/09/2023,Second Class,CUST-0295,Hannah Lee,Consumer,United States,Chicago,Illinois,92469,Central,PROD-0002,Office Supplies,Labels,Address Labels,431.35,2,0.23,138.06
+701,OR-000701,08/07/2023,08/13/2023,Standard Class,CUST-0042,Diana Miller,Home Office,United States,New York,Florida,46957,South,PROD-0004,Office Supplies,Labels,Shipping Labels,2201.57,10,0.06,741.17
+702,OR-000702,08/24/2023,08/29/2023,First Class,CUST-0294,Diana Miller,Corporate,United States,Chicago,Ohio,49905,Central,PROD-0063,Technology,Copiers,Copier Machine,1317.39,6,0.06,512.02
+703,OR-000703,09/29/2023,10/01/2023,Standard Class,CUST-0079,John Smith,Home Office,United States,Houston,Pennsylvania,20321,East,PROD-0047,Furniture,Bookcases,Corner Bookcase,574.66,2,0.28,79.21
+704,OR-000704,01/12/2023,01/14/2023,Second Class,CUST-0352,Bob Johnson,Home Office,United States,Los Angeles,Ohio,68240,Central,PROD-0004,Office Supplies,Labels,Shipping Labels,1912.57,6,0.26,537.87
+705,OR-000705,06/22/2023,06/29/2023,Standard Class,CUST-0023,Charlie Wilson,Consumer,United States,New York,Florida,75579,South,PROD-0013,Furniture,Bookcases,Standard Bookcase,1309.01,6,0.29,469.6
+706,OR-000706,04/18/2023,04/21/2023,Same Day,CUST-0253,Bob Johnson,Consumer,United States,Houston,North Carolina,79128,South,PROD-0034,Technology,Phones,Mobile Phone,1702.24,7,0.21,608.33
+707,OR-000707,04/20/2023,04/26/2023,Standard Class,CUST-0345,Diana Miller,Home Office,United States,Los Angeles,Oregon,65354,West,PROD-0071,Furniture,Chairs,Ergonomic Chair,263.23,3,0.01,43.98
+708,OR-000708,02/28/2023,03/02/2023,Same Day,CUST-0200,Edward Davis,Consumer,United States,New York,Florida,73803,South,PROD-0080,Technology,Phones,Office Phone,1018.07,6,0.11,294.18
+709,OR-000709,05/02/2023,05/04/2023,Same Day,CUST-0215,Alice Brown,Consumer,United States,Chicago,Texas,73539,Central,PROD-0018,Office Supplies,Storage,File Box,2337.65,5,0.03,241.73
+710,OR-000710,11/30/2023,12/02/2023,Same Day,CUST-0300,Alice Brown,Corporate,United States,Los Angeles,Pennsylvania,51848,East,PROD-0034,Furniture,Tables,Conference Table,1584.17,7,0.28,533.53
+711,OR-000711,08/07/2023,08/09/2023,Second Class,CUST-0234,John Smith,Home Office,United States,Houston,North Carolina,65882,South,PROD-0075,Office Supplies,Labels,Shipping Labels,372.9,8,0.14,69.86
+712,OR-000712,07/08/2023,07/15/2023,Second Class,CUST-0314,Alice Brown,Corporate,United States,Houston,New York,26136,East,PROD-0003,Technology,Copiers,Copier Machine,2752.13,10,0.15,358.0
+713,OR-000713,10/29/2023,11/04/2023,Second Class,CUST-0145,George Martinez,Corporate,United States,Chicago,New York,83962,East,PROD-0071,Office Supplies,Binders,3-Ring Binder,1357.27,9,0.2,149.69
+714,OR-000714,05/13/2023,05/15/2023,Second Class,CUST-0430,George Martinez,Consumer,United States,Houston,New York,48123,East,PROD-0026,Furniture,Bookcases,Corner Bookcase,454.9,2,0.25,160.13
+715,OR-000715,02/17/2023,02/23/2023,Same Day,CUST-0374,John Smith,Corporate,United States,Houston,Florida,45795,South,PROD-0038,Technology,Copiers,Copier Machine,777.63,3,0.08,96.81
+716,OR-000716,10/26/2023,10/29/2023,Second Class,CUST-0480,Diana Miller,Home Office,United States,Chicago,Massachusetts,44450,East,PROD-0059,Technology,Phones,Office Phone,1439.41,5,0.01,351.95
+717,OR-000717,08/04/2023,08/09/2023,First Class,CUST-0500,Hannah Lee,Consumer,United States,Los Angeles,Ohio,95142,Central,PROD-0006,Office Supplies,Paper,Notebook,659.33,2,0.21,161.07
+718,OR-000718,05/29/2023,05/31/2023,Same Day,CUST-0322,Edward Davis,Home Office,United States,Los Angeles,Washington,90457,West,PROD-0099,Furniture,Bookcases,Standard Bookcase,64.29,3,0.26,14.87
+719,OR-000719,04/24/2023,04/26/2023,Same Day,CUST-0476,Edward Davis,Consumer,United States,Los Angeles,Texas,50904,Central,PROD-0069,Technology,Accessories,Webcam,335.26,1,0.3,107.13
+720,OR-000720,04/24/2023,04/28/2023,Standard Class,CUST-0026,George Martinez,Corporate,United States,Houston,New York,97075,East,PROD-0011,Technology,Phones,Office Phone,489.65,8,0.14,184.01
+721,OR-000721,12/15/2023,12/17/2023,Same Day,CUST-0302,John Smith,Consumer,United States,Los Angeles,California,81039,West,PROD-0095,Technology,Phones,Office Phone,297.8,8,0.21,31.56
+722,OR-000722,04/17/2023,04/23/2023,Standard Class,CUST-0253,Edward Davis,Consumer,United States,Houston,California,26550,West,PROD-0049,Technology,Copiers,Copier Machine,2437.13,10,0.19,947.66
+723,OR-000723,11/01/2023,11/07/2023,First Class,CUST-0076,Edward Davis,Home Office,United States,Chicago,Texas,43741,Central,PROD-0086,Office Supplies,Storage,Storage Bin,2590.57,6,0.07,687.44
+724,OR-000724,08/14/2023,08/20/2023,Same Day,CUST-0427,Edward Davis,Home Office,United States,New York,Georgia,22371,South,PROD-0053,Office Supplies,Storage,Storage Bin,161.5,1,0.12,23.82
+725,OR-000725,04/28/2023,05/05/2023,Second Class,CUST-0203,John Smith,Corporate,United States,Chicago,New York,93441,East,PROD-0030,Furniture,Tables,Coffee Table,566.92,5,0.16,172.02
+726,OR-000726,09/26/2023,10/03/2023,Same Day,CUST-0195,Charlie Wilson,Corporate,United States,New York,Washington,29675,West,PROD-0087,Technology,Phones,Mobile Phone,2374.16,10,0.06,562.56
+727,OR-000727,02/08/2023,02/11/2023,Same Day,CUST-0402,Alice Brown,Corporate,United States,Houston,Texas,97505,Central,PROD-0063,Furniture,Tables,Conference Table,763.42,10,0.13,246.98
+728,OR-000728,01/09/2023,01/13/2023,Second Class,CUST-0249,Fiona Garcia,Corporate,United States,Chicago,Illinois,42523,Central,PROD-0032,Technology,Accessories,Webcam,1736.14,10,0.28,538.18
+729,OR-000729,08/05/2023,08/12/2023,Second Class,CUST-0204,Bob Johnson,Corporate,United States,New York,New York,73370,East,PROD-0034,Furniture,Furnishings,Product,1655.81,7,0.12,543.79
+730,OR-000730,10/23/2023,10/30/2023,Second Class,CUST-0476,John Smith,Home Office,United States,Chicago,Ohio,94156,Central,PROD-0077,Furniture,Bookcases,Corner Bookcase,402.43,7,0.12,100.0
+731,OR-000731,10/15/2023,10/16/2023,Standard Class,CUST-0150,Diana Miller,Consumer,United States,Houston,Georgia,56245,South,PROD-0056,Technology,Computers,Desktop,587.16,7,0.29,178.65
+732,OR-000732,07/22/2023,07/26/2023,Standard Class,CUST-0199,Jane Doe,Corporate,United States,New York,Illinois,78327,Central,PROD-0042,Office Supplies,Storage,Storage Bin,463.29,2,0.03,54.7
+733,OR-000733,06/28/2023,06/30/2023,First Class,CUST-0311,Alice Brown,Home Office,United States,Chicago,Massachusetts,97607,East,PROD-0055,Office Supplies,Labels,Shipping Labels,433.16,1,0.11,144.18
+734,OR-000734,09/16/2023,09/17/2023,First Class,CUST-0104,Jane Doe,Corporate,United States,Houston,North Carolina,73354,South,PROD-0029,Office Supplies,Storage,File Box,2233.75,9,0.11,821.29
+735,OR-000735,03/10/2023,03/13/2023,Same Day,CUST-0089,Bob Johnson,Home Office,United States,Houston,Pennsylvania,84436,East,PROD-0063,Furniture,Chairs,Conference Chair,103.08,1,0.24,33.18
+736,OR-000736,12/28/2023,12/30/2023,Same Day,CUST-0196,John Smith,Corporate,United States,Chicago,Florida,52716,South,PROD-0063,Furniture,Tables,Dining Table,2576.59,9,0.21,504.75
+737,OR-000737,07/29/2023,08/04/2023,Same Day,CUST-0432,Hannah Lee,Home Office,United States,Houston,Ohio,61635,Central,PROD-0082,Technology,Copiers,Copier Machine,123.92,7,0.1,17.69
+738,OR-000738,05/15/2023,05/20/2023,Standard Class,CUST-0151,Bob Johnson,Corporate,United States,Houston,Florida,61868,South,PROD-0017,Furniture,Bookcases,Corner Bookcase,193.35,1,0.06,21.12
+739,OR-000739,02/09/2023,02/13/2023,Standard Class,CUST-0150,Alice Brown,Home Office,United States,Chicago,Oregon,55110,West,PROD-0047,Furniture,Tables,Dining Table,742.37,8,0.12,270.4
+740,OR-000740,06/08/2023,06/12/2023,Second Class,CUST-0033,Charlie Wilson,Home Office,United States,Houston,North Carolina,52881,South,PROD-0018,Furniture,Bookcases,Standard Bookcase,2459.2,7,0.12,317.74
+741,OR-000741,04/27/2023,04/28/2023,Second Class,CUST-0117,Charlie Wilson,Home Office,United States,Chicago,Illinois,62254,Central,PROD-0027,Technology,Copiers,Copier Machine,1166.68,10,0.24,132.26
+742,OR-000742,05/03/2023,05/09/2023,Second Class,CUST-0177,Bob Johnson,Corporate,United States,New York,Florida,26159,South,PROD-0036,Technology,Accessories,Keyboard,1737.87,5,0.13,324.62
+743,OR-000743,07/08/2023,07/14/2023,First Class,CUST-0199,Bob Johnson,Corporate,United States,Los Angeles,Texas,74611,Central,PROD-0056,Technology,Copiers,Copier Machine,1130.48,6,0.03,451.42
+744,OR-000744,12/20/2023,12/24/2023,Second Class,CUST-0370,Alice Brown,Corporate,United States,Los Angeles,California,83256,West,PROD-0053,Technology,Copiers,Copier Machine,1009.88,10,0.27,354.42
+745,OR-000745,07/09/2023,07/14/2023,Second Class,CUST-0204,Fiona Garcia,Consumer,United States,New York,Massachusetts,97934,East,PROD-0010,Technology,Phones,Mobile Phone,311.74,1,0.08,84.56
+746,OR-000746,03/05/2023,03/06/2023,Standard Class,CUST-0009,Hannah Lee,Corporate,United States,Houston,Ohio,70818,Central,PROD-0081,Technology,Accessories,Mouse,2900.03,8,0.2,1049.65
+747,OR-000747,02/26/2023,03/03/2023,First Class,CUST-0027,Alice Brown,Home Office,United States,Houston,North Carolina,62689,South,PROD-0003,Technology,Accessories,Mouse,33.71,2,0.24,5.11
+748,OR-000748,01/10/2023,01/12/2023,Second Class,CUST-0183,Alice Brown,Corporate,United States,Houston,Texas,72622,Central,PROD-0095,Technology,Accessories,Mouse,193.06,5,0.02,37.52
+749,OR-000749,08/14/2023,08/19/2023,Standard Class,CUST-0486,Fiona Garcia,Consumer,United States,Chicago,Ohio,16429,Central,PROD-0079,Furniture,Tables,Coffee Table,1130.43,4,0.15,189.61
+750,OR-000750,11/05/2023,11/10/2023,Standard Class,CUST-0283,Bob Johnson,Home Office,United States,Chicago,New York,91947,East,PROD-0044,Furniture,Chairs,Executive Chair,1365.21,5,0.16,453.98
+751,OR-000751,10/28/2023,11/03/2023,First Class,CUST-0452,John Smith,Corporate,United States,Los Angeles,Illinois,68202,Central,PROD-0037,Office Supplies,Storage,File Box,609.86,2,0.27,106.97
+752,OR-000752,12/18/2023,12/23/2023,Same Day,CUST-0463,John Smith,Home Office,United States,Los Angeles,Pennsylvania,97506,East,PROD-0039,Furniture,Bookcases,Standard Bookcase,1653.22,8,0.23,435.72
+753,OR-000753,12/09/2023,12/15/2023,First Class,CUST-0166,Charlie Wilson,Corporate,United States,Chicago,Massachusetts,31764,East,PROD-0087,Office Supplies,Labels,Address Labels,3865.15,9,0.11,765.68
+754,OR-000754,01/15/2023,01/20/2023,Second Class,CUST-0360,Charlie Wilson,Home Office,United States,Houston,Washington,71706,West,PROD-0031,Furniture,Bookcases,Standard Bookcase,300.21,1,0.03,56.29
+755,OR-000755,07/16/2023,07/17/2023,Second Class,CUST-0499,Edward Davis,Corporate,United States,Chicago,Oregon,71044,West,PROD-0023,Furniture,Bookcases,Corner Bookcase,2789.12,8,0.05,436.13
+756,OR-000756,04/25/2023,04/29/2023,Second Class,CUST-0145,Alice Brown,Home Office,United States,Houston,Ohio,21491,Central,PROD-0056,Technology,Copiers,Copier Machine,1515.28,10,0.18,582.23
+757,OR-000757,03/02/2023,03/05/2023,Standard Class,CUST-0013,Alice Brown,Consumer,United States,Los Angeles,Pennsylvania,88193,East,PROD-0012,Office Supplies,Paper,Copy Paper,1095.3,6,0.0,287.18
+758,OR-000758,06/08/2023,06/11/2023,First Class,CUST-0216,Hannah Lee,Consumer,United States,Chicago,California,10623,West,PROD-0031,Office Supplies,Storage,File Box,1402.05,4,0.23,439.13
+759,OR-000759,05/05/2023,05/07/2023,Same Day,CUST-0109,Bob Johnson,Corporate,United States,Chicago,Florida,55423,South,PROD-0040,Office Supplies,Storage,File Box,1250.81,8,0.22,168.86
+760,OR-000760,03/07/2023,03/14/2023,First Class,CUST-0354,Diana Miller,Consumer,United States,Los Angeles,Washington,44420,West,PROD-0049,Office Supplies,Labels,Address Labels,1329.25,4,0.08,162.19
+761,OR-000761,10/21/2023,10/23/2023,Second Class,CUST-0099,Edward Davis,Consumer,United States,Chicago,Pennsylvania,42902,East,PROD-0018,Furniture,Furnishings,Product,845.34,4,0.2,152.6
+762,OR-000762,04/25/2023,04/28/2023,Same Day,CUST-0199,John Smith,Consumer,United States,Los Angeles,Oregon,22593,West,PROD-0022,Technology,Copiers,Copier Machine,1007.01,4,0.25,289.83
+763,OR-000763,06/23/2023,06/28/2023,Standard Class,CUST-0475,Bob Johnson,Home Office,United States,Los Angeles,Washington,62827,West,PROD-0057,Office Supplies,Storage,Storage Bin,1277.99,4,0.19,393.07
+764,OR-000764,07/09/2023,07/13/2023,Second Class,CUST-0203,Edward Davis,Consumer,United States,New York,Georgia,26444,South,PROD-0081,Office Supplies,Labels,Address Labels,134.08,1,0.27,29.11
+765,OR-000765,11/02/2023,11/06/2023,Standard Class,CUST-0158,Fiona Garcia,Consumer,United States,Los Angeles,Oregon,93202,West,PROD-0090,Furniture,Chairs,Ergonomic Chair,171.67,1,0.24,21.34
+766,OR-000766,02/01/2023,02/04/2023,Second Class,CUST-0062,Hannah Lee,Corporate,United States,Los Angeles,Florida,13031,South,PROD-0079,Office Supplies,Paper,Sticky Notes,2483.13,9,0.09,778.46
+767,OR-000767,09/26/2023,09/29/2023,First Class,CUST-0411,Jane Doe,Corporate,United States,Los Angeles,Pennsylvania,87783,East,PROD-0099,Furniture,Bookcases,Corner Bookcase,1147.21,4,0.07,406.04
+768,OR-000768,08/02/2023,08/07/2023,First Class,CUST-0435,Diana Miller,Corporate,United States,New York,North Carolina,44852,South,PROD-0096,Technology,Computers,Laptop,2322.98,8,0.21,259.71
+769,OR-000769,03/02/2023,03/05/2023,Standard Class,CUST-0124,Diana Miller,Consumer,United States,Houston,California,67889,West,PROD-0028,Furniture,Furnishings,Product,1352.82,6,0.09,240.27
+770,OR-000770,09/26/2023,09/28/2023,First Class,CUST-0226,John Smith,Home Office,United States,New York,Georgia,60015,South,PROD-0008,Technology,Phones,Office Phone,2354.39,8,0.21,748.25
+771,OR-000771,08/22/2023,08/29/2023,Same Day,CUST-0102,Charlie Wilson,Consumer,United States,Houston,Texas,36460,Central,PROD-0082,Furniture,Tables,Conference Table,427.0,3,0.13,114.54
+772,OR-000772,10/22/2023,10/28/2023,Same Day,CUST-0186,Bob Johnson,Home Office,United States,Los Angeles,Washington,78748,West,PROD-0076,Office Supplies,Paper,Notebook,1201.26,6,0.21,379.07
+773,OR-000773,02/20/2023,02/25/2023,Second Class,CUST-0116,Jane Doe,Corporate,United States,Los Angeles,North Carolina,57860,South,PROD-0025,Office Supplies,Paper,Sticky Notes,1410.51,7,0.27,149.92
+774,OR-000774,10/04/2023,10/11/2023,Standard Class,CUST-0323,Jane Doe,Consumer,United States,New York,Ohio,24334,Central,PROD-0082,Furniture,Furnishings,Product,1452.84,7,0.24,270.69
+775,OR-000775,02/11/2023,02/14/2023,Same Day,CUST-0477,Alice Brown,Consumer,United States,New York,Florida,71722,South,PROD-0089,Furniture,Furnishings,Product,1030.94,8,0.23,317.96
+776,OR-000776,09/17/2023,09/20/2023,Standard Class,CUST-0277,Alice Brown,Consumer,United States,Los Angeles,California,22718,West,PROD-0087,Furniture,Tables,Dining Table,4294.06,10,0.13,1692.45
+777,OR-000777,06/13/2023,06/15/2023,Second Class,CUST-0102,Hannah Lee,Corporate,United States,New York,Ohio,94977,Central,PROD-0019,Office Supplies,Binders,3-Ring Binder,1903.83,4,0.04,724.96
+778,OR-000778,07/14/2023,07/21/2023,Second Class,CUST-0055,Diana Miller,Consumer,United States,Chicago,Ohio,47247,Central,PROD-0047,Technology,Phones,Office Phone,318.89,4,0.14,35.5
+779,OR-000779,02/16/2023,02/23/2023,Standard Class,CUST-0486,George Martinez,Consumer,United States,Chicago,New York,83525,East,PROD-0028,Technology,Copiers,Copier Machine,347.27,4,0.17,105.34
+780,OR-000780,08/26/2023,08/29/2023,Same Day,CUST-0197,Diana Miller,Consumer,United States,Chicago,North Carolina,48806,South,PROD-0009,Office Supplies,Paper,Sticky Notes,2080.46,10,0.15,493.76
+781,OR-000781,09/15/2023,09/21/2023,Same Day,CUST-0484,Alice Brown,Corporate,United States,Chicago,Georgia,90452,South,PROD-0010,Technology,Computers,Laptop,1108.74,3,0.05,393.72
+782,OR-000782,01/17/2023,01/20/2023,Standard Class,CUST-0288,Hannah Lee,Home Office,United States,Chicago,New York,27935,East,PROD-0036,Technology,Accessories,Keyboard,2286.03,5,0.05,632.11
+783,OR-000783,12/04/2023,12/05/2023,First Class,CUST-0107,Edward Davis,Corporate,United States,Chicago,Washington,55489,West,PROD-0096,Technology,Accessories,Keyboard,859.27,3,0.09,244.95
+784,OR-000784,05/29/2023,05/31/2023,Standard Class,CUST-0278,Hannah Lee,Consumer,United States,New York,New York,24281,East,PROD-0100,Office Supplies,Paper,Copy Paper,1770.0,10,0.25,445.87
+785,OR-000785,05/06/2023,05/07/2023,First Class,CUST-0392,Alice Brown,Consumer,United States,Houston,Illinois,51766,Central,PROD-0004,Office Supplies,Paper,Sticky Notes,1001.31,9,0.09,222.88
+786,OR-000786,04/20/2023,04/23/2023,First Class,CUST-0430,Alice Brown,Corporate,United States,Chicago,Texas,45691,Central,PROD-0099,Office Supplies,Storage,File Box,3562.48,10,0.13,500.31
+787,OR-000787,04/21/2023,04/26/2023,Second Class,CUST-0043,Bob Johnson,Home Office,United States,New York,Florida,24602,South,PROD-0008,Office Supplies,Paper,Sticky Notes,61.37,1,0.13,18.31
+788,OR-000788,04/16/2023,04/22/2023,Same Day,CUST-0488,Alice Brown,Home Office,United States,Chicago,Florida,98232,South,PROD-0034,Furniture,Bookcases,Standard Bookcase,176.65,3,0.22,31.88
+789,OR-000789,12/27/2023,12/31/2023,Same Day,CUST-0022,Jane Doe,Consumer,United States,Chicago,New York,44065,East,PROD-0068,Office Supplies,Binders,3-Ring Binder,30.26,1,0.08,3.13
+790,OR-000790,08/08/2023,08/10/2023,Same Day,CUST-0102,Edward Davis,Consumer,United States,Houston,Ohio,47953,Central,PROD-0044,Furniture,Bookcases,Corner Bookcase,1009.58,10,0.24,124.64
+791,OR-000791,12/09/2023,12/15/2023,Second Class,CUST-0209,John Smith,Consumer,United States,New York,Pennsylvania,69885,East,PROD-0072,Furniture,Bookcases,Standard Bookcase,1587.02,8,0.13,602.33
+792,OR-000792,06/21/2023,06/27/2023,Second Class,CUST-0012,Alice Brown,Corporate,United States,Houston,Massachusetts,68391,East,PROD-0091,Furniture,Bookcases,Standard Bookcase,895.87,3,0.22,206.55
+793,OR-000793,06/12/2023,06/19/2023,Standard Class,CUST-0270,Bob Johnson,Home Office,United States,Houston,Illinois,33426,Central,PROD-0040,Furniture,Bookcases,Standard Bookcase,683.26,4,0.01,216.78
+794,OR-000794,05/18/2023,05/19/2023,Second Class,CUST-0391,John Smith,Home Office,United States,Los Angeles,Oregon,57772,West,PROD-0006,Technology,Copiers,Copier Machine,1244.7,4,0.09,392.67
+795,OR-000795,06/07/2023,06/10/2023,Second Class,CUST-0182,Edward Davis,Home Office,United States,Chicago,New York,91065,East,PROD-0064,Office Supplies,Binders,3-Ring Binder,374.21,1,0.11,146.27
+796,OR-000796,08/26/2023,08/28/2023,Same Day,CUST-0148,Bob Johnson,Consumer,United States,New York,Florida,57449,South,PROD-0087,Technology,Copiers,Copier Machine,127.41,1,0.27,50.36
+797,OR-000797,06/05/2023,06/10/2023,Second Class,CUST-0460,George Martinez,Home Office,United States,New York,Illinois,11718,Central,PROD-0039,Office Supplies,Binders,5-Ring Binder,241.08,4,0.16,90.36
+798,OR-000798,10/26/2023,10/27/2023,Same Day,CUST-0348,Hannah Lee,Corporate,United States,Los Angeles,Massachusetts,88050,East,PROD-0088,Furniture,Furnishings,Product,534.82,3,0.04,165.04
+799,OR-000799,09/08/2023,09/15/2023,Standard Class,CUST-0257,Diana Miller,Home Office,United States,Houston,Ohio,75684,Central,PROD-0100,Office Supplies,Binders,3-Ring Binder,437.45,3,0.2,116.47
+800,OR-000800,09/13/2023,09/19/2023,First Class,CUST-0013,Bob Johnson,Consumer,United States,New York,Pennsylvania,80879,East,PROD-0013,Technology,Copiers,Copier Machine,134.44,1,0.28,29.99
+801,OR-000801,11/05/2023,11/11/2023,First Class,CUST-0226,George Martinez,Corporate,United States,New York,Washington,27039,West,PROD-0085,Furniture,Bookcases,Corner Bookcase,2993.19,8,0.03,327.48
+802,OR-000802,09/03/2023,09/09/2023,Second Class,CUST-0300,Edward Davis,Home Office,United States,Houston,Oregon,52759,West,PROD-0041,Office Supplies,Labels,Address Labels,1988.49,6,0.23,787.29
+803,OR-000803,04/30/2023,05/05/2023,First Class,CUST-0366,Fiona Garcia,Corporate,United States,New York,Ohio,98629,Central,PROD-0058,Office Supplies,Binders,3-Ring Binder,2202.1,8,0.02,319.88
+804,OR-000804,02/21/2023,02/28/2023,Standard Class,CUST-0499,George Martinez,Corporate,United States,Chicago,Illinois,18773,Central,PROD-0008,Office Supplies,Binders,3-Ring Binder,626.61,7,0.17,154.65
+805,OR-000805,02/05/2023,02/06/2023,Second Class,CUST-0312,Bob Johnson,Home Office,United States,Chicago,North Carolina,24134,South,PROD-0079,Furniture,Bookcases,Corner Bookcase,537.99,3,0.26,127.52
+806,OR-000806,09/05/2023,09/12/2023,Same Day,CUST-0301,Edward Davis,Corporate,United States,Los Angeles,Ohio,61669,Central,PROD-0074,Technology,Phones,Office Phone,892.67,8,0.2,97.3
+807,OR-000807,10/21/2023,10/28/2023,First Class,CUST-0440,John Smith,Home Office,United States,New York,Florida,94481,South,PROD-0093,Furniture,Tables,Conference Table,1034.82,7,0.16,256.89
+808,OR-000808,06/24/2023,06/27/2023,First Class,CUST-0031,Fiona Garcia,Consumer,United States,Houston,Illinois,90028,Central,PROD-0040,Technology,Copiers,Copier Machine,389.96,1,0.1,137.99
+809,OR-000809,04/06/2023,04/08/2023,First Class,CUST-0370,Jane Doe,Home Office,United States,Houston,Oregon,29553,West,PROD-0039,Technology,Accessories,Keyboard,262.31,1,0.1,44.66
+810,OR-000810,03/17/2023,03/21/2023,First Class,CUST-0222,Bob Johnson,Corporate,United States,Houston,Florida,28552,South,PROD-0076,Office Supplies,Paper,Sticky Notes,1281.0,9,0.29,245.72
+811,OR-000811,03/01/2023,03/08/2023,Standard Class,CUST-0248,Fiona Garcia,Consumer,United States,Houston,Texas,21479,Central,PROD-0091,Furniture,Bookcases,Corner Bookcase,22.49,1,0.21,5.78
+812,OR-000812,07/10/2023,07/16/2023,First Class,CUST-0489,George Martinez,Consumer,United States,Houston,Washington,58407,West,PROD-0067,Office Supplies,Storage,File Box,1605.77,6,0.26,463.44
+813,OR-000813,09/13/2023,09/14/2023,Standard Class,CUST-0481,Charlie Wilson,Corporate,United States,Houston,Pennsylvania,45478,East,PROD-0012,Office Supplies,Binders,3-Ring Binder,277.25,6,0.11,93.57
+814,OR-000814,02/03/2023,02/10/2023,Second Class,CUST-0462,Charlie Wilson,Home Office,United States,New York,Massachusetts,47139,East,PROD-0018,Office Supplies,Labels,Address Labels,3122.13,10,0.17,550.57
+815,OR-000815,09/08/2023,09/10/2023,First Class,CUST-0124,Hannah Lee,Corporate,United States,Chicago,Washington,42921,West,PROD-0063,Office Supplies,Paper,Notebook,836.25,7,0.11,302.6
+816,OR-000816,05/02/2023,05/04/2023,Standard Class,CUST-0074,Bob Johnson,Consumer,United States,New York,Ohio,92160,Central,PROD-0037,Office Supplies,Labels,Shipping Labels,965.38,5,0.11,157.4
+817,OR-000817,11/19/2023,11/25/2023,First Class,CUST-0295,Bob Johnson,Consumer,United States,Los Angeles,Georgia,89298,South,PROD-0045,Technology,Phones,Office Phone,235.32,1,0.22,31.13
+818,OR-000818,09/03/2023,09/07/2023,Second Class,CUST-0035,Edward Davis,Corporate,United States,Houston,Florida,96164,South,PROD-0064,Office Supplies,Storage,File Box,385.0,10,0.27,115.44
+819,OR-000819,11/08/2023,11/14/2023,First Class,CUST-0248,George Martinez,Corporate,United States,New York,Illinois,11243,Central,PROD-0004,Office Supplies,Paper,Sticky Notes,1214.46,7,0.3,366.56
+820,OR-000820,10/18/2023,10/19/2023,First Class,CUST-0308,Fiona Garcia,Home Office,United States,Chicago,Florida,59630,South,PROD-0062,Furniture,Tables,Dining Table,358.14,2,0.08,51.64
+821,OR-000821,12/19/2023,12/20/2023,First Class,CUST-0176,George Martinez,Consumer,United States,New York,Georgia,88450,South,PROD-0073,Technology,Computers,Laptop,1645.23,4,0.06,654.32
+822,OR-000822,09/25/2023,10/02/2023,Same Day,CUST-0423,Charlie Wilson,Consumer,United States,New York,Ohio,99446,Central,PROD-0025,Furniture,Bookcases,Standard Bookcase,1140.97,5,0.06,324.95
+823,OR-000823,06/28/2023,07/03/2023,Standard Class,CUST-0328,Fiona Garcia,Consumer,United States,Los Angeles,New York,99118,East,PROD-0023,Office Supplies,Storage,Storage Bin,1050.01,9,0.14,401.35
+824,OR-000824,05/30/2023,06/02/2023,First Class,CUST-0155,Jane Doe,Consumer,United States,New York,Pennsylvania,22631,East,PROD-0076,Office Supplies,Labels,Address Labels,1320.91,3,0.08,140.64
+825,OR-000825,05/13/2023,05/20/2023,Standard Class,CUST-0261,Edward Davis,Consumer,United States,New York,Oregon,60673,West,PROD-0027,Furniture,Bookcases,Standard Bookcase,1813.36,8,0.01,615.9
+826,OR-000826,04/04/2023,04/08/2023,First Class,CUST-0182,Bob Johnson,Home Office,United States,Houston,New York,46584,East,PROD-0041,Furniture,Furnishings,Product,431.54,1,0.0,62.14
+827,OR-000827,11/11/2023,11/13/2023,Second Class,CUST-0004,George Martinez,Home Office,United States,Chicago,Washington,94907,West,PROD-0042,Office Supplies,Binders,5-Ring Binder,1841.25,6,0.21,367.98
+828,OR-000828,08/29/2023,09/02/2023,Second Class,CUST-0461,John Smith,Consumer,United States,Los Angeles,North Carolina,61435,South,PROD-0056,Furniture,Bookcases,Standard Bookcase,522.67,2,0.29,81.04
+829,OR-000829,11/15/2023,11/18/2023,Same Day,CUST-0328,Diana Miller,Home Office,United States,Houston,California,42519,West,PROD-0075,Furniture,Chairs,Conference Chair,582.11,3,0.17,231.0
+830,OR-000830,01/12/2023,01/14/2023,Second Class,CUST-0310,Fiona Garcia,Consumer,United States,Chicago,Massachusetts,56214,East,PROD-0085,Furniture,Furnishings,Product,91.37,3,0.06,22.71
+831,OR-000831,03/07/2023,03/09/2023,First Class,CUST-0313,Edward Davis,Corporate,United States,Houston,North Carolina,78736,South,PROD-0076,Technology,Phones,Mobile Phone,2182.29,8,0.28,770.72
+832,OR-000832,10/09/2023,10/15/2023,First Class,CUST-0202,George Martinez,Home Office,United States,New York,Texas,58535,Central,PROD-0084,Technology,Computers,Laptop,1340.9,9,0.02,425.15
+833,OR-000833,01/25/2023,02/01/2023,Standard Class,CUST-0096,Edward Davis,Consumer,United States,New York,New York,95023,East,PROD-0093,Office Supplies,Binders,3-Ring Binder,2877.03,9,0.16,792.18
+834,OR-000834,06/08/2023,06/12/2023,Second Class,CUST-0352,Alice Brown,Corporate,United States,Chicago,Illinois,72989,Central,PROD-0033,Technology,Computers,Tablet,3039.06,8,0.01,508.24
+835,OR-000835,09/19/2023,09/24/2023,Standard Class,CUST-0105,Hannah Lee,Consumer,United States,Chicago,Ohio,61170,Central,PROD-0040,Furniture,Furnishings,Product,555.36,10,0.29,205.92
+836,OR-000836,01/04/2023,01/09/2023,Second Class,CUST-0029,Bob Johnson,Home Office,United States,Chicago,Texas,93483,Central,PROD-0076,Furniture,Chairs,Ergonomic Chair,188.56,1,0.13,72.45
+837,OR-000837,11/02/2023,11/08/2023,First Class,CUST-0433,George Martinez,Consumer,United States,Chicago,Pennsylvania,77160,East,PROD-0083,Furniture,Chairs,Executive Chair,2056.9,7,0.13,250.49
+838,OR-000838,10/11/2023,10/17/2023,Standard Class,CUST-0176,Alice Brown,Corporate,United States,New York,Illinois,14087,Central,PROD-0086,Office Supplies,Labels,Shipping Labels,1266.35,3,0.06,217.35
+839,OR-000839,12/01/2023,12/06/2023,First Class,CUST-0355,Edward Davis,Home Office,United States,Houston,Texas,94894,Central,PROD-0090,Technology,Accessories,Keyboard,3533.72,8,0.04,1202.57
+840,OR-000840,08/03/2023,08/08/2023,Same Day,CUST-0293,Charlie Wilson,Home Office,United States,Los Angeles,Florida,15607,South,PROD-0056,Furniture,Furnishings,Product,308.82,8,0.09,35.3
+841,OR-000841,01/19/2023,01/20/2023,First Class,CUST-0499,John Smith,Home Office,United States,Houston,Illinois,17446,Central,PROD-0083,Furniture,Bookcases,Standard Bookcase,1386.52,5,0.13,530.57
+842,OR-000842,04/15/2023,04/20/2023,Standard Class,CUST-0294,John Smith,Home Office,United States,Houston,Georgia,32956,South,PROD-0094,Technology,Phones,Office Phone,1336.1,10,0.01,169.55
+843,OR-000843,10/07/2023,10/13/2023,Second Class,CUST-0218,Bob Johnson,Consumer,United States,Houston,North Carolina,65110,South,PROD-0008,Technology,Accessories,Keyboard,117.3,2,0.21,28.76
+844,OR-000844,07/25/2023,07/27/2023,First Class,CUST-0452,Hannah Lee,Corporate,United States,Los Angeles,Florida,69936,South,PROD-0029,Office Supplies,Labels,Shipping Labels,2994.6,7,0.02,488.17
+845,OR-000845,06/29/2023,07/03/2023,First Class,CUST-0149,George Martinez,Home Office,United States,Chicago,Massachusetts,40275,East,PROD-0043,Technology,Computers,Desktop,639.93,2,0.15,76.57
+846,OR-000846,11/03/2023,11/09/2023,Same Day,CUST-0246,George Martinez,Home Office,United States,Houston,Georgia,41494,South,PROD-0021,Technology,Accessories,Webcam,742.54,6,0.05,175.84
+847,OR-000847,04/07/2023,04/10/2023,First Class,CUST-0026,Edward Davis,Consumer,United States,Houston,Pennsylvania,72902,East,PROD-0017,Furniture,Tables,Dining Table,1073.69,3,0.27,274.62
+848,OR-000848,05/08/2023,05/12/2023,Standard Class,CUST-0312,Jane Doe,Consumer,United States,New York,Pennsylvania,16014,East,PROD-0007,Furniture,Chairs,Executive Chair,1567.44,7,0.1,311.01
+849,OR-000849,10/23/2023,10/24/2023,Second Class,CUST-0177,Edward Davis,Consumer,United States,Houston,Georgia,31306,South,PROD-0063,Office Supplies,Binders,3-Ring Binder,723.96,2,0.12,222.41
+850,OR-000850,12/26/2023,12/27/2023,First Class,CUST-0369,Fiona Garcia,Home Office,United States,Houston,North Carolina,43119,South,PROD-0073,Technology,Accessories,Webcam,52.59,2,0.19,19.71
+851,OR-000851,04/13/2023,04/20/2023,Second Class,CUST-0192,Fiona Garcia,Home Office,United States,Los Angeles,New York,69007,East,PROD-0042,Furniture,Bookcases,Corner Bookcase,560.56,4,0.12,151.86
+852,OR-000852,10/20/2023,10/22/2023,Second Class,CUST-0278,Diana Miller,Home Office,United States,Chicago,North Carolina,58622,South,PROD-0004,Office Supplies,Labels,Address Labels,1209.5,4,0.14,277.45
+853,OR-000853,06/26/2023,07/02/2023,Second Class,CUST-0006,John Smith,Home Office,United States,Los Angeles,Georgia,96847,South,PROD-0014,Furniture,Tables,Coffee Table,651.9,2,0.01,103.75
+854,OR-000854,09/21/2023,09/23/2023,First Class,CUST-0366,Diana Miller,Home Office,United States,Houston,New York,61766,East,PROD-0065,Office Supplies,Labels,Shipping Labels,1265.16,3,0.09,172.98
+855,OR-000855,05/24/2023,05/26/2023,Standard Class,CUST-0136,Hannah Lee,Corporate,United States,Houston,Illinois,70153,Central,PROD-0075,Furniture,Tables,Coffee Table,536.69,3,0.03,193.94
+856,OR-000856,06/13/2023,06/15/2023,Second Class,CUST-0454,Diana Miller,Corporate,United States,Chicago,Illinois,75994,Central,PROD-0075,Furniture,Furnishings,Product,545.81,2,0.25,63.3
+857,OR-000857,03/15/2023,03/20/2023,Second Class,CUST-0249,Edward Davis,Consumer,United States,Houston,New York,58869,East,PROD-0088,Office Supplies,Storage,File Box,126.53,2,0.2,19.06
+858,OR-000858,12/25/2023,01/01/2024,Second Class,CUST-0317,Alice Brown,Corporate,United States,Los Angeles,California,98757,West,PROD-0034,Technology,Computers,Laptop,229.93,1,0.29,65.03
+859,OR-000859,10/27/2023,11/02/2023,Second Class,CUST-0359,John Smith,Consumer,United States,Los Angeles,California,51944,West,PROD-0050,Office Supplies,Storage,Storage Bin,239.29,2,0.08,88.57
+860,OR-000860,08/24/2023,08/28/2023,Second Class,CUST-0321,Alice Brown,Consumer,United States,New York,Pennsylvania,47944,East,PROD-0037,Furniture,Bookcases,Standard Bookcase,449.22,3,0.09,91.4
+861,OR-000861,03/30/2023,04/02/2023,Standard Class,CUST-0243,Charlie Wilson,Corporate,United States,Chicago,Illinois,40211,Central,PROD-0095,Furniture,Chairs,Ergonomic Chair,445.62,5,0.16,135.18
+862,OR-000862,09/23/2023,09/28/2023,First Class,CUST-0134,Jane Doe,Home Office,United States,Chicago,Washington,27794,West,PROD-0049,Office Supplies,Binders,3-Ring Binder,665.15,3,0.17,152.33
+863,OR-000863,02/20/2023,02/26/2023,Second Class,CUST-0478,John Smith,Home Office,United States,New York,Massachusetts,16763,East,PROD-0009,Office Supplies,Storage,Storage Bin,1444.03,4,0.1,299.46
+864,OR-000864,01/09/2023,01/13/2023,First Class,CUST-0270,John Smith,Consumer,United States,New York,Texas,94221,Central,PROD-0054,Office Supplies,Labels,Shipping Labels,211.19,5,0.13,83.42
+865,OR-000865,07/24/2023,07/29/2023,Same Day,CUST-0321,Charlie Wilson,Consumer,United States,Houston,Texas,87213,Central,PROD-0042,Furniture,Furnishings,Product,493.33,4,0.14,107.5
+866,OR-000866,02/25/2023,03/02/2023,Standard Class,CUST-0423,Diana Miller,Corporate,United States,Chicago,Georgia,71463,South,PROD-0018,Technology,Computers,Tablet,2678.32,8,0.18,1000.43
+867,OR-000867,12/29/2023,01/01/2024,Second Class,CUST-0406,Bob Johnson,Consumer,United States,New York,New York,64716,East,PROD-0048,Furniture,Bookcases,Standard Bookcase,1029.3,10,0.27,140.84
+868,OR-000868,07/27/2023,08/03/2023,Second Class,CUST-0184,Diana Miller,Corporate,United States,New York,Georgia,88363,South,PROD-0082,Office Supplies,Binders,3-Ring Binder,1053.89,3,0.21,232.21
+869,OR-000869,07/11/2023,07/12/2023,First Class,CUST-0021,Fiona Garcia,Home Office,United States,Chicago,New York,90339,East,PROD-0015,Technology,Phones,Mobile Phone,1425.9,3,0.0,199.9
+870,OR-000870,09/27/2023,10/03/2023,Standard Class,CUST-0474,Charlie Wilson,Consumer,United States,New York,North Carolina,14579,South,PROD-0011,Furniture,Furnishings,Product,287.56,3,0.16,56.56
+871,OR-000871,12/17/2023,12/22/2023,Same Day,CUST-0370,Jane Doe,Corporate,United States,Los Angeles,California,68439,West,PROD-0100,Technology,Copiers,Copier Machine,2149.29,7,0.12,603.41
+872,OR-000872,03/28/2023,04/01/2023,Second Class,CUST-0110,Edward Davis,Consumer,United States,Chicago,Pennsylvania,76865,East,PROD-0081,Furniture,Furnishings,Product,639.22,5,0.27,206.05
+873,OR-000873,04/01/2023,04/06/2023,Standard Class,CUST-0212,Fiona Garcia,Consumer,United States,New York,New York,79318,East,PROD-0093,Technology,Computers,Laptop,683.58,6,0.0,232.61
+874,OR-000874,03/30/2023,04/06/2023,First Class,CUST-0304,Charlie Wilson,Consumer,United States,New York,New York,74753,East,PROD-0011,Furniture,Tables,Dining Table,543.81,5,0.27,166.31
+875,OR-000875,11/06/2023,11/13/2023,First Class,CUST-0030,Hannah Lee,Consumer,United States,Houston,California,69550,West,PROD-0082,Furniture,Tables,Coffee Table,1049.99,8,0.18,132.44
+876,OR-000876,04/01/2023,04/07/2023,Second Class,CUST-0341,Hannah Lee,Home Office,United States,Houston,Pennsylvania,64744,East,PROD-0033,Office Supplies,Storage,File Box,2358.04,7,0.15,422.26
+877,OR-000877,11/08/2023,11/11/2023,First Class,CUST-0214,George Martinez,Home Office,United States,Chicago,California,96899,West,PROD-0038,Technology,Computers,Tablet,1994.02,7,0.08,577.88
+878,OR-000878,09/06/2023,09/13/2023,First Class,CUST-0141,Bob Johnson,Home Office,United States,Chicago,California,77607,West,PROD-0008,Office Supplies,Storage,Storage Bin,371.74,3,0.15,44.59
+879,OR-000879,06/21/2023,06/23/2023,Second Class,CUST-0274,Hannah Lee,Corporate,United States,Houston,New York,86135,East,PROD-0049,Furniture,Chairs,Ergonomic Chair,732.71,7,0.26,275.8
+880,OR-000880,10/20/2023,10/22/2023,First Class,CUST-0163,Jane Doe,Corporate,United States,Chicago,California,42030,West,PROD-0072,Furniture,Bookcases,Standard Bookcase,337.47,2,0.3,127.79
+881,OR-000881,06/15/2023,06/18/2023,Second Class,CUST-0377,George Martinez,Corporate,United States,Chicago,New York,34447,East,PROD-0033,Furniture,Furnishings,Product,1967.72,4,0.0,649.6
+882,OR-000882,09/05/2023,09/08/2023,Second Class,CUST-0257,Jane Doe,Consumer,United States,Chicago,Illinois,43435,Central,PROD-0004,Furniture,Bookcases,Standard Bookcase,785.32,2,0.16,106.33
+883,OR-000883,02/02/2023,02/09/2023,Second Class,CUST-0225,Fiona Garcia,Corporate,United States,New York,Illinois,50109,Central,PROD-0081,Furniture,Furnishings,Product,3343.39,9,0.2,685.48
+884,OR-000884,02/03/2023,02/06/2023,Second Class,CUST-0334,Hannah Lee,Corporate,United States,New York,Florida,77029,South,PROD-0082,Office Supplies,Storage,Storage Bin,192.47,1,0.27,41.98
+885,OR-000885,05/14/2023,05/18/2023,Standard Class,CUST-0180,Hannah Lee,Corporate,United States,New York,Texas,19082,Central,PROD-0066,Technology,Phones,Mobile Phone,48.22,6,0.27,11.43
+886,OR-000886,09/20/2023,09/23/2023,Second Class,CUST-0075,Alice Brown,Corporate,United States,Chicago,Florida,94244,South,PROD-0027,Office Supplies,Labels,Address Labels,1387.6,4,0.23,411.39
+887,OR-000887,10/05/2023,10/09/2023,Second Class,CUST-0495,Hannah Lee,Consumer,United States,Houston,Pennsylvania,44229,East,PROD-0095,Office Supplies,Labels,Address Labels,372.2,4,0.12,105.57
+888,OR-000888,01/13/2023,01/15/2023,First Class,CUST-0368,Edward Davis,Corporate,United States,Chicago,Illinois,40510,Central,PROD-0088,Technology,Computers,Tablet,539.45,4,0.11,117.33
+889,OR-000889,05/15/2023,05/20/2023,Same Day,CUST-0099,Jane Doe,Corporate,United States,Houston,California,33852,West,PROD-0013,Office Supplies,Labels,Address Labels,561.29,8,0.09,88.03
+890,OR-000890,06/04/2023,06/07/2023,Standard Class,CUST-0112,Jane Doe,Corporate,United States,Los Angeles,Georgia,18743,South,PROD-0076,Furniture,Chairs,Conference Chair,1375.79,8,0.14,383.24
+891,OR-000891,06/04/2023,06/07/2023,Standard Class,CUST-0319,Bob Johnson,Consumer,United States,New York,New York,21066,East,PROD-0099,Office Supplies,Labels,Shipping Labels,633.22,2,0.17,244.54
+892,OR-000892,07/22/2023,07/28/2023,Same Day,CUST-0186,Diana Miller,Home Office,United States,New York,Pennsylvania,92454,East,PROD-0026,Office Supplies,Labels,Shipping Labels,1102.08,3,0.15,185.43
+893,OR-000893,11/30/2023,12/07/2023,First Class,CUST-0455,John Smith,Corporate,United States,Houston,Pennsylvania,79138,East,PROD-0096,Office Supplies,Labels,Shipping Labels,256.17,3,0.19,31.9
+894,OR-000894,01/18/2023,01/21/2023,Standard Class,CUST-0300,John Smith,Home Office,United States,New York,Georgia,65910,South,PROD-0034,Office Supplies,Binders,5-Ring Binder,1527.68,8,0.0,547.76
+895,OR-000895,03/19/2023,03/25/2023,Second Class,CUST-0283,Edward Davis,Home Office,United States,Los Angeles,Texas,44826,Central,PROD-0053,Furniture,Bookcases,Standard Bookcase,1642.79,9,0.18,520.98
+896,OR-000896,10/04/2023,10/09/2023,Second Class,CUST-0228,Edward Davis,Corporate,United States,New York,Washington,87780,West,PROD-0093,Furniture,Tables,Conference Table,871.54,3,0.15,297.32
+897,OR-000897,01/24/2023,01/30/2023,Standard Class,CUST-0310,Diana Miller,Corporate,United States,Chicago,Illinois,11248,Central,PROD-0015,Furniture,Chairs,Ergonomic Chair,2316.37,6,0.07,468.93
+898,OR-000898,03/19/2023,03/20/2023,First Class,CUST-0070,Diana Miller,Corporate,United States,Chicago,Illinois,48119,Central,PROD-0071,Office Supplies,Storage,File Box,360.42,3,0.15,61.67
+899,OR-000899,07/09/2023,07/15/2023,Same Day,CUST-0050,Fiona Garcia,Consumer,United States,New York,Ohio,41209,Central,PROD-0064,Office Supplies,Paper,Sticky Notes,336.66,7,0.13,107.46
+900,OR-000900,03/20/2023,03/27/2023,Standard Class,CUST-0058,George Martinez,Home Office,United States,Houston,Georgia,31914,South,PROD-0088,Office Supplies,Storage,Storage Bin,398.43,10,0.27,114.63
+901,OR-000901,05/27/2023,06/03/2023,Standard Class,CUST-0365,Charlie Wilson,Corporate,United States,Los Angeles,Georgia,27531,South,PROD-0017,Technology,Computers,Laptop,122.93,3,0.19,43.35
+902,OR-000902,02/11/2023,02/16/2023,First Class,CUST-0106,Diana Miller,Home Office,United States,Houston,Ohio,46598,Central,PROD-0034,Furniture,Chairs,Executive Chair,2164.89,6,0.11,283.14
+903,OR-000903,04/29/2023,05/01/2023,First Class,CUST-0241,Charlie Wilson,Corporate,United States,Los Angeles,Florida,87515,South,PROD-0076,Office Supplies,Labels,Shipping Labels,1256.6,8,0.04,462.07
+904,OR-000904,07/03/2023,07/08/2023,Second Class,CUST-0144,George Martinez,Consumer,United States,Los Angeles,Washington,26154,West,PROD-0090,Technology,Copiers,Copier Machine,1896.4,5,0.2,205.08
+905,OR-000905,03/09/2023,03/15/2023,Same Day,CUST-0249,Fiona Garcia,Consumer,United States,Houston,California,83602,West,PROD-0043,Office Supplies,Labels,Shipping Labels,1109.34,6,0.17,113.81
+906,OR-000906,12/20/2023,12/21/2023,Standard Class,CUST-0500,Jane Doe,Consumer,United States,Houston,New York,97108,East,PROD-0051,Furniture,Chairs,Ergonomic Chair,3310.5,10,0.18,648.37
+907,OR-000907,09/05/2023,09/12/2023,Same Day,CUST-0061,Bob Johnson,Consumer,United States,New York,Oregon,69687,West,PROD-0004,Technology,Phones,Office Phone,1012.76,3,0.28,185.72
+908,OR-000908,11/25/2023,11/26/2023,First Class,CUST-0286,George Martinez,Home Office,United States,Chicago,Georgia,61555,South,PROD-0050,Office Supplies,Labels,Shipping Labels,72.12,1,0.14,13.29
+909,OR-000909,07/10/2023,07/17/2023,Standard Class,CUST-0136,George Martinez,Consumer,United States,Los Angeles,Texas,12635,Central,PROD-0035,Office Supplies,Storage,Storage Bin,649.89,8,0.08,242.7
+910,OR-000910,02/14/2023,02/15/2023,First Class,CUST-0490,Diana Miller,Corporate,United States,Houston,Massachusetts,55285,East,PROD-0074,Office Supplies,Binders,3-Ring Binder,2869.56,9,0.29,1059.55
+911,OR-000911,12/24/2023,12/31/2023,Second Class,CUST-0164,Hannah Lee,Consumer,United States,Los Angeles,Pennsylvania,62504,East,PROD-0066,Furniture,Furnishings,Product,2381.66,7,0.03,827.67
+912,OR-000912,07/10/2023,07/14/2023,Standard Class,CUST-0346,Jane Doe,Consumer,United States,New York,Florida,61064,South,PROD-0081,Technology,Phones,Office Phone,887.23,3,0.3,210.08
+913,OR-000913,09/24/2023,09/25/2023,Same Day,CUST-0002,Diana Miller,Corporate,United States,Houston,Massachusetts,20384,East,PROD-0038,Office Supplies,Paper,Notebook,3679.6,10,0.23,1152.8
+914,OR-000914,11/09/2023,11/11/2023,Standard Class,CUST-0497,Jane Doe,Corporate,United States,New York,Oregon,22671,West,PROD-0011,Office Supplies,Storage,File Box,358.27,3,0.15,85.47
+915,OR-000915,01/06/2023,01/10/2023,Second Class,CUST-0150,Bob Johnson,Consumer,United States,Los Angeles,Ohio,34357,Central,PROD-0031,Office Supplies,Storage,Storage Bin,1645.1,8,0.05,531.46
+916,OR-000916,03/26/2023,03/31/2023,Second Class,CUST-0294,Charlie Wilson,Consumer,United States,Los Angeles,New York,51929,East,PROD-0079,Office Supplies,Paper,Sticky Notes,278.28,6,0.19,98.43
+917,OR-000917,03/12/2023,03/19/2023,Standard Class,CUST-0127,Fiona Garcia,Consumer,United States,Chicago,Florida,29456,South,PROD-0059,Furniture,Furnishings,Product,386.71,2,0.17,81.49
+918,OR-000918,07/12/2023,07/19/2023,Standard Class,CUST-0222,Bob Johnson,Consumer,United States,New York,Pennsylvania,57777,East,PROD-0020,Technology,Computers,Desktop,1099.53,10,0.27,208.61
+919,OR-000919,03/05/2023,03/08/2023,Standard Class,CUST-0381,Edward Davis,Consumer,United States,Los Angeles,Massachusetts,34740,East,PROD-0027,Technology,Copiers,Copier Machine,419.54,9,0.19,95.72
+920,OR-000920,02/07/2023,02/14/2023,Second Class,CUST-0358,John Smith,Consumer,United States,Los Angeles,New York,66038,East,PROD-0094,Furniture,Bookcases,Corner Bookcase,386.32,9,0.24,126.25
+921,OR-000921,05/05/2023,05/06/2023,First Class,CUST-0368,Bob Johnson,Consumer,United States,Los Angeles,Washington,15505,West,PROD-0033,Office Supplies,Storage,File Box,1152.69,9,0.02,435.63
+922,OR-000922,01/10/2023,01/16/2023,Same Day,CUST-0264,Jane Doe,Home Office,United States,New York,New York,84094,East,PROD-0062,Furniture,Furnishings,Product,2047.31,9,0.14,453.18
+923,OR-000923,07/14/2023,07/21/2023,Second Class,CUST-0299,Diana Miller,Corporate,United States,Houston,Massachusetts,14408,East,PROD-0009,Furniture,Tables,Coffee Table,1346.65,6,0.1,141.28
+924,OR-000924,02/22/2023,03/01/2023,Same Day,CUST-0206,Alice Brown,Home Office,United States,Los Angeles,New York,26271,East,PROD-0099,Office Supplies,Storage,Storage Bin,2744.12,8,0.01,464.8
+925,OR-000925,10/29/2023,10/30/2023,First Class,CUST-0031,George Martinez,Corporate,United States,Houston,Texas,88626,Central,PROD-0074,Furniture,Furnishings,Product,27.65,1,0.18,7.14
+926,OR-000926,11/11/2023,11/16/2023,Standard Class,CUST-0285,Alice Brown,Consumer,United States,Chicago,Oregon,72640,West,PROD-0071,Office Supplies,Storage,Storage Bin,3393.76,9,0.23,1254.73
+927,OR-000927,09/04/2023,09/10/2023,Second Class,CUST-0418,Charlie Wilson,Home Office,United States,New York,Pennsylvania,64038,East,PROD-0071,Technology,Accessories,Keyboard,1026.94,3,0.02,155.49
+928,OR-000928,09/27/2023,09/29/2023,Second Class,CUST-0373,Fiona Garcia,Consumer,United States,New York,Massachusetts,32397,East,PROD-0032,Technology,Copiers,Copier Machine,4626.53,10,0.04,1446.99
+929,OR-000929,07/16/2023,07/22/2023,Standard Class,CUST-0325,John Smith,Home Office,United States,Chicago,California,81682,West,PROD-0097,Furniture,Furnishings,Product,2737.53,10,0.02,873.03
+930,OR-000930,06/14/2023,06/19/2023,Standard Class,CUST-0078,Jane Doe,Consumer,United States,Chicago,Pennsylvania,80984,East,PROD-0032,Office Supplies,Storage,File Box,636.08,7,0.08,200.83
+931,OR-000931,11/17/2023,11/24/2023,Same Day,CUST-0034,Bob Johnson,Home Office,United States,Los Angeles,North Carolina,69654,South,PROD-0044,Technology,Phones,Office Phone,851.46,2,0.08,188.25
+932,OR-000932,11/14/2023,11/21/2023,Standard Class,CUST-0474,John Smith,Home Office,United States,Houston,Georgia,80963,South,PROD-0039,Office Supplies,Binders,5-Ring Binder,68.95,3,0.17,16.18
+933,OR-000933,02/03/2023,02/04/2023,Standard Class,CUST-0049,Jane Doe,Consumer,United States,Chicago,Washington,14186,West,PROD-0059,Office Supplies,Labels,Shipping Labels,2174.6,5,0.06,304.77
+934,OR-000934,02/01/2023,02/08/2023,Standard Class,CUST-0470,Charlie Wilson,Home Office,United States,Houston,New York,98357,East,PROD-0026,Technology,Phones,Mobile Phone,2331.09,10,0.11,424.63
+935,OR-000935,05/27/2023,06/01/2023,First Class,CUST-0035,Edward Davis,Consumer,United States,Houston,Illinois,56074,Central,PROD-0033,Office Supplies,Storage,Storage Bin,1609.74,4,0.16,338.76
+936,OR-000936,10/08/2023,10/10/2023,Second Class,CUST-0199,Charlie Wilson,Consumer,United States,Los Angeles,Texas,30283,Central,PROD-0059,Furniture,Chairs,Executive Chair,219.13,2,0.01,61.49
+937,OR-000937,08/20/2023,08/26/2023,Standard Class,CUST-0485,George Martinez,Home Office,United States,Chicago,Oregon,79292,West,PROD-0014,Office Supplies,Binders,3-Ring Binder,1597.67,5,0.22,429.46
+938,OR-000938,09/20/2023,09/26/2023,First Class,CUST-0052,John Smith,Home Office,United States,Chicago,North Carolina,87316,South,PROD-0026,Furniture,Bookcases,Corner Bookcase,280.65,3,0.06,36.25
+939,OR-000939,04/20/2023,04/27/2023,Second Class,CUST-0091,Edward Davis,Consumer,United States,Chicago,Massachusetts,81821,East,PROD-0038,Technology,Computers,Tablet,797.55,4,0.13,115.46
+940,OR-000940,06/21/2023,06/23/2023,Same Day,CUST-0145,Jane Doe,Consumer,United States,Houston,Oregon,39239,West,PROD-0100,Furniture,Furnishings,Product,132.49,4,0.12,38.08
+941,OR-000941,10/13/2023,10/17/2023,Second Class,CUST-0021,Alice Brown,Consumer,United States,Chicago,Illinois,90793,Central,PROD-0005,Technology,Accessories,Keyboard,3109.43,10,0.03,366.1
+942,OR-000942,04/09/2023,04/16/2023,Standard Class,CUST-0229,Edward Davis,Home Office,United States,New York,Massachusetts,77895,East,PROD-0011,Office Supplies,Binders,3-Ring Binder,594.43,7,0.07,180.0
+943,OR-000943,10/12/2023,10/17/2023,First Class,CUST-0255,Jane Doe,Home Office,United States,Houston,North Carolina,86781,South,PROD-0028,Office Supplies,Labels,Shipping Labels,2272.27,6,0.02,358.75
+944,OR-000944,02/23/2023,02/25/2023,Standard Class,CUST-0351,Bob Johnson,Corporate,United States,Los Angeles,Washington,36982,West,PROD-0038,Furniture,Bookcases,Standard Bookcase,869.24,4,0.03,287.42
+945,OR-000945,08/05/2023,08/06/2023,Same Day,CUST-0194,Hannah Lee,Consumer,United States,Houston,Massachusetts,26812,East,PROD-0036,Furniture,Furnishings,Product,733.9,4,0.13,181.17
+946,OR-000946,09/27/2023,10/04/2023,First Class,CUST-0092,Alice Brown,Home Office,United States,Los Angeles,Ohio,31468,Central,PROD-0063,Technology,Accessories,Keyboard,2082.06,5,0.02,665.68
+947,OR-000947,10/09/2023,10/12/2023,Second Class,CUST-0382,Jane Doe,Corporate,United States,Houston,Georgia,56221,South,PROD-0068,Office Supplies,Storage,Storage Bin,941.9,4,0.11,226.29
+948,OR-000948,06/16/2023,06/17/2023,Second Class,CUST-0402,Alice Brown,Home Office,United States,Houston,Massachusetts,19037,East,PROD-0079,Office Supplies,Labels,Shipping Labels,2685.16,10,0.26,624.93
+949,OR-000949,11/14/2023,11/15/2023,Standard Class,CUST-0011,Edward Davis,Consumer,United States,Los Angeles,New York,86914,East,PROD-0025,Office Supplies,Paper,Copy Paper,477.98,2,0.17,79.0
+950,OR-000950,12/18/2023,12/20/2023,Standard Class,CUST-0199,John Smith,Corporate,United States,Houston,Pennsylvania,68148,East,PROD-0089,Technology,Copiers,Copier Machine,132.46,10,0.01,24.75
+951,OR-000951,09/08/2023,09/11/2023,Standard Class,CUST-0307,Diana Miller,Home Office,United States,Los Angeles,Georgia,29227,South,PROD-0051,Furniture,Furnishings,Product,755.08,2,0.1,269.81
+952,OR-000952,01/07/2023,01/14/2023,First Class,CUST-0439,Diana Miller,Consumer,United States,Los Angeles,Oregon,58424,West,PROD-0045,Furniture,Chairs,Conference Chair,2067.06,6,0.06,588.27
+953,OR-000953,03/05/2023,03/06/2023,Same Day,CUST-0383,George Martinez,Consumer,United States,New York,Washington,98897,West,PROD-0083,Furniture,Tables,Coffee Table,306.84,1,0.18,92.56
+954,OR-000954,03/06/2023,03/11/2023,Second Class,CUST-0084,George Martinez,Consumer,United States,Los Angeles,Massachusetts,66423,East,PROD-0015,Technology,Copiers,Copier Machine,3130.73,9,0.1,668.11
+955,OR-000955,11/24/2023,11/29/2023,Same Day,CUST-0081,Hannah Lee,Corporate,United States,New York,Massachusetts,64996,East,PROD-0076,Office Supplies,Paper,Notebook,1053.52,3,0.29,228.97
+956,OR-000956,04/27/2023,05/02/2023,First Class,CUST-0268,George Martinez,Consumer,United States,Chicago,Illinois,74814,Central,PROD-0092,Technology,Accessories,Keyboard,1226.34,10,0.24,399.66
+957,OR-000957,04/09/2023,04/10/2023,Second Class,CUST-0306,Alice Brown,Corporate,United States,Houston,Texas,40967,Central,PROD-0092,Technology,Accessories,Keyboard,3883.18,8,0.01,1442.97
+958,OR-000958,10/21/2023,10/22/2023,First Class,CUST-0419,Jane Doe,Consumer,United States,Los Angeles,California,59183,West,PROD-0097,Office Supplies,Storage,Storage Bin,1514.89,8,0.16,416.92
+959,OR-000959,06/25/2023,06/29/2023,Second Class,CUST-0223,Edward Davis,Home Office,United States,Chicago,New York,40300,East,PROD-0042,Office Supplies,Binders,5-Ring Binder,1185.53,5,0.23,472.45
+960,OR-000960,12/04/2023,12/09/2023,Same Day,CUST-0408,Fiona Garcia,Consumer,United States,Los Angeles,North Carolina,23165,South,PROD-0021,Technology,Copiers,Copier Machine,340.61,8,0.15,55.7
+961,OR-000961,09/21/2023,09/23/2023,Standard Class,CUST-0384,Bob Johnson,Home Office,United States,New York,California,42069,West,PROD-0037,Office Supplies,Paper,Sticky Notes,1665.56,7,0.19,425.05
+962,OR-000962,04/11/2023,04/12/2023,Second Class,CUST-0477,John Smith,Consumer,United States,New York,Texas,67932,Central,PROD-0043,Furniture,Chairs,Conference Chair,2926.05,9,0.11,606.22
+963,OR-000963,10/10/2023,10/11/2023,Same Day,CUST-0097,Edward Davis,Home Office,United States,Los Angeles,Pennsylvania,91748,East,PROD-0001,Office Supplies,Labels,Shipping Labels,848.6,2,0.13,124.16
+964,OR-000964,07/18/2023,07/24/2023,Standard Class,CUST-0061,Bob Johnson,Consumer,United States,Houston,New York,26395,East,PROD-0089,Technology,Copiers,Copier Machine,247.61,2,0.08,65.34
+965,OR-000965,11/30/2023,12/02/2023,First Class,CUST-0075,Fiona Garcia,Consumer,United States,Houston,Oregon,83497,West,PROD-0082,Furniture,Tables,Conference Table,374.54,3,0.1,78.82
+966,OR-000966,10/04/2023,10/08/2023,Standard Class,CUST-0368,Hannah Lee,Home Office,United States,New York,California,92274,West,PROD-0094,Technology,Accessories,Keyboard,760.75,2,0.15,88.84
+967,OR-000967,09/02/2023,09/09/2023,Standard Class,CUST-0017,Hannah Lee,Corporate,United States,Houston,New York,52699,East,PROD-0039,Technology,Copiers,Copier Machine,134.0,1,0.17,14.62
+968,OR-000968,04/26/2023,05/02/2023,Same Day,CUST-0136,Diana Miller,Consumer,United States,Los Angeles,New York,60839,East,PROD-0038,Office Supplies,Labels,Shipping Labels,99.01,1,0.22,39.04
+969,OR-000969,02/18/2023,02/19/2023,Standard Class,CUST-0101,Diana Miller,Home Office,United States,Houston,Florida,78973,South,PROD-0085,Furniture,Furnishings,Product,355.26,1,0.22,131.42
+970,OR-000970,11/04/2023,11/10/2023,Same Day,CUST-0154,Jane Doe,Consumer,United States,Houston,North Carolina,14849,South,PROD-0095,Furniture,Chairs,Conference Chair,2042.03,7,0.24,677.32
+971,OR-000971,05/19/2023,05/25/2023,First Class,CUST-0101,Fiona Garcia,Home Office,United States,New York,Florida,40327,South,PROD-0092,Technology,Accessories,Keyboard,2160.31,8,0.02,812.28
+972,OR-000972,12/16/2023,12/18/2023,First Class,CUST-0356,George Martinez,Corporate,United States,Houston,California,83705,West,PROD-0010,Office Supplies,Labels,Shipping Labels,2570.83,8,0.1,326.81
+973,OR-000973,08/22/2023,08/23/2023,Standard Class,CUST-0313,Diana Miller,Home Office,United States,Houston,Washington,47178,West,PROD-0047,Office Supplies,Storage,Storage Bin,1592.74,6,0.06,499.13
+974,OR-000974,11/26/2023,12/01/2023,Second Class,CUST-0421,Charlie Wilson,Consumer,United States,Los Angeles,California,99942,West,PROD-0003,Technology,Copiers,Copier Machine,187.5,2,0.28,59.16
+975,OR-000975,06/16/2023,06/23/2023,Standard Class,CUST-0379,Diana Miller,Corporate,United States,Chicago,Massachusetts,20640,East,PROD-0022,Office Supplies,Binders,3-Ring Binder,1566.94,8,0.24,497.03
+976,OR-000976,12/08/2023,12/10/2023,Standard Class,CUST-0305,John Smith,Home Office,United States,New York,Ohio,32527,Central,PROD-0098,Technology,Accessories,Mouse,379.98,10,0.12,116.52
+977,OR-000977,01/07/2023,01/12/2023,Standard Class,CUST-0376,Charlie Wilson,Home Office,United States,Chicago,Florida,84179,South,PROD-0064,Office Supplies,Paper,Sticky Notes,2139.26,9,0.2,351.02
+978,OR-000978,07/27/2023,08/01/2023,First Class,CUST-0026,Alice Brown,Corporate,United States,New York,Ohio,45770,Central,PROD-0049,Office Supplies,Labels,Shipping Labels,112.01,1,0.28,27.25
+979,OR-000979,01/31/2023,02/02/2023,Second Class,CUST-0130,Edward Davis,Home Office,United States,Chicago,Pennsylvania,27843,East,PROD-0084,Technology,Accessories,Keyboard,1391.32,7,0.22,455.38
+980,OR-000980,07/19/2023,07/26/2023,First Class,CUST-0419,Charlie Wilson,Home Office,United States,Houston,Illinois,53491,Central,PROD-0100,Furniture,Chairs,Conference Chair,688.43,8,0.11,258.8
+981,OR-000981,04/21/2023,04/23/2023,Standard Class,CUST-0469,Fiona Garcia,Corporate,United States,New York,Illinois,33538,Central,PROD-0069,Office Supplies,Paper,Copy Paper,1549.06,4,0.2,419.64
+982,OR-000982,10/23/2023,10/26/2023,Same Day,CUST-0195,Bob Johnson,Corporate,United States,Houston,New York,50668,East,PROD-0043,Office Supplies,Paper,Notebook,940.4,5,0.01,264.13
+983,OR-000983,05/05/2023,05/08/2023,First Class,CUST-0348,Fiona Garcia,Corporate,United States,Chicago,Florida,93217,South,PROD-0046,Furniture,Tables,Dining Table,3947.13,10,0.01,1354.29
+984,OR-000984,04/08/2023,04/11/2023,First Class,CUST-0262,John Smith,Consumer,United States,Houston,Florida,94533,South,PROD-0090,Office Supplies,Storage,File Box,382.47,4,0.25,139.24
+985,OR-000985,02/14/2023,02/19/2023,Same Day,CUST-0245,Alice Brown,Corporate,United States,Chicago,Massachusetts,95981,East,PROD-0016,Technology,Computers,Tablet,38.36,1,0.02,11.68
+986,OR-000986,06/10/2023,06/13/2023,Standard Class,CUST-0242,Fiona Garcia,Home Office,United States,Houston,Ohio,58801,Central,PROD-0028,Office Supplies,Binders,3-Ring Binder,1014.51,5,0.23,130.2
+987,OR-000987,11/13/2023,11/17/2023,Second Class,CUST-0019,Jane Doe,Corporate,United States,New York,Texas,41286,Central,PROD-0090,Furniture,Furnishings,Product,994.77,4,0.25,377.97
+988,OR-000988,12/09/2023,12/15/2023,First Class,CUST-0103,Alice Brown,Home Office,United States,Chicago,Pennsylvania,94567,East,PROD-0004,Technology,Copiers,Copier Machine,3303.68,9,0.17,744.45
+989,OR-000989,06/12/2023,06/19/2023,First Class,CUST-0128,George Martinez,Corporate,United States,Houston,Washington,30494,West,PROD-0012,Furniture,Furnishings,Product,305.25,1,0.09,50.53
+990,OR-000990,08/27/2023,08/29/2023,First Class,CUST-0404,Diana Miller,Home Office,United States,Houston,Massachusetts,63649,East,PROD-0008,Furniture,Chairs,Conference Chair,94.3,2,0.02,36.17
+991,OR-000991,09/29/2023,10/03/2023,First Class,CUST-0012,Jane Doe,Consumer,United States,Los Angeles,Ohio,45721,Central,PROD-0025,Technology,Accessories,Mouse,1454.71,7,0.17,455.93
+992,OR-000992,06/05/2023,06/08/2023,First Class,CUST-0370,Hannah Lee,Corporate,United States,New York,Massachusetts,30308,East,PROD-0047,Technology,Accessories,Mouse,1089.86,4,0.17,218.19
+993,OR-000993,04/15/2023,04/19/2023,Standard Class,CUST-0115,Edward Davis,Consumer,United States,Chicago,Massachusetts,62143,East,PROD-0079,Furniture,Chairs,Ergonomic Chair,791.76,8,0.0,255.16
+994,OR-000994,02/14/2023,02/21/2023,Same Day,CUST-0420,Charlie Wilson,Corporate,United States,Houston,Ohio,65101,Central,PROD-0084,Technology,Accessories,Keyboard,621.0,3,0.2,101.46
+995,OR-000995,04/17/2023,04/19/2023,Second Class,CUST-0455,Fiona Garcia,Home Office,United States,New York,Pennsylvania,35118,East,PROD-0026,Furniture,Tables,Dining Table,760.85,3,0.08,116.32
+996,OR-000996,09/14/2023,09/15/2023,Same Day,CUST-0493,Fiona Garcia,Home Office,United States,Los Angeles,Florida,48219,South,PROD-0010,Office Supplies,Storage,Storage Bin,2352.29,8,0.03,486.85
+997,OR-000997,02/12/2023,02/13/2023,First Class,CUST-0106,John Smith,Consumer,United States,New York,North Carolina,93150,South,PROD-0026,Furniture,Tables,Coffee Table,1672.26,7,0.02,291.12
+998,OR-000998,01/13/2023,01/14/2023,First Class,CUST-0020,Alice Brown,Home Office,United States,Houston,Florida,31175,South,PROD-0007,Furniture,Bookcases,Corner Bookcase,583.83,3,0.28,97.84
+999,OR-000999,03/12/2023,03/15/2023,Standard Class,CUST-0106,Alice Brown,Consumer,United States,Houston,California,44883,West,PROD-0091,Technology,Copiers,Copier Machine,1561.29,6,0.22,340.63
+1000,OR-001000,01/04/2023,01/09/2023,First Class,CUST-0272,Charlie Wilson,Consumer,United States,New York,Massachusetts,33209,East,PROD-0076,Technology,Phones,Office Phone,739.71,4,0.13,205.28

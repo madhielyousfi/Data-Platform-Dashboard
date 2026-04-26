@@ -13,7 +13,7 @@ from datetime import datetime
 from pathlib import Path
 from html import escape
 
-BASE_PATH = Path("/home/twarga/data_platform/Data-Platform-Dashboard-dados")
+BASE_PATH = Path.cwd()
 DB_PATH = BASE_PATH / "warehouse" / "datawarehouse.db"
 
 
@@ -1561,7 +1561,7 @@ class Handler(http.server.BaseHTTPRequestHandler):
             self.end_headers()
             
             result = subprocess.run(
-                [sys.executable, str(Path("/home/twarga/data_platform/Data-Platform-Dashboard-dados") / "run_pipeline.py")],
+                [sys.executable, str(BASE_PATH / "run_pipeline.py")],
                 capture_output=True,
                 text=True
             )

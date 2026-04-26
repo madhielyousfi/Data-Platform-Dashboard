@@ -1,0 +1,92 @@
+[
+  {
+    "customer_id": "CUST-0145",
+    "customer_name": "Jane Doe",
+    "segment": "Consumer",
+    "total_sales": 10966.59,
+    "total_profit": 2815.32,
+    "order_count": 7,
+    "rank": 1
+  },
+  {
+    "customer_id": "CUST-0373",
+    "customer_name": "Fiona Garcia",
+    "segment": "Consumer",
+    "total_sales": 10800.4,
+    "total_profit": 3023.25,
+    "order_count": 6,
+    "rank": 2
+  },
+  {
+    "customer_id": "CUST-0053",
+    "customer_name": "Fiona Garcia",
+    "segment": "Corporate",
+    "total_sales": 9920.9,
+    "total_profit": 2104.3,
+    "order_count": 6,
+    "rank": 3
+  },
+  {
+    "customer_id": "CUST-0109",
+    "customer_name": "Bob Johnson",
+    "segment": "Corporate",
+    "total_sales": 9613.66,
+    "total_profit": 2328.84,
+    "order_count": 4,
+    "rank": 4
+  },
+  {
+    "customer_id": "CUST-0396",
+    "customer_name": "Fiona Garcia",
+    "segment": "Consumer",
+    "total_sales": 9150.32,
+    "total_profit": 2517.19,
+    "order_count": 4,
+    "rank": 5
+  },
+  {
+    "customer_id": "CUST-0253",
+    "customer_name": "Edward Davis",
+    "segment": "Consumer",
+    "total_sales": 8659.76,
+    "total_profit": 2958.81,
+    "order_count": 4,
+    "rank": 6
+  },
+  {
+    "customer_id": "CUST-0194",
+    "customer_name": "Hannah Lee",
+    "segment": "Consumer",
+    "total_sales": 8643.03,
+    "total_profit": 2930.81,
+    "order_count": 5,
+    "rank": 7
+  },
+  {
+    "customer_id": "CUST-0391",
+    "customer_name": "John Smith",
+    "segment": "Home Office",
+    "total_sales": 8594.15,
+    "total_profit": 2745.03,
+    "order_count": 4,
+    "rank": 8
+  },
+  {
+    "customer_id": "CUST-0406",
+    "customer_name": "Bob Johnson",
+    "segment": "Consumer",
+    "total_sales": 8549.59,
+    "total_profit": 1545.28,
+    "order_count": 6,
+    "rank": 9
+  },
+  {
+    "customer_id": "CUST-0155",
+    "customer_name": "Jane Doe",
+    "segment": "Consumer",
+    "total_sales": 8433.32,
+    "total_profit": 1418.7,
+    "order_count": 6,
+    "rank": 10
+  }
+]

@@ -9,7 +9,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-BASE_PATH = Path("/home/twarga/data_platform/Data-Platform-Dashboard-dados")
+BASE_PATH = Path.cwd()
 
 
 def get_db_connection():
@@ -115,7 +115,7 @@ def init_schema(conn):
 
 
 def load_customers(conn):
-    silver_path = BASE_PATH / "data-platform" / "data" / "silver" / "superstore.json"
+    silver_path = BASE_PATH / "data" / "silver" / "superstore.json"
     with open(silver_path, "r") as f:
         rows = json.load(f)
     
@@ -147,7 +147,7 @@ def load_customers(conn):
 
 
 def load_products(conn):
-    silver_path = BASE_PATH / "data-platform" / "data" / "silver" / "superstore.json"
+    silver_path = BASE_PATH / "data" / "silver" / "superstore.json"
     with open(silver_path, "r") as f:
         rows = json.load(f)
     
@@ -175,7 +175,7 @@ def load_products(conn):
 
 
 def load_fact_sales(conn):
-    silver_path = BASE_PATH / "data-platform" / "data" / "silver" / "superstore.json"
+    silver_path = BASE_PATH / "data" / "silver" / "superstore.json"
     with open(silver_path, "r") as f:
         rows = json.load(f)
     
@@ -207,7 +207,7 @@ def load_fact_sales(conn):
 
 
 def load_kpis(conn):
-    gold_path = BASE_PATH / "data-platform" / "data" / "gold"
+    gold_path = BASE_PATH / "data" / "gold"
     
     cursor = conn.cursor()
     

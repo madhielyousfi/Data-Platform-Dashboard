@@ -1,0 +1,102 @@
+[
+  {
+    "product_id": "PROD-0018",
+    "product_name": "Tablet",
+    "category": "Technology",
+    "sub_category": "Computers",
+    "total_sales": 23570.43,
+    "total_profit": 5524.84,
+    "total_quantity": 77,
+    "rank": 1
+  },
+  {
+    "product_id": "PROD-0049",
+    "product_name": "Shipping Labels",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "total_sales": 22519.25,
+    "total_profit": 5349.7,
+    "total_quantity": 99,
+    "rank": 2
+  },
+  {
+    "product_id": "PROD-0082",
+    "product_name": "Conference Table",
+    "category": "Furniture",
+    "sub_category": "Tables",
+    "total_sales": 22220.89,
+    "total_profit": 4603.76,
+    "total_quantity": 90,
+    "rank": 3
+  },
+  {
+    "product_id": "PROD-0008",
+    "product_name": "Conference Chair",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "total_sales": 21048.58,
+    "total_profit": 5355.63,
+    "total_quantity": 91,
+    "rank": 4
+  },
+  {
+    "product_id": "PROD-0033",
+    "product_name": "Storage Bin",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "total_sales": 19794.27,
+    "total_profit": 4659.48,
+    "total_quantity": 72,
+    "rank": 5
+  },
+  {
+    "product_id": "PROD-0087",
+    "product_name": "Copier Machine",
+    "category": "Technology",
+    "sub_category": "Copiers",
+    "total_sales": 19205.29,
+    "total_profit": 5801.64,
+    "total_quantity": 78,
+    "rank": 6
+  },
+  {
+    "product_id": "PROD-0041",
+    "product_name": "Product",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "total_sales": 19157.96,
+    "total_profit": 5500.71,
+    "total_quantity": 89,
+    "rank": 7
+  },
+  {
+    "product_id": "PROD-0038",
+    "product_name": "Shipping Labels",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "total_sales": 18916.8,
+    "total_profit": 5339.55,
+    "total_quantity": 64,
+    "rank": 8
+  },
+  {
+    "product_id": "PROD-0090",
+    "product_name": "Product",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "total_sales": 18461.28,
+    "total_profit": 4198.03,
+    "total_quantity": 56,
+    "rank": 9
+  },
+  {
+    "product_id": "PROD-0001",
+    "product_name": "Shipping Labels",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "total_sales": 18455.23,
+    "total_profit": 4808.2,
+    "total_quantity": 78,
+    "rank": 10
+  }
+]

@@ -21,10 +21,8 @@ def run_step(name, cmd):
 
 
 def main():
-    base = Path("/home/twarga/data_platform/Data-Platform-Dashboard-dados/data-platform")
-    base.mkdir(exist_ok=True)
-    
-    workdir = "/home/twarga/data_platform/Data-Platform-Dashboard-dados"
+    base = Path.cwd()
+    workdir = str(Path.cwd())
     
     print(f"[PIPELINE] Starting ETL pipeline at {datetime.now()}")
     print(f"[PIPELINE] Working directory: {workdir}")
@@ -54,10 +52,10 @@ def main():
     print(f"{'='*50}")
     
     # Show summary
-    db_path = Path(workdir) / "data-platform" / "warehouse" / "datawarehouse.db"
+    db_path = Path(workdir) / "warehouse" / "datawarehouse.db"
     if db_path.exists():
         print(f"\n[INFO] SQLite database: {db_path}")
-        print("[INFO] Query with: sqlite3 data-platform/warehouse/datawarehouse.db")
+        print("[INFO] Query with: sqlite3 warehouse/datawarehouse.db")
 
 
 if __name__ == "__main__":
