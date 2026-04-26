@@ -1,0 +1,92 @@
+[
+  {
+    "customer_id": "CUST-0265",
+    "customer_name": "George Martinez",
+    "segment": "Corporate",
+    "total_sales": 16372.81,
+    "total_profit": 4366.27,
+    "order_count": 9,
+    "rank": 1
+  },
+  {
+    "customer_id": "CUST-0059",
+    "customer_name": "George Martinez",
+    "segment": "Corporate",
+    "total_sales": 11610.8,
+    "total_profit": 2437.65,
+    "order_count": 5,
+    "rank": 2
+  },
+  {
+    "customer_id": "CUST-0144",
+    "customer_name": "Edward Davis",
+    "segment": "Consumer",
+    "total_sales": 11292.77,
+    "total_profit": 2267.31,
+    "order_count": 6,
+    "rank": 3
+  },
+  {
+    "customer_id": "CUST-0102",
+    "customer_name": "Hannah Lee",
+    "segment": "Corporate",
+    "total_sales": 10163.4,
+    "total_profit": 1854.13,
+    "order_count": 5,
+    "rank": 4
+  },
+  {
+    "customer_id": "CUST-0424",
+    "customer_name": "Edward Davis",
+    "segment": "Home Office",
+    "total_sales": 10054.74,
+    "total_profit": 2948.29,
+    "order_count": 5,
+    "rank": 5
+  },
+  {
+    "customer_id": "CUST-0154",
+    "customer_name": "Charlie Wilson",
+    "segment": "Consumer",
+    "total_sales": 9558.24,
+    "total_profit": 2475.69,
+    "order_count": 6,
+    "rank": 6
+  },
+  {
+    "customer_id": "CUST-0145",
+    "customer_name": "Hannah Lee",
+    "segment": "Home Office",
+    "total_sales": 9509.44,
+    "total_profit": 3026.01,
+    "order_count": 4,
+    "rank": 7
+  },
+  {
+    "customer_id": "CUST-0277",
+    "customer_name": "Bob Johnson",
+    "segment": "Home Office",
+    "total_sales": 9081.55,
+    "total_profit": 2821.03,
+    "order_count": 5,
+    "rank": 8
+  },
+  {
+    "customer_id": "CUST-0343",
+    "customer_name": "Fiona Garcia",
+    "segment": "Home Office",
+    "total_sales": 9003.36,
+    "total_profit": 1939.0,
+    "order_count": 5,
+    "rank": 9
+  },
+  {
+    "customer_id": "CUST-0162",
+    "customer_name": "George Martinez",
+    "segment": "Corporate",
+    "total_sales": 8793.17,
+    "total_profit": 2575.17,
+    "order_count": 5,
+    "rank": 10
+  }
+]

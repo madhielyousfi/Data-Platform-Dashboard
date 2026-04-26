@@ -1,24 +1,23 @@
 #!/usr/bin/env python3
 """
 Processing script - transforms bronze to silver (clean + normalize).
-Uses Python stdlib only.
 """
 import json
 import sys
 from datetime import datetime
 from pathlib import Path
 
-BASE_PATH = Path.cwd()
+BASE_PATH = Path("/home/dados/Documents/Data Platform/data-platform")
 
 
 def load_bronze(name):
-    bronze_path = BASE_PATH / "data" / "staging" / f"{name}.json"
+    bronze_path = BASE_PATH / "lake" / "bronze" / f"{name}.json"
     with open(bronze_path, "r") as f:
         return json.load(f)
 
 
 def clean_data(rows):
-    print(f"[PROCESS] Cleaning {len(rows)} rows")
+    print(f"[CLEAN] Cleaning {len(rows)} rows")
     
     cleaned = []
     for row in rows:
@@ -26,7 +25,6 @@ def clean_data(rows):
             continue
         
         row["_loaded_at"] = datetime.now().isoformat()
-        row["_source"] = "superstore"
         
         for key in ["Sales", "Quantity", "Discount", "Profit"]:
             if key in row and row[key]:
@@ -37,23 +35,23 @@ def clean_data(rows):
         
         cleaned.append(row)
     
-    print(f"[PROCESS] Cleaned {len(cleaned)} rows")
+    print(f"[CLEAN] Cleaned {len(cleaned)} rows")
     return cleaned
 
 
 def save_silver(rows, name):
-    silver_path = BASE_PATH / "data" / "silver" / f"{name}.json"
+    silver_path = BASE_PATH / "lake" / "silver" / f"{name}.json"
     silver_path.parent.mkdir(parents=True, exist_ok=True)
     
     with open(silver_path, "w") as f:
         json.dump(rows, f, indent=2)
     
-    print(f"[PROCESS] Saved silver: {silver_path}")
+    print(f"[CLEAN] Saved silver: {silver_path}")
     return silver_path
 
 
 def main():
-    print(f"[PROCESS] Starting bronze→silver at {datetime.now()}")
+    print(f"[CLEAN] Starting at {datetime.now()}")
     
     sources = ["superstore"]
     for name in sources:
@@ -62,10 +60,10 @@ def main():
             cleaned = clean_data(rows)
             save_silver(cleaned, name)
         except Exception as e:
-            print(f"[PROCESS] Error processing {name}: {e}")
+            print(f"[CLEAN] Error: {e}")
             sys.exit(1)
     
-    print("[PROCESS] Bronze→Silver complete")
+    print("[CLEAN] Bronze→Silver complete")
 
 
 if __name__ == "__main__":

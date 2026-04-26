@@ -1,0 +1,102 @@
+[
+  {
+    "product_id": "PROD-0030",
+    "product_name": "3-Ring Binder",
+    "category": "Office Supplies",
+    "sub_category": "Binders",
+    "total_sales": 20628.4,
+    "total_profit": 5730.1,
+    "total_quantity": 76,
+    "rank": 1
+  },
+  {
+    "product_id": "PROD-0078",
+    "product_name": "Mouse",
+    "category": "Technology",
+    "sub_category": "Accessories",
+    "total_sales": 20402.59,
+    "total_profit": 4847.55,
+    "total_quantity": 67,
+    "rank": 2
+  },
+  {
+    "product_id": "PROD-0083",
+    "product_name": "Office Phone",
+    "category": "Technology",
+    "sub_category": "Phones",
+    "total_sales": 20393.84,
+    "total_profit": 5085.16,
+    "total_quantity": 94,
+    "rank": 3
+  },
+  {
+    "product_id": "PROD-0059",
+    "product_name": "Tablet",
+    "category": "Technology",
+    "sub_category": "Computers",
+    "total_sales": 19197.98,
+    "total_profit": 4628.32,
+    "total_quantity": 80,
+    "rank": 4
+  },
+  {
+    "product_id": "PROD-0099",
+    "product_name": "Ergonomic Chair",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "total_sales": 19136.74,
+    "total_profit": 4354.31,
+    "total_quantity": 82,
+    "rank": 5
+  },
+  {
+    "product_id": "PROD-0055",
+    "product_name": "Ergonomic Chair",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "total_sales": 19103.77,
+    "total_profit": 5785.21,
+    "total_quantity": 75,
+    "rank": 6
+  },
+  {
+    "product_id": "PROD-0082",
+    "product_name": "Product",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "total_sales": 18741.31,
+    "total_profit": 5358.97,
+    "total_quantity": 71,
+    "rank": 7
+  },
+  {
+    "product_id": "PROD-0039",
+    "product_name": "File Box",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "total_sales": 17755.02,
+    "total_profit": 4750.29,
+    "total_quantity": 71,
+    "rank": 8
+  },
+  {
+    "product_id": "PROD-0077",
+    "product_name": "Storage Bin",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "total_sales": 17446.81,
+    "total_profit": 4569.98,
+    "total_quantity": 70,
+    "rank": 9
+  },
+  {
+    "product_id": "PROD-0007",
+    "product_name": "Executive Chair",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "total_sales": 16977.09,
+    "total_profit": 3857.4,
+    "total_quantity": 82,
+    "rank": 10
+  }
+]

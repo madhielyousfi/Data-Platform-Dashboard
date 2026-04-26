@@ -10,11 +10,11 @@ from datetime import datetime
 from pathlib import Path
 
 
-BASE_PATH = Path.cwd()
+BASE_PATH = Path("/home/dados/Documents/Data Platform/data-platform")
 
 
 def discover_csv_files():
-    raw_path = BASE_PATH / "data" / "raw"
+    raw_path = BASE_PATH / "lake" / "raw"
     files = []
     if raw_path.exists():
         for f in raw_path.glob("*.csv"):
@@ -23,7 +23,7 @@ def discover_csv_files():
 
 
 def csv_to_json(name, filepath):
-    json_path = BASE_PATH / "data" / "staging" / f"{name}.json"
+    json_path = BASE_PATH / "lake" / "bronze" / f"{name}.json"
     json_path.parent.mkdir(parents=True, exist_ok=True)
     
     with open(filepath, "r", newline="") as f_in:

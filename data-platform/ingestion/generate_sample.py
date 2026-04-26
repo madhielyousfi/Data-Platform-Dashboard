@@ -7,7 +7,7 @@ import random
 from datetime import datetime, timedelta
 from pathlib import Path
 
-OUTPUT_PATH = "data/raw/superstore.csv"
+OUTPUT_PATH = "lake/raw/superstore.csv"
 
 CATEGORIES = ["Furniture", "Office Supplies", "Technology"]
 SUB_CATEGORIES = {

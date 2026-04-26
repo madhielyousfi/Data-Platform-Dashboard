@@ -9,11 +9,11 @@ from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 
-BASE_PATH = Path.cwd()
+BASE_PATH = Path("/home/dados/Documents/Data Platform/data-platform")
 
 
 def load_silver(name):
-    silver_path = BASE_PATH / "data" / "silver" / f"{name}.json"
+    silver_path = BASE_PATH / "lake" / "silver" / f"{name}.json"
     with open(silver_path, "r") as f:
         return json.load(f)
 
@@ -126,7 +126,7 @@ def aggregate(rows):
 
 
 def save_gold(kpis):
-    gold_path = BASE_PATH / "data" / "gold"
+    gold_path = BASE_PATH / "lake" / "gold"
     gold_path.mkdir(parents=True, exist_ok=True)
     
     for name, data in kpis.items():
